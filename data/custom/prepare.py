@@ -4,6 +4,7 @@ import argparse
 from typing import Any
 import os
 from pathlib import Path
+from functools import partial
 
 from tqdm import tqdm
 import numpy as np
@@ -38,13 +39,17 @@ def read_args():
     parser.add_argument(
         '--data-type', '-dt', dest='data_type', type=str, required=False, default=None,
         help=(
-            'Type of the dataset to load.'
+            'Type of the dataset to load. '
             'If not provided, the dataset will be loaded as a Hugging Face Dataset.'
         )
     )
     parser.add_argument(
         '--load-from', '-lf', dest='load_from', choices=["hf", "local"],
         help='Load dataset from Hugging Face or local path.'
+    )
+    parser.add_argument(
+        '--column-name', '-cn', dest='column_name', type=str, default='text', choices=['text', 'nonce'],
+        help='Column name in the dataset to process. Default is "text".'
     )
     parser.add_argument(
         '--limit', '-l', dest='data_limit', type=int,
@@ -80,8 +85,8 @@ def load_custom_dataset(data_path: str, data_name: str, data_type: str, load_fro
         raise ValueError("Invalid load_from option.")
 
 
-def encode_process(example) -> dict[str, Any]:
-    ids = ENC.encode_ordinary(example['text'])  # encode_ordinary ignores any special tokens
+def encode_process(example, column_name) -> dict[str, Any]:
+    ids = ENC.encode_ordinary(example[column_name])  # encode_ordinary ignores any special tokens
     ids.append(ENC.eot_token)  # add the end of text token, e.g. 50256 for gpt2 bpe
     # note: I think eot should be prepended not appended... hmm. it's called "eot" though...
     out = {'ids': ids, 'len': len(ids)}
@@ -113,6 +118,7 @@ def main():
     args = read_args()
     if not Path(args.out_path).exists():
         os.makedirs(args.out_path, exist_ok=True)
+    column_name = args.column_name
 
     dataset = load_custom_dataset(
         data_path=args.data_path,
@@ -128,10 +134,11 @@ def main():
     else:
         splitted_dataset = dataset
 
+    map_function = partial(encode_process, column_name=column_name)
     # Tokenize the dataset
     tokenized = splitted_dataset.map(
-        encode_process,
-        remove_columns=['text'],
+        map_function,
+        remove_columns=[column_name],
         desc="tokenizing the splits",
         num_proc=NUM_PROC,
     )
