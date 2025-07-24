@@ -1,2 +1,2 @@
 #!/bin/bash
-uv run python train.py config/train_nonce_100k.py --device=cuda
+uv run python train.py data/train_nonce_100k/config.py --device=cuda
