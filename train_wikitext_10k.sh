@@ -1,2 +1,2 @@
 #!/bin/bash
-uv run python train.py data/train_wikitext_10k/config.py --device=cuda
+uv run python train.py data/wikitext_10k/train_config.py --device=cuda
