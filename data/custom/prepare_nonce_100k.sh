@@ -1,6 +1,5 @@
 #!/bin/bash
-# uv run
-python prepare.py \
+uv ruhn python prepare.py \
     -dp data/input/wikitext_with_nonce_100k  \
     -dn train\
     -cn nonce \
