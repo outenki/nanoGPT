@@ -45,7 +45,7 @@ def load_model(ckpt_path, device) -> GPT:
     model = GPT(gptconf)
     state_dict = checkpoint['model']
     unwanted_prefix = '_orig_mod.'
-    for k in state_dict:
+    for k in list(state_dict.keys()):
         if k.startswith(unwanted_prefix):
             state_dict[k[len(unwanted_prefix):]] = state_dict.pop(k)
     model.load_state_dict(state_dict)
@@ -82,7 +82,7 @@ def score_candidates(prompt, option1, option2, tokenizer, model) -> tuple[float,
 def score_samples(samples, tokenizer, model) -> list[dict]:
     # Score a list of samples with prompts and two options.
     filtered_samples = []
-    for i, sample in enumerate(samples):
+    for sample in samples:
         prompt = sample["prompt"]
         option1 = sample["option1"]
         option2 = sample["option2"]
