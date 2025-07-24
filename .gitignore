@@ -13,5 +13,5 @@ venv/
 data/custom/nonce
 output/
 data/custom/data/
-data/
+data/input
 .python-version
