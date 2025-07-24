@@ -4,6 +4,7 @@ Input: a dataset with sentences and a model.
 Output: a dataset with sentences and the model's predictions.
 """
 
+from typing import Any
 import torch
 import argparse
 import json
@@ -51,12 +52,14 @@ def load_model(ckpt_path, device) -> GPT:
     return model
 
 
-def score_candidate(prompt, continuation, tokenizer, model) -> float:
+def score_candidate(prompt, continuation, tokenizer, model) -> float | Any:
     # Compute log-likelihood of a candidate continuation given a prompt
     input_text = prompt + continuation
     input_ids = tokenizer.encode(input_text, return_tensors="pt")
     prompt_ids = tokenizer.encode(prompt, return_tensors="pt")
-
+    block_size = model.config.block_size
+    if input_ids.size(1) > block_size:
+        return None  # 超过 block_size，跳过
     input_ids = input_ids.to(next(model.parameters()).device)
     prompt_ids = prompt_ids.to(next(model.parameters()).device)
 
@@ -78,14 +81,19 @@ def score_candidates(prompt, option1, option2, tokenizer, model) -> tuple[float,
 
 def score_samples(samples, tokenizer, model) -> list[dict]:
     # Score a list of samples with prompts and two options.
+    filtered_samples = []
     for i, sample in enumerate(samples):
         prompt = sample["prompt"]
         option1 = sample["option1"]
         option2 = sample["option2"]
-        score1, score2 = score_candidates(prompt, option1, option2, tokenizer, model)
-        samples[i]["score1"] = score1
-        samples[i]["score2"] = score2
-    return samples
+        score1 = score_candidate(prompt, option1, tokenizer, model)
+        score2 = score_candidate(prompt, option2, tokenizer, model)
+        if score1 is None or score2 is None:
+            continue  # 跳过超长样本
+        sample["score1"] = score1
+        sample["score2"] = score2
+        filtered_samples.append(sample)
+    return filtered_samples
 
 
 def analyze_results(samples) -> dict:
@@ -150,15 +158,20 @@ def main():
     if not isinstance(eval_samples, list):
         raise ValueError("Evaluation data must be a list of samples.")
 
+    total_count = len(eval_samples)
+    print(f"Total evaluation samples: {total_count}")
+
     # ========= Score samples ========
-    eval_samples = score_samples(eval_samples, tokenizer, model)
-    results = analyze_results(eval_samples)
+    used_samples = score_samples(eval_samples, tokenizer, model)
+    used_count = len(used_samples)
+    print(f"Used evaluation samples (not skipped): {used_count}")
+    results = analyze_results(used_samples)
 
     # ========= Save results ========
     out_file = Path(out_path) / "evaluated_samples.json"
     print(f"Saving evaluation results to {out_file}...")
     with open(out_file, "w") as f:
-        json.dump(eval_samples, f, indent=4)
+        json.dump(used_samples, f, indent=4)
 
     out_file = Path(out_path) / "evaluation_summary.json"
     print(f"Saving summary results to {out_file}...")
