@@ -69,16 +69,6 @@ def score_candidate(prompt, continuation, tokenizer, model) -> float | Any:
     return total_log_prob
 
 
-def score_candidates(prompt, option1, option2, tokenizer, model) -> tuple[float, float]:
-    """
-    Score two candidates given a prompt.
-    Returns the scores for both candidates.
-    """
-    score1 = score_candidate(prompt, option1, tokenizer, model)
-    score2 = score_candidate(prompt, option2, tokenizer, model)
-    return score1, score2
-
-
 def score_samples(samples, tokenizer, model) -> list[dict]:
     # Score a list of samples with prompts and two options.
     filtered_samples = []
@@ -92,6 +82,15 @@ def score_samples(samples, tokenizer, model) -> list[dict]:
             continue  # 跳过超长样本
         sample["score1"] = score1
         sample["score2"] = score2
+
+        if score1 > score2:
+            sample["pred"] = option1
+        else:
+            sample["pred"] = option2
+
+        if sample["pred"] == sample["answer"]:
+            sample["correct"] = True
+
         filtered_samples.append(sample)
     return filtered_samples
 

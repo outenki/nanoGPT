@@ -15,4 +15,8 @@ output/
 data/custom/data/
 data/input
 data/evaluate_data
+data/*/*.json
+data/*/*.csv
+data/*/*.loss
 .python-version
+scripts/
