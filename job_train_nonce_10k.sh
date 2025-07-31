@@ -3,8 +3,8 @@
 #PJM -L "elapse=1:00:00"
 #PJM -L "gpu=1"
 #PJM -L "jobenv=singularity"
-#PJM -e /home/pj25000107/ku50001566/projects/nanoGPT/logs/job_generate_nonce_data.err
-#PJM -o /home/pj25000107/ku50001566/projects/nanoGPT/logs/job_generate_nonce_data.out
+#PJM -e /home/pj25000107/ku50001566/projects/nanoGPT/logs/job_train_nonce_10k.err
+#PJM -o /home/pj25000107/ku50001566/projects/nanoGPT/logs/job_train_nonce_10k.out
 #PJM -N "train_nonce_10k"
 
 module load singularity-ce
