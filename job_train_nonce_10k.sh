@@ -1,7 +1,7 @@
 #!/bin/bash
 #PJM -L "rscgrp=b-inter"
 #PJM -L "elapse=1:00:00"
-#PJM -L "gpu=1"
+#PJM -L "gpu=3"
 #PJM -L "jobenv=singularity"
 #PJM -e /home/pj25000107/ku50001566/projects/nanoGPT/logs/job_generate_nonce_data.err
 #PJM -o /home/pj25000107/ku50001566/projects/nanoGPT/logs/job_generate_nonce_data.out
