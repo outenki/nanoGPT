@@ -20,3 +20,5 @@ data/*/*.csv
 data/*/*.loss
 .python-version
 scripts/
+pre_trained/
+data/openwebtext/nanogpt-openwebtext.safetensors

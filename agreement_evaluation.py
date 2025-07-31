@@ -12,6 +12,8 @@ from pathlib import Path
 import tqdm
 
 from transformers import GPT2Tokenizer
+from safetensors.torch import load_file
+
 from model import GPTConfig, GPT
 
 
@@ -19,7 +21,12 @@ def read_args():
     parser = argparse.ArgumentParser()
     parser.add_argument(
         '--model-path', '-mp', dest='model_path', type=str,
-        help='Model path to load from. (pt)'
+        help='Model path to load from. (pt or safetensors)'
+    )
+    parser.add_argument(
+        '--model-type', '-mt', dest='model_type', type=str,
+        choices=['pt', 'st'],
+        help='pt or st (safetensors) model type'
     )
     parser.add_argument(
         '--val-data', '-vd', dest='data_name', type=str,
@@ -36,7 +43,32 @@ def read_args():
     return parser.parse_args()
 
 
-def load_model(ckpt_path, device) -> GPT:
+def load_nanogpt_openwebtext(model_path: str, device: torch.device, config=None) -> GPT:
+    if not config:
+        config = GPTConfig(
+            n_layer=12,
+            n_head=12,
+            n_embd=768,
+            block_size=1024,
+            vocab_size=50257, # As per standard GPT-2's vocabulary size
+            dropout=0.0
+        )
+
+    model = GPT(config)
+
+    # Load the state dictionary from the .safetensors file
+    state_dict = load_file(model_path, device=device)
+
+    # Load the state dictionary into the model
+    # Use strict=False to ignore the bias keys that are missing in the checkpoint
+    # (this is a common practice when the checkpoint doesn't have biases)
+    model.load_state_dict(state_dict, strict=False)
+
+    # Set the model to evaluation mode
+    return model
+
+
+def load_model_pt(ckpt_path, device) -> GPT:
     """
     Load the model from the checkpoint path.
     """
@@ -120,7 +152,7 @@ def main():
     out_path = args.out_path
     if not ckpt_path or not eval_data_path or not out_path:
         raise ValueError("Please provide model path, evaluation data path, and output path.")
-    if Path(ckpt_path).suffix != '.pt':
+    if Path(ckpt_path).suffix != '.pt' and Path(ckpt_path).suffix != '.safetensors':
         raise ValueError("Model path must be a .pt file.")
     if not Path(out_path).exists():
         Path(out_path).mkdir(parents=True, exist_ok=True)
@@ -135,7 +167,12 @@ def main():
     tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
 
     print(f"Loading model from {ckpt_path}...")
-    model = load_model(ckpt_path, device)
+    if args.model_type == 'st':
+        model = load_nanogpt_openwebtext(ckpt_path, device)
+    elif args.model_type == 'pt':
+        model = load_model_pt(ckpt_path, device)
+    else:
+        raise ValueError("Invalid model type. Use 'pt' for PyTorch or 'st' for Safetensors.")
     model.to(device)
     model.eval()
 
