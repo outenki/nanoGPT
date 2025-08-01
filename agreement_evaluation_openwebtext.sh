@@ -1,7 +1,7 @@
 #!/bin/bash
 model_path="openwebtext"
 echo "========== Evaluating model: $model_path ============="
-python agreement_evaluation.py \
+uv run python agreement_evaluation.py \
     --model-path data/"$model_path"/nanogpt-openwebtext.safetensors \
     --model-type st \
     --val-data data/evaluate_data/agreement_evaluate_data.json \
