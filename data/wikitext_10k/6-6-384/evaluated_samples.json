@@ -8,7 +8,8 @@
         "score1": -18.37116050720215,
         "score2": -9.278109550476074,
         "pred": "submit",
-        "correct": true
+        "correct": true,
+        "difference": 9.093050956726074
     },
     {
         "text": "Butane is the most common alkane that is put under the process of isomerization, as it makes many branched alkanes with high octane numbers.",
@@ -19,7 +20,8 @@
         "score1": -8.083133697509766,
         "score2": -8.135245323181152,
         "pred": "makes",
-        "correct": true
+        "correct": true,
+        "difference": 0.05211162567138672
     },
     {
         "text": "Patron of sailors Apollo functions as the patron and protector of sailors, one of the duties he shares with Poseidon.",
@@ -29,7 +31,8 @@
         "answer": "shares",
         "score1": -9.642677307128906,
         "score2": -18.890087127685547,
-        "pred": "share"
+        "pred": "share",
+        "difference": -9.24740982055664
     },
     {
         "text": "Acknowledging Aristotle as her greatest influence, Rand remarked that in the history of philosophy she could only recommend \"three A's\" Aristotle, Aquinas, and Ayn Rand.",
@@ -40,7 +43,8 @@
         "score1": -19.028575897216797,
         "score2": -18.988985061645508,
         "pred": "recommend",
-        "correct": true
+        "correct": true,
+        "difference": 0.03959083557128906
     },
     {
         "text": "Under their higher valences, radionuclides of elements such as selenium, technetium, uranium, neptunium and plutonium have a higher solubility and are also often present in water as non-retarded anions.",
@@ -51,7 +55,8 @@
         "score1": -9.532049179077148,
         "score2": -9.384405136108398,
         "pred": "have",
-        "correct": true
+        "correct": true,
+        "difference": 0.14764404296875
     },
     {
         "text": "Johnston glanced down at his leg wound, then faced Harris and replied in a weak voice his last words: \"Yes... and I fear seriously.\"",
@@ -62,7 +67,8 @@
         "score1": -9.448939323425293,
         "score2": -18.99863624572754,
         "pred": "fear",
-        "correct": true
+        "correct": true,
+        "difference": 9.549696922302246
     },
     {
         "text": "John Locke's First Treatise of Government John Locke commented: \"Be it then as Sir Robert says, that Anciently, it was usual for Men to sell and Castrate their Children.",
@@ -72,7 +78,8 @@
         "answer": "says",
         "score1": -9.450091361999512,
         "score2": -9.402371406555176,
-        "pred": "say"
+        "pred": "say",
+        "difference": -0.04771995544433594
     },
     {
         "text": "John Locke's First Treatise of Government John Locke commented: \"Be it then as Sir Robert says, that Anciently, it was usual for Men to sell and Castrate their Children.",
@@ -83,7 +90,8 @@
         "score1": -18.172222137451172,
         "score2": -9.108816146850586,
         "pred": "sell",
-        "correct": true
+        "correct": true,
+        "difference": 9.063405990600586
     },
     {
         "text": "Aristotle uses the term 'memory' for the actual retaining of an experience in the impression that can develop from sensation, and for the intellectual anxiety that comes with the impression because it is formed at a particular time and processing specific contents.",
@@ -94,7 +102,8 @@
         "score1": -18.841405868530273,
         "score2": -28.20113182067871,
         "pred": "develop",
-        "correct": true
+        "correct": true,
+        "difference": 9.359725952148438
     },
     {
         "text": "Aristotle uses the term 'memory' for the actual retaining of an experience in the impression that can develop from sensation, and for the intellectual anxiety that comes with the impression because it is formed at a particular time and processing specific contents.",
@@ -105,7 +114,8 @@
         "score1": -9.226523399353027,
         "score2": -9.169742584228516,
         "pred": "comes",
-        "correct": true
+        "correct": true,
+        "difference": 0.05678081512451172
     },
     {
         "text": "If the head of government is not satisfied with the council, he may request that the co-princes dissolve the council and order new elections.",
@@ -116,7 +126,8 @@
         "score1": -8.98094654083252,
         "score2": -18.15185546875,
         "pred": "request",
-        "correct": true
+        "correct": true,
+        "difference": 9.17090892791748
     },
     {
         "text": "If the head of government is not satisfied with the council, he may request that the co-princes dissolve the council and order new elections.",
@@ -126,7 +137,8 @@
         "answer": "dissolve",
         "score1": -27.30219554901123,
         "score2": -26.940479278564453,
-        "pred": "dissolves"
+        "pred": "dissolves",
+        "difference": -0.36171627044677734
     },
     {
         "text": "Theoretical production ecology, relating to crop production modeling Traditional agricultural systems, sometimes termed subsistence agriculture, which feed most of the poorest people in the world.",
@@ -137,7 +149,8 @@
         "score1": -9.911396980285645,
         "score2": -19.734256744384766,
         "pred": "feed",
-        "correct": true
+        "correct": true,
+        "difference": 9.822859764099121
     },
     {
         "text": "If a party is dissatisfied with the finding of such a tribunal, one generally has the power to request a trial \"de novo\" by a court of record.",
@@ -147,7 +160,8 @@
         "answer": "has",
         "score1": -9.447619438171387,
         "score2": -9.02380084991455,
-        "pred": "have"
+        "pred": "have",
+        "difference": -0.42381858825683594
     },
     {
         "text": "Feeding The aardvark is nocturnal and is a solitary creature that feeds almost exclusively on ants and termites (myrmecophagy); the only fruit eaten by aardvarks is the aardvark cucumber.",
@@ -157,7 +171,8 @@
         "answer": "feeds",
         "score1": -18.06962776184082,
         "score2": -9.039113998413086,
-        "pred": "feed"
+        "pred": "feed",
+        "difference": -9.030513763427734
     },
     {
         "text": "He took an approach different from those before him, using this analogy not in the manner of soul-purification but in the manner that humans must have certain balances of minerals in their bodies, and that certain illnesses of the body had chemical remedies that could cure them.",
@@ -168,7 +183,8 @@
         "score1": -8.734996795654297,
         "score2": -8.823897361755371,
         "pred": "have",
-        "correct": true
+        "correct": true,
+        "difference": 0.08890056610107422
     },
     {
         "text": "He took an approach different from those before him, using this analogy not in the manner of soul-purification but in the manner that humans must have certain balances of minerals in their bodies, and that certain illnesses of the body had chemical remedies that could cure them.",
@@ -179,7 +195,8 @@
         "score1": -17.490123748779297,
         "score2": -17.504926681518555,
         "pred": "cure",
-        "correct": true
+        "correct": true,
+        "difference": 0.014802932739257812
     },
     {
         "text": "One of the very few properties of the alkali metals that does not display a very smooth trend is their reduction potentials: lithium's value is anomalous, being more negative than the others.",
@@ -190,7 +207,8 @@
         "score1": -18.1347599029541,
         "score2": -8.71058177947998,
         "pred": "display",
-        "correct": true
+        "correct": true,
+        "difference": 9.424178123474121
     },
     {
         "text": "The convenient location of Azerbaijan on the crossroad of major international traffic arteries, such as the Silk Road and the south north corridor, highlights the strategic importance of the transportation sector for the country's economy.",
@@ -200,7 +218,8 @@
         "answer": "highlights",
         "score1": -19.415218353271484,
         "score2": -19.06711196899414,
-        "pred": "highlight"
+        "pred": "highlight",
+        "difference": -0.34810638427734375
     },
     {
         "text": "Although the world manifests itself to our experience as a multiplicity of objects (the \"objectivation\" of the will), each element of this multiplicity has the same blind essence striving towards existence and life.",
@@ -210,7 +229,8 @@
         "answer": "has",
         "score1": -9.708311080932617,
         "score2": -9.638975143432617,
-        "pred": "have"
+        "pred": "have",
+        "difference": -0.0693359375
     },
     {
         "text": "According to mother tongue percentage statistics by the Andorran Government released in 2018 the principality has the following: Religion",
@@ -220,7 +240,8 @@
         "answer": "has",
         "score1": -9.724211692810059,
         "score2": -9.936551094055176,
-        "pred": "have"
+        "pred": "have",
+        "difference": -0.2123394012451172
     },
     {
         "text": "It also examines how the understanding of cognition, emotion, motivation, and similar psychological processes inform or constrain our models of cultural and social processes.",
@@ -231,7 +252,8 @@
         "score1": -19.330482482910156,
         "score2": -19.134214401245117,
         "pred": "inform",
-        "correct": true
+        "correct": true,
+        "difference": 0.19626808166503906
     },
     {
         "text": "So, he left Springfield for his father's home to study until he \"could give any proposition in the six books of Euclid [here, referencing Euclid's Elements] at sight.\"",
@@ -242,7 +264,8 @@
         "score1": -18.754384994506836,
         "score2": -9.57795238494873,
         "pred": "give",
-        "correct": true
+        "correct": true,
+        "difference": 9.176432609558105
     },
     {
         "text": "This activity decreases somewhat further north in the state, but even the far north of the state reports thunder on about 60 days per year.",
@@ -252,7 +275,8 @@
         "answer": "reports",
         "score1": -9.097365379333496,
         "score2": -8.908230781555176,
-        "pred": "report"
+        "pred": "report",
+        "difference": -0.1891345977783203
     },
     {
         "text": "Major national or international societies generally publish their own journal or newsletter, and some hold large multi-day meetings akin to a scientific conference or convention.",
@@ -263,7 +287,8 @@
         "score1": -9.089634895324707,
         "score2": -18.06650733947754,
         "pred": "hold",
-        "correct": true
+        "correct": true,
+        "difference": 8.976872444152832
     },
     {
         "text": "The mystic chords of memory, stretching from every battlefield, and patriot grave, to every living heart and hearthstone, all over this broad land, will yet swell the chorus of the Union, when again touched, as surely they will be, by the better angels of our nature.\"",
@@ -274,7 +299,8 @@
         "score1": -18.673654556274414,
         "score2": -27.992477416992188,
         "pred": "swell",
-        "correct": true
+        "correct": true,
+        "difference": 9.318822860717773
     },
     {
         "text": "It would be two years before the Maryland General Assembly became satisfied that the various states would follow through, and voted to ratify.",
@@ -285,7 +311,8 @@
         "score1": -16.659162521362305,
         "score2": -8.309221267700195,
         "pred": "follow",
-        "correct": true
+        "correct": true,
+        "difference": 8.34994125366211
     },
     {
         "text": "It may also be a signal of interactive and cooperative intentions since those not interacting further in the future gain nothing from the costly signaling.",
@@ -296,7 +323,8 @@
         "score1": -17.851730346679688,
         "score2": -9.116598129272461,
         "pred": "gain",
-        "correct": true
+        "correct": true,
+        "difference": 8.735132217407227
     },
     {
         "text": "The result of an appeal can be: Affirmed: Where the reviewing court basically agrees with the result of the lower courts' ruling(s).",
@@ -306,7 +334,8 @@
         "answer": "agrees",
         "score1": -10.313828468322754,
         "score2": -20.185832977294922,
-        "pred": "agree"
+        "pred": "agree",
+        "difference": -9.872004508972168
     },
     {
         "text": "Factors that account for the country's vulnerability to climate change risks include geological and hydrological hazards, including earthquakes, flooding, fires, landslides, torrential rains, river and coastal erosion.",
@@ -316,7 +345,8 @@
         "answer": "include",
         "score1": -9.922019004821777,
         "score2": -10.217245101928711,
-        "pred": "includes"
+        "pred": "includes",
+        "difference": -0.2952260971069336
     },
     {
         "text": "Neural connections and the immune system are a pathway that may allow diseases originated in the intestine to spread to the brain.",
@@ -326,7 +356,8 @@
         "answer": "allow",
         "score1": -9.294839859008789,
         "score2": -9.109359741210938,
-        "pred": "allows"
+        "pred": "allows",
+        "difference": -0.18548011779785156
     },
     {
         "text": "Neural connections and the immune system are a pathway that may allow diseases originated in the intestine to spread to the brain.",
@@ -337,7 +368,8 @@
         "score1": -9.39384651184082,
         "score2": -18.577308654785156,
         "pred": "spread",
-        "correct": true
+        "correct": true,
+        "difference": 9.183462142944336
     },
     {
         "text": "After revealing a letter she wrote to the Los Angeles Times disclaiming the label of Huxley as a \"poor fellow who can hardly see\" by Walter C. Alvarez, she tempered her statement: \"Although I feel it was an injustice to treat Aldous as though he were blind, it is true there were many indications of his impaired vision.",
@@ -348,7 +380,8 @@
         "score1": -17.69635772705078,
         "score2": -9.048246383666992,
         "pred": "see",
-        "correct": true
+        "correct": true,
+        "difference": 8.648111343383789
     },
     {
         "text": "After revealing a letter she wrote to the Los Angeles Times disclaiming the label of Huxley as a \"poor fellow who can hardly see\" by Walter C. Alvarez, she tempered her statement: \"Although I feel it was an injustice to treat Aldous as though he were blind, it is true there were many indications of his impaired vision.",
@@ -359,7 +392,8 @@
         "score1": -18.678367614746094,
         "score2": -18.771461486816406,
         "pred": "feel",
-        "correct": true
+        "correct": true,
+        "difference": 0.0930938720703125
     },
     {
         "text": "Reaction with oxygen (if present in sufficient quantity to satisfy the reaction stoichiometry) leads to combustion without any smoke, producing carbon dioxide and water.",
@@ -369,7 +403,8 @@
         "answer": "leads",
         "score1": -18.70036506652832,
         "score2": -9.701937675476074,
-        "pred": "lead"
+        "pred": "lead",
+        "difference": -8.998427391052246
     },
     {
         "text": "The pigs' rise to preeminence mirrors the rise of a Stalinist bureaucracy in the USSR, just as Napoleon's emergence as the farm's sole leader reflects Stalin's emergence.",
@@ -379,7 +414,8 @@
         "answer": "reflects",
         "score1": -10.25741195678711,
         "score2": -20.45973014831543,
-        "pred": "reflect"
+        "pred": "reflect",
+        "difference": -10.20231819152832
     },
     {
         "text": "Yet the will as thing in-itself is free, as it exists beyond the realm of representation and thus is not constrained by any of the forms of necessity that are part of the principle of sufficient reason.",
@@ -389,7 +425,8 @@
         "answer": "exists",
         "score1": -8.56910228729248,
         "score2": -17.072006225585938,
-        "pred": "exist"
+        "pred": "exist",
+        "difference": -8.502903938293457
     },
     {
         "text": "Limited data makes the state of redfishes and deep-water species difficult to assess but most likely they remain vulnerable to overfishing.",
@@ -400,7 +437,8 @@
         "score1": -17.840959548950195,
         "score2": -17.929288864135742,
         "pred": "remain",
-        "correct": true
+        "correct": true,
+        "difference": 0.08832931518554688
     },
     {
         "text": "Evidence for this hypothesis includes testimonies by former KGB agents who claim that Viktor Chebrikov gave the order to eradicate Tarkovsky to curtail what the Soviet government and the KGB saw as anti-Soviet propaganda by Tarkovsky.",
@@ -411,7 +449,8 @@
         "score1": -32.06588172912598,
         "score2": -21.892744064331055,
         "pred": "claim",
-        "correct": true
+        "correct": true,
+        "difference": 10.173137664794922
     },
     {
         "text": "Einstein was aware that getting the frequency of the actual oscillations would be difficult, but he nevertheless proposed this theory because it was a particularly clear demonstration that quantum mechanics could solve the specific heat problem in classical mechanics.",
@@ -421,7 +460,8 @@
         "answer": "solve",
         "score1": -17.860706329345703,
         "score2": -17.765640258789062,
-        "pred": "solves"
+        "pred": "solves",
+        "difference": -0.09506607055664062
     },
     {
         "text": "Resembling a human from the shoulders up, Maria Bot is a virtual being android that has complex facial expressions and head movement and engages in conversation about a variety of subjects.",
@@ -431,7 +471,8 @@
         "answer": "has",
         "score1": -8.896092414855957,
         "score2": -9.193582534790039,
-        "pred": "have"
+        "pred": "have",
+        "difference": -0.29749011993408203
     },
     {
         "text": "Apollo represents a 'role' culture where order, reason, and bureaucracy prevail.",
@@ -442,7 +483,8 @@
         "score1": -20.42960548400879,
         "score2": -20.967960357666016,
         "pred": "prevail",
-        "correct": true
+        "correct": true,
+        "difference": 0.5383548736572266
     },
     {
         "text": "With growing Regional Tourism with domination of Chinese visitors, MasterCard has released Global Destination Cities Index 2013 with 10 of 20 are dominated by Asia and Pacific Region Cities and also for the first time a city of a country from Asia (Bangkok) set in the top-ranked with 15.98 international visitors.",
@@ -453,7 +495,8 @@
         "score1": -9.44799518585205,
         "score2": -9.407512664794922,
         "pred": "set",
-        "correct": true
+        "correct": true,
+        "difference": 0.040482521057128906
     },
     {
         "text": "It may have been preceded by an optional \"pre-answer\" motion to dismiss or demurrer; if such a motion is unsuccessful, the defendant must file an answer to the complaint or risk an adverse default judgment.",
@@ -464,7 +507,8 @@
         "score1": -9.303421974182129,
         "score2": -9.215374946594238,
         "pred": "file",
-        "correct": true
+        "correct": true,
+        "difference": 0.08804702758789062
     },
     {
         "text": "Beyond the specific factions of anarchist movements which constitute political anarchism lies philosophical anarchism which holds that the state lacks moral legitimacy, without necessarily accepting the imperative of revolution to eliminate it.",
@@ -474,7 +518,8 @@
         "answer": "holds",
         "score1": -10.692739486694336,
         "score2": -21.086746215820312,
-        "pred": "hold"
+        "pred": "hold",
+        "difference": -10.394006729125977
     },
     {
         "text": "Beyond the specific factions of anarchist movements which constitute political anarchism lies philosophical anarchism which holds that the state lacks moral legitimacy, without necessarily accepting the imperative of revolution to eliminate it.",
@@ -484,7 +529,8 @@
         "answer": "lacks",
         "score1": -19.574886322021484,
         "score2": -19.55950164794922,
-        "pred": "lack"
+        "pred": "lack",
+        "difference": -0.015384674072265625
     },
     {
         "text": "The cell membrane potential created by potassium and sodium ions allows the cell to generate an action potential a \"spike\" of electrical discharge.",
@@ -495,7 +541,8 @@
         "score1": -10.042886734008789,
         "score2": -9.857266426086426,
         "pred": "allows",
-        "correct": true
+        "correct": true,
+        "difference": 0.18562030792236328
     },
     {
         "text": "The cell membrane potential created by potassium and sodium ions allows the cell to generate an action potential a \"spike\" of electrical discharge.",
@@ -506,7 +553,8 @@
         "score1": -18.807544708251953,
         "score2": -18.972606658935547,
         "pred": "generate",
-        "correct": true
+        "correct": true,
+        "difference": 0.16506195068359375
     },
     {
         "text": "The enormous differences between the regions pose a serious structural problem for the Angolan economy, illustrated by the fact that about one third of economic activities are concentrated in Luanda and neighbouring Bengo province, while several areas of the interior suffer economic stagnation and even regression.",
@@ -517,7 +565,8 @@
         "score1": -27.784031867980957,
         "score2": -18.671110153198242,
         "pred": "suffer",
-        "correct": true
+        "correct": true,
+        "difference": 9.112921714782715
     },
     {
         "text": "Spectrum Autism has long been thought to cover a wide spectrum, ranging from individuals with severe impairments who may be silent, developmentally disabled, and prone to frequent repetitive behavior such as hand flapping and rocking to high functioning individuals who may have active but distinctly odd social approaches, narrowly focused interests, and verbose, pedantic communication.",
@@ -528,7 +577,8 @@
         "score1": -9.855897903442383,
         "score2": -9.7852783203125,
         "pred": "have",
-        "correct": true
+        "correct": true,
+        "difference": 0.07061958312988281
     },
     {
         "text": "To the east, the boundaries of the ocean proper are Europe: the Strait of Gibraltar (where it connects with the Mediterranean Sea one of its marginal seas and, in turn, the Black Sea, both of which also touch upon Asia) and Africa.",
@@ -538,7 +588,8 @@
         "answer": "connects",
         "score1": -19.363582611083984,
         "score2": -9.779878616333008,
-        "pred": "connect"
+        "pred": "connect",
+        "difference": -9.583703994750977
     },
     {
         "text": "To the east, the boundaries of the ocean proper are Europe: the Strait of Gibraltar (where it connects with the Mediterranean Sea one of its marginal seas and, in turn, the Black Sea, both of which also touch upon Asia) and Africa.",
@@ -549,7 +600,8 @@
         "score1": -27.27825164794922,
         "score2": -36.221439361572266,
         "pred": "touch",
-        "correct": true
+        "correct": true,
+        "difference": 8.943187713623047
     },
     {
         "text": "Their forked tongues are used as organs of taste and smell and some species have sensory pits on their heads enabling them to locate warm-blooded prey.",
@@ -560,7 +612,8 @@
         "score1": -10.079129219055176,
         "score2": -10.434865951538086,
         "pred": "have",
-        "correct": true
+        "correct": true,
+        "difference": 0.35573673248291016
     },
     {
         "text": "While humans and other organisms generally place less value on future costs/benefits as compared to those in the present, some have shorter time horizons than others and these people tend to be less cooperative.",
@@ -571,7 +624,8 @@
         "score1": -8.95451831817627,
         "score2": -8.806872367858887,
         "pred": "have",
-        "correct": true
+        "correct": true,
+        "difference": 0.1476459503173828
     },
     {
         "text": "While humans and other organisms generally place less value on future costs/benefits as compared to those in the present, some have shorter time horizons than others and these people tend to be less cooperative.",
@@ -582,7 +636,8 @@
         "score1": -17.712909698486328,
         "score2": -17.8468074798584,
         "pred": "tend",
-        "correct": true
+        "correct": true,
+        "difference": 0.1338977813720703
     },
     {
         "text": "Some common characteristics are listed: Algae that form aggregations that have been described as turfs include diatoms, cyanobacteria, chlorophytes, phaeophytes and rhodophytes.",
@@ -592,7 +647,8 @@
         "answer": "include",
         "score1": -8.70836353302002,
         "score2": -8.598573684692383,
-        "pred": "includes"
+        "pred": "includes",
+        "difference": -0.10978984832763672
     },
     {
         "text": "Rifting in the central segment, however, coincided with the Cretaceous Normal Superchron (also known as the Cretaceous quiet period), a 40 Ma period without magnetic reversals, which makes it difficult to date sea-floor spreading in this segment.",
@@ -603,7 +659,8 @@
         "score1": -9.336718559265137,
         "score2": -9.456603050231934,
         "pred": "makes",
-        "correct": true
+        "correct": true,
+        "difference": 0.11988449096679688
     },
     {
         "text": "The metal reacts with the water first, breaking the hydrogen bonds in the water and producing hydrogen gas; this takes place faster for the more reactive heavier alkali metals.",
@@ -613,7 +670,8 @@
         "answer": "takes",
         "score1": -17.844547271728516,
         "score2": -17.955659866333008,
-        "pred": "take"
+        "pred": "take",
+        "difference": -0.11111259460449219
     },
     {
         "text": "A language may spell some words with unpronounced letters that exist for historical or other reasons.",
@@ -624,7 +682,8 @@
         "score1": -18.74091911315918,
         "score2": -9.33197021484375,
         "pred": "exist",
-        "correct": true
+        "correct": true,
+        "difference": 9.40894889831543
     },
     {
         "text": "Media Media anthropology (also known as the anthropology of media or mass media) emphasizes ethnographic studies as a means of understanding producers, audiences, and other cultural and social aspects of mass media.",
@@ -634,7 +693,8 @@
         "answer": "emphasizes",
         "score1": -26.74299716949463,
         "score2": -27.106441497802734,
-        "pred": "emphasize"
+        "pred": "emphasize",
+        "difference": -0.36344432830810547
     },
     {
         "text": "These are not the only phosphides and arsenides of the alkali metals: for example, potassium has nine different known phosphides, with formulae K3P, K4P3, K5P4, KP, K4P6, K3P7, K3P11, KP10.3, and KP15.",
@@ -644,7 +704,8 @@
         "answer": "has",
         "score1": -9.090266227722168,
         "score2": -9.285591125488281,
-        "pred": "have"
+        "pred": "have",
+        "difference": -0.19532489776611328
     },
     {
         "text": "\"As he [Zeus] cut them one after another, he bade Apollo give the face and the half of the neck a turn...",
@@ -655,7 +716,8 @@
         "score1": -23.145039081573486,
         "score2": -23.43105983734131,
         "pred": "give",
-        "correct": true
+        "correct": true,
+        "difference": 0.28602075576782227
     },
     {
         "text": "ANSI also designates specific standards as American National Standards, or ANS, when the Institute determines that the standards were developed in an environment that is equitable, accessible and responsive to the requirements of various stakeholders.",
@@ -666,7 +728,8 @@
         "score1": -26.11655616760254,
         "score2": -25.506980895996094,
         "pred": "determines",
-        "correct": true
+        "correct": true,
+        "difference": 0.6095752716064453
     },
     {
         "text": "Nevertheless, it is estimated that in up to 20% of amphibian species, one or both adults play some role in the care of the young.",
@@ -677,7 +740,8 @@
         "score1": -8.992612838745117,
         "score2": -8.64292049407959,
         "pred": "play",
-        "correct": true
+        "correct": true,
+        "difference": 0.34969234466552734
     },
     {
         "text": "The Roman form is used in most printed material; it consists of a small loop with an arc over it (\"a\").",
@@ -687,7 +751,8 @@
         "answer": "consists",
         "score1": -17.117660522460938,
         "score2": -16.726234436035156,
-        "pred": "consist"
+        "pred": "consist",
+        "difference": -0.39142608642578125
     },
     {
         "text": "Comparisons can also look at tests of trend, such as linear and quadratic relationships, when the independent variable involves ordered levels.",
@@ -698,7 +763,8 @@
         "score1": -19.421157836914062,
         "score2": -19.220422744750977,
         "pred": "involves",
-        "correct": true
+        "correct": true,
+        "difference": 0.20073509216308594
     },
     {
         "text": "This type of assistive technology helps people with hearing loss participate more fully in their hearing communities by allowing them to hear more clearly.",
@@ -709,7 +775,8 @@
         "score1": -18.411165237426758,
         "score2": -18.254833221435547,
         "pred": "participate",
-        "correct": true
+        "correct": true,
+        "difference": 0.15633201599121094
     },
     {
         "text": "This type of assistive technology helps people with hearing loss participate more fully in their hearing communities by allowing them to hear more clearly.",
@@ -720,7 +787,8 @@
         "score1": -17.871667861938477,
         "score2": -18.08983039855957,
         "pred": "hear",
-        "correct": true
+        "correct": true,
+        "difference": 0.21816253662109375
     },
     {
         "text": "As with We the Living, Rand's later success allowed her to get a revised version published in 1946, which has sold over 3.5 million copies.",
@@ -731,7 +799,8 @@
         "score1": -9.074687004089355,
         "score2": -0.0,
         "pred": "get",
-        "correct": true
+        "correct": true,
+        "difference": 9.074687004089355
     },
     {
         "text": "Hobbes rejected one of the most famous theses of Aristotle's politics, namely that human beings are naturally suited to life in a polis and do not fully realize their natures until they exercise the role of citizen.",
@@ -742,7 +811,8 @@
         "score1": -18.775753021240234,
         "score2": -27.923126220703125,
         "pred": "exercise",
-        "correct": true
+        "correct": true,
+        "difference": 9.14737319946289
     },
     {
         "text": "Unlike ganoid scales, which are found in non-teleost actinopterygians, new scales are added in concentric layers as the fish grows.",
@@ -752,7 +822,8 @@
         "answer": "grows",
         "score1": -18.13612937927246,
         "score2": -9.092453002929688,
-        "pred": "grow"
+        "pred": "grow",
+        "difference": -9.043676376342773
     },
     {
         "text": "A U.S. State Department report on the matter mentions detention of members of certain Muslim and Christian groups, and many groups have difficulty registering with the SCWRA.",
@@ -763,7 +834,8 @@
         "score1": -8.72065544128418,
         "score2": -8.562305450439453,
         "pred": "have",
-        "correct": true
+        "correct": true,
+        "difference": 0.15834999084472656
     },
     {
         "text": "Since impressions are all that are left and not the exact stimuli, dreams do not resemble the actual waking experience.",
@@ -774,7 +846,8 @@
         "score1": -26.386828422546387,
         "score2": -17.84117889404297,
         "pred": "resemble",
-        "correct": true
+        "correct": true,
+        "difference": 8.545649528503418
     },
     {
         "text": "Art is the practical consequence of this brief aesthetic contemplation, since it attempts to depict the essence/pure Ideas of the world.",
@@ -784,7 +857,8 @@
         "answer": "attempts",
         "score1": -19.469697952270508,
         "score2": -28.99149799346924,
-        "pred": "attempt"
+        "pred": "attempt",
+        "difference": -9.52180004119873
     },
     {
         "text": "a generally-accepted but unofficial term for a paying non-crew passenger who flies a private non-NASA or military vehicles above is a space tourist (as of 2020, nobody has yet qualified for this status)",
@@ -795,7 +869,8 @@
         "score1": -9.429697036743164,
         "score2": -9.417830467224121,
         "pred": "flies",
-        "correct": true
+        "correct": true,
+        "difference": 0.011866569519042969
     },
     {
         "text": "In the few fragmentary poems of the Epic Cycle which describe the hero's death (i.e. the Cypria, the Little Iliad by Lesches of Pyrrha, the Aithiopis and Iliou persis by Arctinus of Miletus), there is no trace of any reference to his general invulnerability or his famous weakness at the heel.",
@@ -806,7 +881,8 @@
         "score1": -19.442399978637695,
         "score2": -19.2106876373291,
         "pred": "describe",
-        "correct": true
+        "correct": true,
+        "difference": 0.23171234130859375
     },
     {
         "text": "Weapons Weapons training in aikido traditionally includes the short staff () (these techniques closely resemble the use of the bayonet, or Jkend), the wooden sword (), and the knife ().",
@@ -817,7 +893,8 @@
         "score1": -19.25145721435547,
         "score2": -28.398642539978027,
         "pred": "resemble",
-        "correct": true
+        "correct": true,
+        "difference": 9.147185325622559
     },
     {
         "text": "Brig. Gen. Lloyd Tilghman surrendered the 94 remaining officers and men of his approximately 3,000-man force which had not been sent to Fort Donelson before U.S. Grant's force could even take up their positions.",
@@ -828,7 +905,8 @@
         "score1": -8.942675590515137,
         "score2": -8.918655395507812,
         "pred": "take",
-        "correct": true
+        "correct": true,
+        "difference": 0.02402019500732422
     },
     {
         "text": "The appellate court reviews issues of law de novo (anew, no deference) and may reverse or modify the lower court's decision if the appellate court believes the lower court misapplied the facts or the law.",
@@ -838,7 +916,8 @@
         "answer": "believes",
         "score1": -18.515356063842773,
         "score2": -18.402433395385742,
-        "pred": "believe"
+        "pred": "believe",
+        "difference": -0.11292266845703125
     },
     {
         "text": "However, almost half the population has to be considered poor, with dramatic differences between the countryside and the cities, where slightly more than 50% of the people reside.",
@@ -849,7 +928,8 @@
         "score1": -16.65416717529297,
         "score2": -16.533008575439453,
         "pred": "reside",
-        "correct": true
+        "correct": true,
+        "difference": 0.12115859985351562
     },
     {
         "text": "Anarchists such as Leo Tolstoy and Herbert Read stated that the border between the artist and the non-artist, what separates art from a daily act, is a construct produced by the alienation caused by capitalism and it prevents humans from living a joyful life.",
@@ -859,7 +939,8 @@
         "answer": "separates",
         "score1": -17.979373931884766,
         "score2": -18.020475387573242,
-        "pred": "separate"
+        "pred": "separate",
+        "difference": -0.04110145568847656
     },
     {
         "text": "Anarchists such as Leo Tolstoy and Herbert Read stated that the border between the artist and the non-artist, what separates art from a daily act, is a construct produced by the alienation caused by capitalism and it prevents humans from living a joyful life.",
@@ -869,7 +950,8 @@
         "answer": "prevents",
         "score1": -18.456239700317383,
         "score2": -18.107444763183594,
-        "pred": "prevent"
+        "pred": "prevent",
+        "difference": -0.34879493713378906
     },
     {
         "text": "As of 2021 in the United States, astronaut status is conferred on a person depending on the authorizing agency: one who flies in a vehicle above for NASA or the military is considered an astronaut (with no qualifier)",
@@ -880,7 +962,8 @@
         "score1": -9.164450645446777,
         "score2": -9.133946418762207,
         "pred": "flies",
-        "correct": true
+        "correct": true,
+        "difference": 0.030504226684570312
     },
     {
         "text": "One film was disqualified after winning the award, and had the winner return the Oscar:",
@@ -891,7 +974,8 @@
         "score1": -17.978727340698242,
         "score2": -8.990630149841309,
         "pred": "return",
-        "correct": true
+        "correct": true,
+        "difference": 8.988097190856934
     },
     {
         "text": "Increased nuclei concentrations lead to increased cloud droplet number concentrations, which in turn leads to increased cloud albedo, increased light scattering and radiative cooling (first indirect effect), but also leads to reduced precipitation efficiency and increased lifetime of the cloud (second indirect effect).",
@@ -901,7 +985,8 @@
         "answer": "leads",
         "score1": -18.646944046020508,
         "score2": -9.64736270904541,
-        "pred": "lead"
+        "pred": "lead",
+        "difference": -8.999581336975098
     },
     {
         "text": "Beyond improving their existing association, the records of the Second Continental Congress show that the need for a declaration of independence was intimately linked with the demands of international relations.",
@@ -911,7 +996,8 @@
         "answer": "show",
         "score1": -10.170374870300293,
         "score2": -10.413086891174316,
-        "pred": "shows"
+        "pred": "shows",
+        "difference": -0.24271202087402344
     },
     {
         "text": "Straw is useful in binding the brick together and allowing the brick to dry evenly, thereby preventing cracking due to uneven shrinkage rates through the brick.",
@@ -922,7 +1008,8 @@
         "score1": -9.471487998962402,
         "score2": -18.598777770996094,
         "pred": "dry",
-        "correct": true
+        "correct": true,
+        "difference": 9.127289772033691
     },
     {
         "text": "Einstein and Szilrd, along with other refugees such as Edward Teller and Eugene Wigner, \"regarded it as their responsibility to alert Americans to the possibility that German scientists might win the race to build an atomic bomb, and to warn that Hitler would be more than willing to resort to such a weapon.\"",
@@ -933,7 +1020,8 @@
         "score1": -17.703577041625977,
         "score2": -9.015241622924805,
         "pred": "win",
-        "correct": true
+        "correct": true,
+        "difference": 8.688335418701172
     },
     {
         "text": "Some jurisdictions have specialized appellate courts, such as the Texas Court of Criminal Appeals, which only hears appeals raised in criminal cases, and the U.S. Court of Appeals for the Federal Circuit, which has general jurisdiction but derives most of its caseload from patent cases, on one hand, and appeals from the Court of Federal Claims on the other.",
@@ -943,7 +1031,8 @@
         "answer": "hears",
         "score1": -17.56705665588379,
         "score2": -17.665729522705078,
-        "pred": "hear"
+        "pred": "hear",
+        "difference": -0.09867286682128906
     },
     {
         "text": "Some jurisdictions have specialized appellate courts, such as the Texas Court of Criminal Appeals, which only hears appeals raised in criminal cases, and the U.S. Court of Appeals for the Federal Circuit, which has general jurisdiction but derives most of its caseload from patent cases, on one hand, and appeals from the Court of Federal Claims on the other.",
@@ -953,7 +1042,8 @@
         "answer": "has",
         "score1": -9.399272918701172,
         "score2": -9.464607238769531,
-        "pred": "have"
+        "pred": "have",
+        "difference": -0.06533432006835938
     },
     {
         "text": "In modern terminology, an acid is implicitly a Brnsted acid and not a Lewis acid, since chemists almost always refer to a Lewis acid explicitly as a Lewis acid.",
@@ -964,7 +1054,8 @@
         "score1": -17.340085983276367,
         "score2": -17.564712524414062,
         "pred": "refer",
-        "correct": true
+        "correct": true,
+        "difference": 0.2246265411376953
     },
     {
         "text": "It is distinguished from judicial review, which refers to the court's overriding constitutional or statutory right to determine if a legislative act or administrative decision is defective for jurisdictional or other reasons (which may vary by jurisdiction).",
@@ -975,7 +1066,8 @@
         "score1": -18.24284553527832,
         "score2": -18.106264114379883,
         "pred": "vary",
-        "correct": true
+        "correct": true,
+        "difference": 0.1365814208984375
     },
     {
         "text": "The Himalayas that stretch from north-west of India to far north-east offers a number of high rise peaks that are considered ideal for mountaineering.",
@@ -985,7 +1077,8 @@
         "answer": "offers",
         "score1": -9.691627502441406,
         "score2": -18.526355743408203,
-        "pred": "offer"
+        "pred": "offer",
+        "difference": -8.834728240966797
     },
     {
         "text": "This propensity to premature ignition is measured by the octane rating of the fuel, where 2,2,4-trimethylpentane (isooctane) has an arbitrary value of 100, and heptane has a value of zero.",
@@ -995,7 +1088,8 @@
         "answer": "has",
         "score1": -9.551741600036621,
         "score2": -9.653952598571777,
-        "pred": "have"
+        "pred": "have",
+        "difference": -0.10221099853515625
     },
     {
         "text": "This propensity to premature ignition is measured by the octane rating of the fuel, where 2,2,4-trimethylpentane (isooctane) has an arbitrary value of 100, and heptane has a value of zero.",
@@ -1005,7 +1099,8 @@
         "answer": "has",
         "score1": -9.327573776245117,
         "score2": -9.249771118164062,
-        "pred": "have"
+        "pred": "have",
+        "difference": -0.07780265808105469
     },
     {
         "text": ", the snakes have developed immunity through genetic changes and they feed on the amphibians with impunity.",
@@ -1016,7 +1111,8 @@
         "score1": -18.586496353149414,
         "score2": -9.2907133102417,
         "pred": "feed",
-        "correct": true
+        "correct": true,
+        "difference": 9.295783042907715
     },
     {
         "text": "When in precipitation, a global model characterized by convective and abundant rains can be defined during spring and summer, which can last until autumn (May, June and August are usually the rainiest months).",
@@ -1027,7 +1123,8 @@
         "score1": -18.16006088256836,
         "score2": -9.323127746582031,
         "pred": "last",
-        "correct": true
+        "correct": true,
+        "difference": 8.836933135986328
     },
     {
         "text": "The council of foreign affairs states that the World Bank mentioned that Sonangol is a taxpayer, it carries out quasi-fiscal activities, it invests public funds, and, as concessionaire, it is a sector regulator.",
@@ -1037,7 +1134,8 @@
         "answer": "carries",
         "score1": -8.48161506652832,
         "score2": -16.971464157104492,
-        "pred": "carry"
+        "pred": "carry",
+        "difference": -8.489849090576172
     },
     {
         "text": "The council of foreign affairs states that the World Bank mentioned that Sonangol is a taxpayer, it carries out quasi-fiscal activities, it invests public funds, and, as concessionaire, it is a sector regulator.",
@@ -1047,7 +1145,8 @@
         "answer": "invests",
         "score1": -17.955110549926758,
         "score2": -8.876506805419922,
-        "pred": "invest"
+        "pred": "invest",
+        "difference": -9.078603744506836
     },
     {
         "text": "For example, sulfuric acid (H2SO4) can donate one proton to form the bisulfate anion (HSO), for which Ka1 is very large; then it can donate a second proton to form the sulfate anion (SO), wherein the Ka2 is intermediate strength.",
@@ -1058,7 +1157,8 @@
         "score1": -16.91089630126953,
         "score2": -16.823928833007812,
         "pred": "donate",
-        "correct": true
+        "correct": true,
+        "difference": 0.08696746826171875
     },
     {
         "text": "This concept was known as Takemusu Aiki, and many of his later students teach about from this perspective.",
@@ -1069,7 +1169,8 @@
         "score1": -17.287513732910156,
         "score2": -17.8460636138916,
         "pred": "teach",
-        "correct": true
+        "correct": true,
+        "difference": 0.5585498809814453
     },
     {
         "text": "In both Red Deer and Edmonton, polyethylene and vinyl manufacturers produce products that are shipped all over the world.",
@@ -1080,7 +1181,8 @@
         "score1": -21.852222442626953,
         "score2": -21.835302352905273,
         "pred": "produce",
-        "correct": true
+        "correct": true,
+        "difference": 0.016920089721679688
     },
     {
         "text": "Henri Carteron held the \"extreme view\" that Aristotle's concept of force was basically qualitative, but other authors reject this.",
@@ -1091,7 +1193,8 @@
         "score1": -29.00928497314453,
         "score2": -19.38249397277832,
         "pred": "reject",
-        "correct": true
+        "correct": true,
+        "difference": 9.626791000366211
     },
     {
         "text": "The cruise back to Earth was mostly a time for the crew to relax and monitor the spacecraft.",
@@ -1102,7 +1205,8 @@
         "score1": -25.19670867919922,
         "score2": -17.189472198486328,
         "pred": "relax",
-        "correct": true
+        "correct": true,
+        "difference": 8.00723648071289
     },
     {
         "text": "During this period, Huxley earned a substantial income as a Hollywood screenwriter; Christopher Isherwood, in his autobiography My Guru and His Disciple, states that Huxley earned more than $3,000 per week (approximately $50,000 in 2020 dollars) as a screenwriter, and that he used much of it to transport Jewish and left-wing writer and artist refugees from Hitler's Germany to the US.",
@@ -1113,7 +1217,8 @@
         "score1": -9.47021198272705,
         "score2": -9.458216667175293,
         "pred": "states",
-        "correct": true
+        "correct": true,
+        "difference": 0.011995315551757812
     },
     {
         "text": "With regard to the change (kinesis) and its causes now, as he defines in his Physics and On Generation and Corruption 319b 320a, he distinguishes the coming to be from: growth and diminution, which is change in quantity; locomotion, which is change in space; and alteration, which is change in quality.",
@@ -1123,7 +1228,8 @@
         "answer": "defines",
         "score1": -16.885839462280273,
         "score2": -8.545489311218262,
-        "pred": "define"
+        "pred": "define",
+        "difference": -8.340350151062012
     },
     {
         "text": "With regard to the change (kinesis) and its causes now, as he defines in his Physics and On Generation and Corruption 319b 320a, he distinguishes the coming to be from: growth and diminution, which is change in quantity; locomotion, which is change in space; and alteration, which is change in quality.",
@@ -1133,7 +1239,8 @@
         "answer": "distinguishes",
         "score1": -27.252948760986328,
         "score2": -27.54210090637207,
-        "pred": "distinguish"
+        "pred": "distinguish",
+        "difference": -0.2891521453857422
     },
     {
         "text": "They tend to help less if they see non-cooperativeness by others and this effect tend to be stronger than the opposite effect of seeing cooperative behaviors.",
@@ -1144,7 +1251,8 @@
         "score1": -17.53314208984375,
         "score2": -17.25680160522461,
         "pred": "tend",
-        "correct": true
+        "correct": true,
+        "difference": 0.2763404846191406
     },
     {
         "text": "Tropical and sub-tropical rainforest areas have low albedo, and are much hotter than their temperate forest counterparts, which have lower insolation.",
@@ -1155,7 +1263,8 @@
         "score1": -9.654942512512207,
         "score2": -9.770522117614746,
         "pred": "have",
-        "correct": true
+        "correct": true,
+        "difference": 0.11557960510253906
     },
     {
         "text": "There never will be money in the treasury till the Confederacy shows its teeth.\"",
@@ -1165,7 +1274,8 @@
         "answer": "shows",
         "score1": -26.85736656188965,
         "score2": -34.587890625,
-        "pred": "show"
+        "pred": "show",
+        "difference": -7.730524063110352
     },
     {
         "text": "In September 2014 it was reported that the Angolan Navy would acquire seven Maca-class patrol vessels from Brazil as part of a Technical Memorandum of Understanding (MoU) covering the production of the vessels as part of Angola's Naval Power Development Programme (Pronaval).",
@@ -1176,7 +1286,8 @@
         "score1": -17.655839920043945,
         "score2": -15.963296890258789,
         "pred": "acquire",
-        "correct": true
+        "correct": true,
+        "difference": 1.6925430297851562
     },
     {
         "text": "It projects it with the tip foremost whereas other frogs flick out the rear part first, their tongues being hinged at the front.",
@@ -1187,7 +1298,8 @@
         "score1": -18.715112686157227,
         "score2": -20.364099502563477,
         "pred": "flick",
-        "correct": true
+        "correct": true,
+        "difference": 1.64898681640625
     },
     {
         "text": "Authority ultimately rests solely on power, regardless of whether that power is open or transparent, as it still has the ability to coerce people.",
@@ -1197,7 +1309,8 @@
         "answer": "has",
         "score1": -8.84079360961914,
         "score2": -9.0274019241333,
-        "pred": "have"
+        "pred": "have",
+        "difference": -0.18660831451416016
     },
     {
         "text": "The Visigoths remained in the valleys for 200 years, during which time Christianity spread.",
@@ -1208,7 +1321,8 @@
         "score1": -17.308021545410156,
         "score2": -8.66683578491211,
         "pred": "spread",
-        "correct": true
+        "correct": true,
+        "difference": 8.641185760498047
     },
     {
         "text": "Research also suggests that the number of bystanders witnessing distress or suffering affects the likelihood of helping (the Bystander effect).",
@@ -1218,7 +1332,8 @@
         "answer": "affects",
         "score1": -19.603357315063477,
         "score2": -29.149383544921875,
-        "pred": "affect"
+        "pred": "affect",
+        "difference": -9.546026229858398
     },
     {
         "text": "Philosophy Philosophers (and other users of logic) spend a lot of time and effort searching for and removing (or intentionally adding) ambiguity in arguments because it can lead to incorrect conclusions and can be used to deliberately conceal bad arguments.",
@@ -1229,7 +1344,8 @@
         "score1": -9.372920989990234,
         "score2": -18.310436248779297,
         "pred": "lead",
-        "correct": true
+        "correct": true,
+        "difference": 8.937515258789062
     },
     {
         "text": "Azerbaijan also has an ancient Jewish population with a 2,000-year history; Jewish organizations estimate that 12,000 Jews remain in Azerbaijan, which is home to the only Jewish-majority town outside of Israel and the United States.",
@@ -1240,7 +1356,8 @@
         "score1": -17.311050415039062,
         "score2": -16.74095344543457,
         "pred": "estimate",
-        "correct": true
+        "correct": true,
+        "difference": 0.5700969696044922
     },
     {
         "text": "Azerbaijan also has an ancient Jewish population with a 2,000-year history; Jewish organizations estimate that 12,000 Jews remain in Azerbaijan, which is home to the only Jewish-majority town outside of Israel and the United States.",
@@ -1251,7 +1368,8 @@
         "score1": -16.930173873901367,
         "score2": -16.851648330688477,
         "pred": "remain",
-        "correct": true
+        "correct": true,
+        "difference": 0.07852554321289062
     },
     {
         "text": "In general, the half-life of a nuclide becomes shorter as atomic number increases, though undiscovered nuclides with certain \"magic\" numbers of protons and neutrons may have relatively longer half-lives and comprise an island of stability.",
@@ -1261,7 +1379,8 @@
         "answer": "becomes",
         "score1": -18.453250885009766,
         "score2": -18.16629409790039,
-        "pred": "become"
+        "pred": "become",
+        "difference": -0.286956787109375
     },
     {
         "text": "In general, the half-life of a nuclide becomes shorter as atomic number increases, though undiscovered nuclides with certain \"magic\" numbers of protons and neutrons may have relatively longer half-lives and comprise an island of stability.",
@@ -1271,7 +1390,8 @@
         "answer": "increases",
         "score1": -19.19817543029785,
         "score2": -19.0427188873291,
-        "pred": "increase"
+        "pred": "increase",
+        "difference": -0.15545654296875
     },
     {
         "text": "In general, the half-life of a nuclide becomes shorter as atomic number increases, though undiscovered nuclides with certain \"magic\" numbers of protons and neutrons may have relatively longer half-lives and comprise an island of stability.",
@@ -1282,7 +1402,8 @@
         "score1": -9.621370315551758,
         "score2": -9.532637596130371,
         "pred": "have",
-        "correct": true
+        "correct": true,
+        "difference": 0.08873271942138672
     },
     {
         "text": "When the repulsive forces within the liquid metal surface exceeds the forces of the surface tension, it vigorously explodes.",
@@ -1292,7 +1413,8 @@
         "answer": "explodes",
         "score1": -19.79966926574707,
         "score2": -19.529544830322266,
-        "pred": "explode"
+        "pred": "explode",
+        "difference": -0.2701244354248047
     },
     {
         "text": "Aboriginal Identity Peoples made up 5.8% of the population in 2006, about half of whom consist of First Nations and the other half are Mtis.",
@@ -1303,7 +1425,8 @@
         "score1": -18.47060203552246,
         "score2": -18.26102066040039,
         "pred": "consist",
-        "correct": true
+        "correct": true,
+        "difference": 0.2095813751220703
     },
     {
         "text": "Larger towns usually have their own local police and some villages rely on \"Public Safety Officers\" who have police training but do not carry firearms.",
@@ -1314,7 +1437,8 @@
         "score1": -17.252880096435547,
         "score2": -8.997919082641602,
         "pred": "rely",
-        "correct": true
+        "correct": true,
+        "difference": 8.254961013793945
     },
     {
         "text": "Larger towns usually have their own local police and some villages rely on \"Public Safety Officers\" who have police training but do not carry firearms.",
@@ -1325,7 +1449,8 @@
         "score1": -8.957582473754883,
         "score2": -9.085734367370605,
         "pred": "have",
-        "correct": true
+        "correct": true,
+        "difference": 0.12815189361572266
     },
     {
         "text": "The concept correlates to the Tawhid, where chapter 112 of the Qur'an (Al-'Ikhls, The Sincerity) reads: SAY, God is one GOD;  the eternal GOD:  He begetteth not, neither is He begotten:  and there is not any one like unto Him.and",
@@ -1336,7 +1461,8 @@
         "score1": -38.64552688598633,
         "score2": -38.64552688598633,
         "pred": "begetteth",
-        "correct": true
+        "correct": true,
+        "difference": 0.0
     },
     {
         "text": "The ALA also mentions the way that the book was prevented from being featured at the International Book Fair in Moscow, Russia, in 1977 and banned from schools in the United Arab Emirates for references to practices or actions that defy Arab or Islamic beliefs, such as pigs or alcohol.",
@@ -1347,7 +1473,8 @@
         "score1": -17.967100143432617,
         "score2": -18.044055938720703,
         "pred": "defy",
-        "correct": true
+        "correct": true,
+        "difference": 0.07695579528808594
     },
     {
         "text": "Minorities usually accept rough consensus, except when they feel the proposal contradicts anarchist ethics, goals and values.",
@@ -1357,7 +1484,8 @@
         "answer": "contradicts",
         "score1": -30.525429725646973,
         "score2": -31.498623847961426,
-        "pred": "contradict"
+        "pred": "contradict",
+        "difference": -0.9731941223144531
     },
     {
         "text": "However, while Apollo has a great number of appellations in Greek myth, only a few occur in Latin literature.",
@@ -1368,7 +1496,8 @@
         "score1": -18.140602111816406,
         "score2": -17.687244415283203,
         "pred": "occur",
-        "correct": true
+        "correct": true,
+        "difference": 0.4533576965332031
     },
     {
         "text": "Human activities (e.g., deforestation, farming, and urbanization) change the albedo of various areas around the globe.",
@@ -1379,7 +1508,8 @@
         "score1": -9.614114761352539,
         "score2": -9.85112476348877,
         "pred": "change",
-        "correct": true
+        "correct": true,
+        "difference": 0.23701000213623047
     },
     {
         "text": "If a person had an image appear for a moment after waking up or if they see something in the dark it is not considered a dream because they were awake when it occurred.",
@@ -1390,7 +1520,8 @@
         "score1": -15.751708984375,
         "score2": -8.146738052368164,
         "pred": "see",
-        "correct": true
+        "correct": true,
+        "difference": 7.604970932006836
     },
     {
         "text": "Termite mounds alone don't provide enough food for the aardvark, so they look for termites that are on the move.",
@@ -1401,7 +1532,8 @@
         "score1": -17.771821975708008,
         "score2": -8.94030475616455,
         "pred": "look",
-        "correct": true
+        "correct": true,
+        "difference": 8.831517219543457
     },
     {
         "text": "The form of home automation called assistive domotics focuses on making it possible for elderly and disabled people to live independently.",
@@ -1412,7 +1544,8 @@
         "score1": -9.553630828857422,
         "score2": -18.328954696655273,
         "pred": "live",
-        "correct": true
+        "correct": true,
+        "difference": 8.775323867797852
     },
     {
         "text": "While Alaska has no state sales tax, 89 municipalities collect a local sales tax, from 1.0 to 7.5%, typically 3 5%.",
@@ -1423,7 +1556,8 @@
         "score1": -19.8376407623291,
         "score2": -10.057092666625977,
         "pred": "collect",
-        "correct": true
+        "correct": true,
+        "difference": 9.780548095703125
     },
     {
         "text": "In latitudes above 40 North some east west oscillation, known as the North Atlantic oscillation, occurs.",
@@ -1433,7 +1567,8 @@
         "answer": "occurs",
         "score1": -18.2042179107666,
         "score2": -18.583051681518555,
-        "pred": "occur"
+        "pred": "occur",
+        "difference": -0.3788337707519531
     },
     {
         "text": "Plainly put, the formal cause is the idea in the mind of the sculptor that brings the sculpture into being.",
@@ -1443,7 +1578,8 @@
         "answer": "brings",
         "score1": -17.41372299194336,
         "score2": -8.846301078796387,
-        "pred": "bring"
+        "pred": "bring",
+        "difference": -8.567421913146973
     },
     {
         "text": "Research has found that people are most likely to help if they recognize that a person is in need and feel personal responsibility for reducing the person's distress.",
@@ -1454,7 +1590,8 @@
         "score1": -16.37343978881836,
         "score2": -16.761064529418945,
         "pred": "recognize",
-        "correct": true
+        "correct": true,
+        "difference": 0.38762474060058594
     },
     {
         "text": "It was an era of constitution writing most states were busy at the task and leaders felt the new nation must have a written constitution; a \"rulebook\" for how the new nation should function.",
@@ -1465,7 +1602,8 @@
         "score1": -9.083133697509766,
         "score2": -9.241646766662598,
         "pred": "have",
-        "correct": true
+        "correct": true,
+        "difference": 0.15851306915283203
     },
     {
         "text": "It was an era of constitution writing most states were busy at the task and leaders felt the new nation must have a written constitution; a \"rulebook\" for how the new nation should function.",
@@ -1476,7 +1614,8 @@
         "score1": -17.963565826416016,
         "score2": -8.876777648925781,
         "pred": "function",
-        "correct": true
+        "correct": true,
+        "difference": 9.086788177490234
     },
     {
         "text": "This style is common in modern biology when large amounts of data become available in a new field, such as genomics.",
@@ -1487,7 +1626,8 @@
         "score1": -26.095004081726074,
         "score2": -26.35579776763916,
         "pred": "become",
-        "correct": true
+        "correct": true,
+        "difference": 0.26079368591308594
     },
     {
         "text": "Strabo (13.1.32) also suggested that such a cult of Achilles existed in Troad: The spread and intensity of the hero's veneration among the Greeks that had settled on the northern coast of the Pontus Euxinus, today's Black Sea, appears to have been remarkable.",
@@ -1497,7 +1637,8 @@
         "answer": "appears",
         "score1": -17.606616973876953,
         "score2": -17.718032836914062,
-        "pred": "appear"
+        "pred": "appear",
+        "difference": -0.11141586303710938
     },
     {
         "text": "Songs and poetry often rely on ambiguous words for artistic effect, as in the song title \"Don't It Make My Brown Eyes Blue\" (where \"blue\" can refer to the color, or to sadness).",
@@ -1508,7 +1649,8 @@
         "score1": -18.689624786376953,
         "score2": -18.697669982910156,
         "pred": "refer",
-        "correct": true
+        "correct": true,
+        "difference": 0.008045196533203125
     },
     {
         "text": "He was thus critical of Empedocles's materialist theory of a \"survival of the fittest\" origin of living things and their organs, and ridiculed the idea that accidents could lead to orderly results.",
@@ -1519,7 +1661,8 @@
         "score1": -17.999149322509766,
         "score2": -9.095900535583496,
         "pred": "lead",
-        "correct": true
+        "correct": true,
+        "difference": 8.90324878692627
     },
     {
         "text": "According to Daniel Albright, \"Schopenhauer thought that music was the only art that did not merely copy ideas, but actually embodied the will itself\".",
@@ -1530,7 +1673,8 @@
         "score1": -17.57552146911621,
         "score2": -8.93101978302002,
         "pred": "copy",
-        "correct": true
+        "correct": true,
+        "difference": 8.644501686096191
     },
     {
         "text": "The Latin word is derived from ancient Greek (abax) which means something without a base, and colloquially, any piece of rectangular material.",
@@ -1540,7 +1684,8 @@
         "answer": "means",
         "score1": -8.695817947387695,
         "score2": -16.321062088012695,
-        "pred": "mean"
+        "pred": "mean",
+        "difference": -7.625244140625
     },
     {
         "text": "The /? pair also dates to the No. 2, and the ,< .> pairs were used on some keyboards (others, including the No. 2, did not shift , (comma) or . (full stop) so they could be used in uppercase without unshifting).",
@@ -1551,7 +1696,8 @@
         "score1": -16.706729888916016,
         "score2": -8.387138366699219,
         "pred": "shift",
-        "correct": true
+        "correct": true,
+        "difference": 8.319591522216797
     },
     {
         "text": "These are dissected by three narrow valleys in a Y shape that combine into one as the main stream, the Gran Valira river, leaves the country for Spain (at Andorra's lowest point of ).",
@@ -1562,7 +1708,8 @@
         "score1": -18.597963333129883,
         "score2": -18.34857940673828,
         "pred": "combine",
-        "correct": true
+        "correct": true,
+        "difference": 0.24938392639160156
     },
     {
         "text": "These are dissected by three narrow valleys in a Y shape that combine into one as the main stream, the Gran Valira river, leaves the country for Spain (at Andorra's lowest point of ).",
@@ -1572,7 +1719,8 @@
         "answer": "leaves",
         "score1": -18.172874450683594,
         "score2": -9.180891036987305,
-        "pred": "leave"
+        "pred": "leave",
+        "difference": -8.991983413696289
     },
     {
         "text": "In 322 BC, Demophilus and Eurymedon the Hierophant reportedly denounced Aristotle for impiety, prompting him to flee to his mother's family estate in Chalcis, on Euboea, at which occasion he was said to have stated: \"I will not allow the Athenians to sin twice against philosophy\"   a reference to Athens's trial and execution of Socrates.",
@@ -1582,7 +1730,8 @@
         "answer": "allow",
         "score1": -9.13568115234375,
         "score2": -9.161483764648438,
-        "pred": "allows"
+        "pred": "allows",
+        "difference": -0.0258026123046875
     },
     {
         "text": "In 322 BC, Demophilus and Eurymedon the Hierophant reportedly denounced Aristotle for impiety, prompting him to flee to his mother's family estate in Chalcis, on Euboea, at which occasion he was said to have stated: \"I will not allow the Athenians to sin twice against philosophy\"   a reference to Athens's trial and execution of Socrates.",
@@ -1593,7 +1742,8 @@
         "score1": -9.18039321899414,
         "score2": -18.06768798828125,
         "pred": "sin",
-        "correct": true
+        "correct": true,
+        "difference": 8.88729476928711
     },
     {
         "text": "At the Camden Wealth Advisors Cup's final in Houston, Agassi beat James Blake for a rematch of their 2005 US Open quarterfinal.",
@@ -1604,7 +1754,8 @@
         "score1": -19.13673210144043,
         "score2": -20.346513748168945,
         "pred": "beat",
-        "correct": true
+        "correct": true,
+        "difference": 1.2097816467285156
     },
     {
         "text": "Schopenhauer praised Kant for his distinction between appearance and the thing-in-itself, whereas the general consensus in German idealism was that this was the weakest spot of Kant's theory, since, according to Kant, causality can find application on objects of experience only, and consequently, things-in-themselves cannot be the cause of appearances.",
@@ -1615,7 +1766,8 @@
         "score1": -18.25267791748047,
         "score2": -9.125247955322266,
         "pred": "find",
-        "correct": true
+        "correct": true,
+        "difference": 9.127429962158203
     },
     {
         "text": "They decide that a person who is intentionally false must be \"better\" than a person who is unintentionally false, on the basis that someone who lies intentionally must understand the subject about which they are lying.",
@@ -1626,7 +1778,8 @@
         "score1": -27.37587833404541,
         "score2": -18.29477882385254,
         "pred": "understand",
-        "correct": true
+        "correct": true,
+        "difference": 9.081099510192871
     },
     {
         "text": "They decide that a person who is intentionally false must be \"better\" than a person who is unintentionally false, on the basis that someone who lies intentionally must understand the subject about which they are lying.",
@@ -1636,7 +1789,8 @@
         "answer": "lies",
         "score1": -17.98834228515625,
         "score2": -18.01058006286621,
-        "pred": "lie"
+        "pred": "lie",
+        "difference": -0.022237777709960938
     },
     {
         "text": "In England and Wales, the police cannot legally detain anyone for more than 24 hours without charging them unless an officer with the rank of superintendent (or above) authorises detention for a further 12 hours (36 hours total), or a judge (who will be a magistrate) authorises detention by the police before charge for up to a maximum of 96 hours, but for terrorism-related offences people can be held by the police for up to 28 days before charge.",
@@ -1647,7 +1801,8 @@
         "score1": -18.007492065429688,
         "score2": -18.621320724487305,
         "pred": "detain",
-        "correct": true
+        "correct": true,
+        "difference": 0.6138286590576172
     },
     {
         "text": "In England and Wales, the police cannot legally detain anyone for more than 24 hours without charging them unless an officer with the rank of superintendent (or above) authorises detention for a further 12 hours (36 hours total), or a judge (who will be a magistrate) authorises detention by the police before charge for up to a maximum of 96 hours, but for terrorism-related offences people can be held by the police for up to 28 days before charge.",
@@ -1657,7 +1812,8 @@
         "answer": "authorises",
         "score1": -18.970977783203125,
         "score2": -19.17252540588379,
-        "pred": "authorise"
+        "pred": "authorise",
+        "difference": -0.20154762268066406
     },
     {
         "text": "In England and Wales, the police cannot legally detain anyone for more than 24 hours without charging them unless an officer with the rank of superintendent (or above) authorises detention for a further 12 hours (36 hours total), or a judge (who will be a magistrate) authorises detention by the police before charge for up to a maximum of 96 hours, but for terrorism-related offences people can be held by the police for up to 28 days before charge.",
@@ -1667,7 +1823,8 @@
         "answer": "authorises",
         "score1": -18.70427131652832,
         "score2": -18.81326675415039,
-        "pred": "authorise"
+        "pred": "authorise",
+        "difference": -0.10899543762207031
     },
     {
         "text": "When the MPLA first attempted to insert its own insurgents into Angola, the cadres were ambushed and annihilated by UPA partisans on Roberto's orders setting a precedent for the bitter factional strife which would later ignite the Angolan Civil War.",
@@ -1677,7 +1834,8 @@
         "answer": "ignite",
         "score1": -19.42142677307129,
         "score2": -19.326223373413086,
-        "pred": "ignites"
+        "pred": "ignites",
+        "difference": -0.09520339965820312
     },
     {
         "text": "The tragedies relate the deeds of Achilles during the Trojan War, including his defeat of Hector and eventual death when an arrow shot by Paris and guided by Apollo punctures his heel.",
@@ -1687,7 +1845,8 @@
         "answer": "punctures",
         "score1": -37.548519134521484,
         "score2": -28.671692848205566,
-        "pred": "puncture"
+        "pred": "puncture",
+        "difference": -8.876826286315918
     },
     {
         "text": "Despite extensive oil and gas resources, diamonds, hydroelectric potential, and rich agricultural land, Angola remains poor, and a third of the population relies on subsistence agriculture.",
@@ -1697,7 +1856,8 @@
         "answer": "remains",
         "score1": -37.24444580078125,
         "score2": -28.059162139892578,
-        "pred": "remain"
+        "pred": "remain",
+        "difference": -9.185283660888672
     },
     {
         "text": "Despite extensive oil and gas resources, diamonds, hydroelectric potential, and rich agricultural land, Angola remains poor, and a third of the population relies on subsistence agriculture.",
@@ -1707,7 +1867,8 @@
         "answer": "relies",
         "score1": -9.318432807922363,
         "score2": -18.2876033782959,
-        "pred": "rely"
+        "pred": "rely",
+        "difference": -8.969170570373535
     },
     {
         "text": "The insoluble matter, consisting mainly of silica ore, ranges from 8% to 17%.",
@@ -1717,7 +1878,8 @@
         "answer": "ranges",
         "score1": -20.266504287719727,
         "score2": -10.169814109802246,
-        "pred": "range"
+        "pred": "range",
+        "difference": -10.09669017791748
     },
     {
         "text": "In this system, heavy bodies in steady fall indeed travel faster than light ones (whether friction is ignored, or not), and they do fall more slowly in a denser medium.",
@@ -1728,7 +1890,8 @@
         "score1": -19.518966674804688,
         "score2": -9.819518089294434,
         "pred": "travel",
-        "correct": true
+        "correct": true,
+        "difference": 9.699448585510254
     },
     {
         "text": "In this system, heavy bodies in steady fall indeed travel faster than light ones (whether friction is ignored, or not), and they do fall more slowly in a denser medium.",
@@ -1739,7 +1902,8 @@
         "score1": -9.417564392089844,
         "score2": -9.5565185546875,
         "pred": "fall",
-        "correct": true
+        "correct": true,
+        "difference": 0.13895416259765625
     },
     {
         "text": "Thus, an Arrhenius acid can also be described as a substance that increases the concentration of hydronium ions when added to water.",
@@ -1749,7 +1913,8 @@
         "answer": "increases",
         "score1": -17.373815536499023,
         "score2": -17.283079147338867,
-        "pred": "increase"
+        "pred": "increase",
+        "difference": -0.09073638916015625
     },
     {
         "text": "Their lungs are functional early, but the larvae do not make as much use of them as do tadpoles.",
@@ -1760,7 +1925,8 @@
         "score1": -8.998774528503418,
         "score2": -9.011298179626465,
         "pred": "make",
-        "correct": true
+        "correct": true,
+        "difference": 0.012523651123046875
     },
     {
         "text": "Since it only requires that the final position of beads be remembered, it takes less memory and less computation time.",
@@ -1770,7 +1936,8 @@
         "answer": "takes",
         "score1": -17.356433868408203,
         "score2": -8.862680435180664,
-        "pred": "take"
+        "pred": "take",
+        "difference": -8.493753433227539
     },
     {
         "text": "He stated, \"I am not a Soviet dissident, I have no conflict with the Soviet Government,\" but if he returned home, he added, \"I would be unemployed.\"",
@@ -1781,7 +1948,8 @@
         "score1": -8.669596672058105,
         "score2": -9.12785530090332,
         "pred": "have",
-        "correct": true
+        "correct": true,
+        "difference": 0.45825862884521484
     },
     {
         "text": "Instead, a group of unelected civilian and military \"dcideurs\" (\"deciders\"), known as \"le pouvoir\" (\"the power\"), actually rule the country, even deciding who should be president.",
@@ -1792,7 +1960,8 @@
         "score1": -9.435893058776855,
         "score2": -9.333168983459473,
         "pred": "rule",
-        "correct": true
+        "correct": true,
+        "difference": 0.10272407531738281
     },
     {
         "text": "If the appellate court finds no defect, it \"affirms\" the judgment.",
@@ -1802,7 +1971,8 @@
         "answer": "affirms",
         "score1": -19.339706420898438,
         "score2": -19.87172508239746,
-        "pred": "affirm"
+        "pred": "affirm",
+        "difference": -0.5320186614990234
     },
     {
         "text": "If Earth were frozen entirely (and hence be more reflective), the average temperature of the planet would drop below .",
@@ -1813,7 +1983,8 @@
         "score1": -9.275991439819336,
         "score2": -9.45572280883789,
         "pred": "drop",
-        "correct": true
+        "correct": true,
+        "difference": 0.1797313690185547
     },
     {
         "text": "Ladd Peebles Stadium in Mobile is the home of the University of South Alabama football team, and serves as the home of the NCAA Senior Bowl, LendingTree Bowl, and Alabama-Mississippi All Star Classic; the stadium seats 40,646.",
@@ -1823,7 +1994,8 @@
         "answer": "seats",
         "score1": -18.524934768676758,
         "score2": -9.40098762512207,
-        "pred": "seat"
+        "pred": "seat",
+        "difference": -9.123947143554688
     },
     {
         "text": "As said by the officer in the story, \"In this age of Realien advancement, who knows what goes on in the mind of those responsible for these mechanical dolls.\"",
@@ -1833,7 +2005,8 @@
         "answer": "knows",
         "score1": -27.351877212524414,
         "score2": -18.602426528930664,
-        "pred": "know"
+        "pred": "know",
+        "difference": -8.74945068359375
     },
     {
         "text": "As said by the officer in the story, \"In this age of Realien advancement, who knows what goes on in the mind of those responsible for these mechanical dolls.\"",
@@ -1843,7 +2016,8 @@
         "answer": "goes",
         "score1": -9.32157039642334,
         "score2": -18.330028533935547,
-        "pred": "go"
+        "pred": "go",
+        "difference": -9.008458137512207
     },
     {
         "text": "The earliest archaeological evidence for the use of the Greek abacus dates to the 5th century BC.",
@@ -1853,7 +2027,8 @@
         "answer": "dates",
         "score1": -9.273366928100586,
         "score2": -9.378161430358887,
-        "pred": "date"
+        "pred": "date",
+        "difference": -0.10479450225830078
     },
     {
         "text": "Dominant males even go a step further and as the breeding season approaches, they make increasingly greater and greater incursions onto weaker males' territories.",
@@ -1863,7 +2038,8 @@
         "answer": "approaches",
         "score1": -19.331525802612305,
         "score2": -19.920806884765625,
-        "pred": "approach"
+        "pred": "approach",
+        "difference": -0.5892810821533203
     },
     {
         "text": "Dominant males even go a step further and as the breeding season approaches, they make increasingly greater and greater incursions onto weaker males' territories.",
@@ -1873,7 +2049,8 @@
         "answer": "make",
         "score1": -9.383655548095703,
         "score2": -9.52099895477295,
-        "pred": "makes"
+        "pred": "makes",
+        "difference": -0.1373434066772461
     },
     {
         "text": "In addition, the Sethite line of the Generations of Adam swear by Abel's blood to segregate themselves from the unrighteous.",
@@ -1884,7 +2061,8 @@
         "score1": -20.56418800354004,
         "score2": -21.067440032958984,
         "pred": "swear",
-        "correct": true
+        "correct": true,
+        "difference": 0.5032520294189453
     },
     {
         "text": "Other alkali metal arsenides not conforming to the formula M3As are known, such as LiAs, which has a metallic lustre and electrical conductivity indicating the presence of some metallic bonding.",
@@ -1894,7 +2072,8 @@
         "answer": "has",
         "score1": -8.794853210449219,
         "score2": -8.672002792358398,
-        "pred": "have"
+        "pred": "have",
+        "difference": -0.12285041809082031
     },
     {
         "text": "The central aspen parkland region extending in a broad arc between the prairies and the forests, from Calgary, north to Edmonton, and then east to Lloydminster, contains the most fertile soil in the province and most of the population.",
@@ -1904,7 +2083,8 @@
         "answer": "contains",
         "score1": -18.958457946777344,
         "score2": -19.07234764099121,
-        "pred": "contain"
+        "pred": "contain",
+        "difference": -0.11388969421386719
     },
     {
         "text": "An estimated 0.5% to 10% of individuals with ASD show unusual abilities, ranging from splinter skills such as the memorization of trivia to the extraordinarily rare talents of prodigious autistic savants.",
@@ -1914,7 +2094,8 @@
         "answer": "show",
         "score1": -9.435776710510254,
         "score2": -9.277364730834961,
-        "pred": "shows"
+        "pred": "shows",
+        "difference": -0.15841197967529297
     },
     {
         "text": "Galt himself remains concealed throughout much of the novel, working a job and living by himself, where he unites the most skillful inventors and business leaders under his leadership.",
@@ -1925,7 +2106,8 @@
         "score1": -17.083520889282227,
         "score2": -17.247379302978516,
         "pred": "unites",
-        "correct": true
+        "correct": true,
+        "difference": 0.16385841369628906
     },
     {
         "text": "The tiger salamander (Ambystoma tigrinum) is typical of the frogs and salamanders that hide under cover ready to ambush unwary invertebrates.",
@@ -1936,7 +2118,8 @@
         "score1": -9.223163604736328,
         "score2": -17.922447204589844,
         "pred": "hide",
-        "correct": true
+        "correct": true,
+        "difference": 8.699283599853516
     },
     {
         "text": "Apollo8 was planned as the \"D\" mission, a test of the LM in a low Earth orbit in December 1968 by James McDivitt, David Scott, and Russell Schweickart, while Borman's crew would fly the \"E\" mission, a more rigorous LM test in an elliptical medium Earth orbit as Apollo9, in early 1969.",
@@ -1946,7 +2129,8 @@
         "answer": "fly",
         "score1": -8.929695129394531,
         "score2": -8.956480026245117,
-        "pred": "flies"
+        "pred": "flies",
+        "difference": -0.026784896850585938
     },
     {
         "text": "Through its use, the time that a family member or friend would need to care for a patient significantly decreases.",
@@ -1956,7 +2140,8 @@
         "answer": "decreases",
         "score1": -25.368807792663574,
         "score2": -25.538071632385254,
-        "pred": "decrease"
+        "pred": "decrease",
+        "difference": -0.1692638397216797
     },
     {
         "text": "Through its use, the time that a family member or friend would need to care for a patient significantly decreases.",
@@ -1966,7 +2151,8 @@
         "answer": "need",
         "score1": -8.124018669128418,
         "score2": -8.165029525756836,
-        "pred": "needs"
+        "pred": "needs",
+        "difference": -0.04101085662841797
     },
     {
         "text": "Zeus and Poseidon had been rivals for Thetis's hand in marriage until Prometheus, the fore-thinker, warned Zeus of a prophecy (originally uttered by Themis, goddess of divine law) that Thetis would bear a son greater than his father.",
@@ -1977,7 +2163,8 @@
         "score1": -9.846814155578613,
         "score2": -19.534509658813477,
         "pred": "bear",
-        "correct": true
+        "correct": true,
+        "difference": 9.687695503234863
     },
     {
         "text": "In Plato's Symposium, the participants in a dialogue about love assume that Achilles and Patroclus were a couple; Phaedrus argues that Achilles was the younger and more beautiful one so he was the beloved and Patroclus was the lover.",
@@ -1987,7 +2174,8 @@
         "answer": "assume",
         "score1": -18.542613983154297,
         "score2": -18.65717124938965,
-        "pred": "assumes"
+        "pred": "assumes",
+        "difference": -0.11455726623535156
     },
     {
         "text": "In Plato's Symposium, the participants in a dialogue about love assume that Achilles and Patroclus were a couple; Phaedrus argues that Achilles was the younger and more beautiful one so he was the beloved and Patroclus was the lover.",
@@ -1997,7 +2185,8 @@
         "answer": "argues",
         "score1": -18.635160446166992,
         "score2": -18.598878860473633,
-        "pred": "argue"
+        "pred": "argue",
+        "difference": -0.036281585693359375
     },
     {
         "text": "For a randomized experiment, the assumption of unit-treatment additivity implies that the variance is constant for all treatments.",
@@ -2007,7 +2196,8 @@
         "answer": "implies",
         "score1": -21.5970401763916,
         "score2": -22.25436782836914,
-        "pred": "imply"
+        "pred": "imply",
+        "difference": -0.6573276519775391
     },
     {
         "text": "And due to the double jeopardy principle, the state or prosecution may never appeal a jury or bench verdict of acquittal.",
@@ -2018,7 +2208,8 @@
         "score1": -19.24852180480957,
         "score2": -18.819679260253906,
         "pred": "appeal",
-        "correct": true
+        "correct": true,
+        "difference": 0.42884254455566406
     },
     {
         "text": "One example of archaeological evidence of the Roman abacus, shown nearby in reconstruction, dates to the 1st century AD.",
@@ -2028,7 +2219,8 @@
         "answer": "dates",
         "score1": -9.562012672424316,
         "score2": -9.577634811401367,
-        "pred": "date"
+        "pred": "date",
+        "difference": -0.015622138977050781
     },
     {
         "text": "Most other mammals have a placenta through which the developing foetus obtains nourishment, but in marsupials, the foetal stage is very short and the immature young is born and finds its way to its mother's pouch where it latches on to a nipple and completes its development.",
@@ -2039,7 +2231,8 @@
         "score1": -18.58333969116211,
         "score2": -19.38253402709961,
         "pred": "obtains",
-        "correct": true
+        "correct": true,
+        "difference": 0.7991943359375
     },
     {
         "text": "Most other mammals have a placenta through which the developing foetus obtains nourishment, but in marsupials, the foetal stage is very short and the immature young is born and finds its way to its mother's pouch where it latches on to a nipple and completes its development.",
@@ -2049,7 +2242,8 @@
         "answer": "latches",
         "score1": -18.772207260131836,
         "score2": -19.00649070739746,
-        "pred": "latch"
+        "pred": "latch",
+        "difference": -0.234283447265625
     },
     {
         "text": "There is no external ear, but the large circular eardrum lies on the surface of the head just behind the eye.",
@@ -2059,7 +2253,8 @@
         "answer": "lies",
         "score1": -9.534968376159668,
         "score2": -9.592557907104492,
-        "pred": "lie"
+        "pred": "lie",
+        "difference": -0.05758953094482422
     },
     {
         "text": "Einstein quantitatively derived critical opalescence from a treatment of density fluctuations, and demonstrated how both the effect and Rayleigh scattering originate from the atomistic constitution of matter.",
@@ -2070,7 +2265,8 @@
         "score1": -19.51254653930664,
         "score2": -19.398767471313477,
         "pred": "originate",
-        "correct": true
+        "correct": true,
+        "difference": 0.11377906799316406
     },
     {
         "text": "The stronger of two acids will have a higher Ka than the weaker acid; the ratio of hydrogen ions to acid will be higher for the stronger acid as the stronger acid has a greater tendency to lose its proton.",
@@ -2080,7 +2276,8 @@
         "answer": "has",
         "score1": -9.051606178283691,
         "score2": -9.126214027404785,
-        "pred": "have"
+        "pred": "have",
+        "difference": -0.07460784912109375
     },
     {
         "text": "The law, if enacted, would punish doctors who perform abortions with 10 to 99 years imprisonment and be the most restrictive abortion law in the country.",
@@ -2090,7 +2287,8 @@
         "answer": "perform",
         "score1": -19.275449752807617,
         "score2": -19.205930709838867,
-        "pred": "performs"
+        "pred": "performs",
+        "difference": -0.06951904296875
     },
     {
         "text": "The word \"metaphysics\" appears to have been coined by the first century AD editor who assembled various small selections of Aristotle's works to the treatise we know by the name Metaphysics.",
@@ -2101,7 +2299,8 @@
         "score1": -17.933795928955078,
         "score2": -8.991591453552246,
         "pred": "know",
-        "correct": true
+        "correct": true,
+        "difference": 8.942204475402832
     },
     {
         "text": "For example, \"ice cream\" and \"I scream\".",
@@ -2112,7 +2311,8 @@
         "score1": -29.14393901824951,
         "score2": -19.751001358032227,
         "pred": "scream",
-        "correct": true
+        "correct": true,
+        "difference": 9.392937660217285
     },
     {
         "text": "In the subset of people who have gluten sensitivity there is limited evidence that suggests that a gluten-free diet may improve some autistic behaviors.",
@@ -2122,7 +2322,8 @@
         "answer": "suggests",
         "score1": -19.705059051513672,
         "score2": -9.956549644470215,
-        "pred": "suggest"
+        "pred": "suggest",
+        "difference": -9.748509407043457
     },
     {
         "text": "In the subset of people who have gluten sensitivity there is limited evidence that suggests that a gluten-free diet may improve some autistic behaviors.",
@@ -2133,7 +2334,8 @@
         "score1": -9.355329513549805,
         "score2": -18.837665557861328,
         "pred": "improve",
-        "correct": true
+        "correct": true,
+        "difference": 9.482336044311523
     },
     {
         "text": "On 1 July 2021, the US Congress advanced legislation that will have an impact on the military aid that Washington has sent to Azerbaijan since 2012.",
@@ -2144,7 +2346,8 @@
         "score1": -8.00075912475586,
         "score2": -8.321211814880371,
         "pred": "have",
-        "correct": true
+        "correct": true,
+        "difference": 0.3204526901245117
     },
     {
         "text": "Napoleon enacts changes to the governance structure of the farm, replacing meetings with a committee of pigs who will run the farm.",
@@ -2155,7 +2358,8 @@
         "score1": -10.331374168395996,
         "score2": -10.42401123046875,
         "pred": "run",
-        "correct": true
+        "correct": true,
+        "difference": 0.0926370620727539
     },
     {
         "text": "Stream dwellers mostly have larger mouths, shallow bodies and caudal fins; they attach themselves to plants and stones and feed on the surface films of algae and bacteria.",
@@ -2166,7 +2370,8 @@
         "score1": -19.689090728759766,
         "score2": -10.212960243225098,
         "pred": "attach",
-        "correct": true
+        "correct": true,
+        "difference": 9.476130485534668
     },
     {
         "text": "Over the next two decades, some of the basic concepts it addressed would strengthen; others would weaken, especially in the degree of loyalty (or lack thereof) owed the Crown.",
@@ -2177,7 +2382,8 @@
         "score1": -26.960097312927246,
         "score2": -26.28944492340088,
         "pred": "strengthen",
-        "correct": true
+        "correct": true,
+        "difference": 0.6706523895263672
     },
     {
         "text": "Over the next two decades, some of the basic concepts it addressed would strengthen; others would weaken, especially in the degree of loyalty (or lack thereof) owed the Crown.",
@@ -2188,7 +2394,8 @@
         "score1": -18.0971736907959,
         "score2": -17.816997528076172,
         "pred": "weaken",
-        "correct": true
+        "correct": true,
+        "difference": 0.28017616271972656
     },
     {
         "text": "This is the Greek ideal of moderation and a virtue that opposes gluttony.",
@@ -2198,7 +2405,8 @@
         "answer": "opposes",
         "score1": -18.4934024810791,
         "score2": -19.074398040771484,
-        "pred": "oppose"
+        "pred": "oppose",
+        "difference": -0.5809955596923828
     },
     {
         "text": "The analysis of variance has been studied from several approaches, the most common of which uses a linear model that relates the response to the treatments and blocks.",
@@ -2208,7 +2416,8 @@
         "answer": "uses",
         "score1": -8.612933158874512,
         "score2": -8.486735343933105,
-        "pred": "use"
+        "pred": "use",
+        "difference": -0.12619781494140625
     },
     {
         "text": "The analysis of variance has been studied from several approaches, the most common of which uses a linear model that relates the response to the treatments and blocks.",
@@ -2218,7 +2427,8 @@
         "answer": "relates",
         "score1": -17.09369468688965,
         "score2": -17.033475875854492,
-        "pred": "relate"
+        "pred": "relate",
+        "difference": -0.06021881103515625
     },
     {
         "text": "Neutralization is the basis of titration, where a pH indicator shows equivalence point when the equivalent number of moles of a base have been added to an acid.",
@@ -2228,7 +2438,8 @@
         "answer": "shows",
         "score1": -19.94922637939453,
         "score2": -10.220224380493164,
-        "pred": "show"
+        "pred": "show",
+        "difference": -9.729001998901367
     },
     {
         "text": "The difference in weights between Setters and Pointers does not justify separate breeds.",
@@ -2239,7 +2450,8 @@
         "score1": -20.280366897583008,
         "score2": -19.70529556274414,
         "pred": "justify",
-        "correct": true
+        "correct": true,
+        "difference": 0.5750713348388672
     },
     {
         "text": "Responding to criticism of Grant after Shiloh, Lincoln had said, \"I can't spare this man.",
@@ -2250,7 +2462,8 @@
         "score1": -18.543039321899414,
         "score2": -18.38911247253418,
         "pred": "spare",
-        "correct": true
+        "correct": true,
+        "difference": 0.15392684936523438
     },
     {
         "text": "Although Schopenhauer could see no justification for trying to prove Euclid's parallel postulate, he did see a reason for examining another of Euclid's axioms.",
@@ -2261,7 +2474,8 @@
         "score1": -9.279155731201172,
         "score2": -18.17891502380371,
         "pred": "see",
-        "correct": true
+        "correct": true,
+        "difference": 8.899759292602539
     },
     {
         "text": "It was there he discovered the mighty outflow river which bears his name the Mackenzie River which he followed to its outlet in the Arctic Ocean.",
@@ -2271,7 +2485,8 @@
         "answer": "bears",
         "score1": -18.377540588378906,
         "score2": -9.535640716552734,
-        "pred": "bear"
+        "pred": "bear",
+        "difference": -8.841899871826172
     },
     {
         "text": "Subsequently, the Ki, Mi, and Gi prefixes were introduced so that binary prefixes could be written explicitly, also rendering k, M, and G unambiguous in texts conforming to the new standard this led to a new ambiguity in engineering documents lacking outward trace of the binary prefixes (necessarily indicating the new style) as to whether the usage of k, M, and G remains ambiguous (old style) or not (new style).",
@@ -2281,7 +2496,8 @@
         "answer": "remains",
         "score1": -18.377685546875,
         "score2": -18.31817626953125,
-        "pred": "remain"
+        "pred": "remain",
+        "difference": -0.05950927734375
     },
     {
         "text": "Deciduous trees have an albedo value of about 0.15 to 0.18 whereas coniferous trees have a value of about 0.09 to 0.15.",
@@ -2291,7 +2507,8 @@
         "answer": "have",
         "score1": -17.660860061645508,
         "score2": -17.51249122619629,
-        "pred": "has"
+        "pred": "has",
+        "difference": -0.14836883544921875
     },
     {
         "text": "\"We want to make sure that NASA is going to be there for them when they want to take their journey.\"",
@@ -2302,7 +2519,8 @@
         "score1": -16.049800872802734,
         "score2": -8.35448932647705,
         "pred": "want",
-        "correct": true
+        "correct": true,
+        "difference": 7.695311546325684
     },
     {
         "text": "Several organizations, such as the American Association of Variable Star Observers and the British Astronomical Association, exist to help coordinate these contributions.",
@@ -2313,7 +2531,8 @@
         "score1": -9.039778709411621,
         "score2": -18.14263343811035,
         "pred": "exist",
-        "correct": true
+        "correct": true,
+        "difference": 9.10285472869873
     },
     {
         "text": "Gender equality can be a common principle, although it ranks as a higher priority to anarcha-feminists than anarcho-communists.",
@@ -2323,7 +2542,8 @@
         "answer": "ranks",
         "score1": -19.131696701049805,
         "score2": -9.621528625488281,
-        "pred": "rank"
+        "pred": "rank",
+        "difference": -9.510168075561523
     },
     {
         "text": "At Clarus, on the west coast of Asia Minor; as at Delphi a holy spring which gave off a pneuma, from which the priests drank.",
@@ -2334,7 +2554,8 @@
         "score1": -18.023174285888672,
         "score2": -18.023174285888672,
         "pred": "drank",
-        "correct": true
+        "correct": true,
+        "difference": 0.0
     },
     {
         "text": "He said the Kansas Act had a \"declared indifference, but as I must think, a covert real zeal for the spread of slavery.",
@@ -2345,7 +2566,8 @@
         "score1": -8.899504661560059,
         "score2": -17.29447364807129,
         "pred": "think",
-        "correct": true
+        "correct": true,
+        "difference": 8.39496898651123
     },
     {
         "text": "With over 30 million copies sold , Rand's books continue to be read widely.",
@@ -2356,7 +2578,8 @@
         "score1": -31.971784591674805,
         "score2": -31.982166290283203,
         "pred": "continue",
-        "correct": true
+        "correct": true,
+        "difference": 0.010381698608398438
     },
     {
         "text": "The epithelial cells on the external surface of the body typically secrete an extracellular matrix in the form of a cuticle.",
@@ -2366,7 +2589,8 @@
         "answer": "secrete",
         "score1": -18.416284561157227,
         "score2": -18.934350967407227,
-        "pred": "secretes"
+        "pred": "secretes",
+        "difference": -0.51806640625
     },
     {
         "text": "The Andorra national rugby union team, nicknamed Els Isards, plays on the international stage in rugby union and rugby sevens.",
@@ -2376,7 +2600,8 @@
         "answer": "plays",
         "score1": -8.624618530273438,
         "score2": -9.145866394042969,
-        "pred": "play"
+        "pred": "play",
+        "difference": -0.5212478637695312
     },
     {
         "text": "At first, he is used to acquire necessities that cannot be produced on the farm, such as dog biscuits and paraffin wax, but later he procures luxuries like alcohol for the pigs.",
@@ -2387,7 +2612,8 @@
         "score1": -17.12529945373535,
         "score2": -17.199527740478516,
         "pred": "procures",
-        "correct": true
+        "correct": true,
+        "difference": 0.07422828674316406
     },
     {
         "text": "Fertilisation is likely to be external as sirenids lack the cloacal glands used by male salamandrids to produce spermatophores and the females lack spermathecae for sperm storage.",
@@ -2398,7 +2624,8 @@
         "score1": -17.66343116760254,
         "score2": -17.712989807128906,
         "pred": "lack",
-        "correct": true
+        "correct": true,
+        "difference": 0.04955863952636719
     },
     {
         "text": "Knox wrote: As Congress failed to act on the petitions, Knox wrote to Gouverneur Morris, four years before the Philadelphia Convention was convened, \"As the present Constitution is so defective, why do not you great men call the people together and tell them so; that is, to have a convention of the States to form a better Constitution.\"",
@@ -2409,7 +2636,8 @@
         "score1": -9.069933891296387,
         "score2": -17.895244598388672,
         "pred": "call",
-        "correct": true
+        "correct": true,
+        "difference": 8.825310707092285
     },
     {
         "text": "He is shot attempting to inform Hank Rearden about a government plot, but does succeed in warning Rearden just before he dies.",
@@ -2419,7 +2647,8 @@
         "answer": "dies",
         "score1": -9.691108703613281,
         "score2": -9.523837089538574,
-        "pred": "die"
+        "pred": "die",
+        "difference": -0.16727161407470703
     },
     {
         "text": "Abdul Ghani Baradar would be named head of government as Prime Minister, while other important positions would go to Sirajuddin Haqqani and Mohammad Yaqoob.",
@@ -2430,7 +2659,8 @@
         "score1": -15.658288955688477,
         "score2": -7.912233829498291,
         "pred": "go",
-        "correct": true
+        "correct": true,
+        "difference": 7.7460551261901855
     },
     {
         "text": "A simple illustration of such cause and effect is the case of experiencing the effects of what one causes: if one causes suffering, then as a natural consequence one would experience suffering; if one causes happiness, then as a natural consequence one would experience happiness.",
@@ -2440,7 +2670,8 @@
         "answer": "causes",
         "score1": -17.815542221069336,
         "score2": -9.180087089538574,
-        "pred": "cause"
+        "pred": "cause",
+        "difference": -8.635455131530762
     },
     {
         "text": "A simple illustration of such cause and effect is the case of experiencing the effects of what one causes: if one causes suffering, then as a natural consequence one would experience suffering; if one causes happiness, then as a natural consequence one would experience happiness.",
@@ -2450,7 +2681,8 @@
         "answer": "causes",
         "score1": -8.976319313049316,
         "score2": -17.423608779907227,
-        "pred": "cause"
+        "pred": "cause",
+        "difference": -8.44728946685791
     },
     {
         "text": "A simple illustration of such cause and effect is the case of experiencing the effects of what one causes: if one causes suffering, then as a natural consequence one would experience suffering; if one causes happiness, then as a natural consequence one would experience happiness.",
@@ -2461,7 +2693,8 @@
         "score1": -17.834457397460938,
         "score2": -17.719057083129883,
         "pred": "experience",
-        "correct": true
+        "correct": true,
+        "difference": 0.11540031433105469
     },
     {
         "text": "A simple illustration of such cause and effect is the case of experiencing the effects of what one causes: if one causes suffering, then as a natural consequence one would experience suffering; if one causes happiness, then as a natural consequence one would experience happiness.",
@@ -2471,7 +2704,8 @@
         "answer": "causes",
         "score1": -8.78366756439209,
         "score2": -17.157978057861328,
-        "pred": "cause"
+        "pred": "cause",
+        "difference": -8.374310493469238
     },
     {
         "text": "A simple illustration of such cause and effect is the case of experiencing the effects of what one causes: if one causes suffering, then as a natural consequence one would experience suffering; if one causes happiness, then as a natural consequence one would experience happiness.",
@@ -2482,7 +2716,8 @@
         "score1": -17.493610382080078,
         "score2": -17.57326889038086,
         "pred": "experience",
-        "correct": true
+        "correct": true,
+        "difference": 0.07965850830078125
     },
     {
         "text": "The stage was then set for the election of the Illinois legislature which would, in turn, select Lincoln or Douglas.",
@@ -2493,7 +2728,8 @@
         "score1": -17.396726608276367,
         "score2": -8.687698364257812,
         "pred": "select",
-        "correct": true
+        "correct": true,
+        "difference": 8.709028244018555
     },
     {
         "text": "Rational egoism is the view that rationality consists in acting in one's self-interest (without specifying how this affects one's moral obligations).",
@@ -2503,7 +2739,8 @@
         "answer": "affects",
         "score1": -29.19843578338623,
         "score2": -19.577625274658203,
-        "pred": "affect"
+        "pred": "affect",
+        "difference": -9.620810508728027
     },
     {
         "text": "Eliot said he found the view \"not convincing\", and contended that the pigs were made out to be the best to run the farm; he posited that someone might argue \"what was needed ... was not more communism but more public-spirited pigs\".",
@@ -2514,7 +2751,8 @@
         "score1": -17.520185470581055,
         "score2": -17.61968421936035,
         "pred": "argue",
-        "correct": true
+        "correct": true,
+        "difference": 0.09949874877929688
     },
     {
         "text": "While the analysis of variance reached fruition in the 20th century, antecedents extend centuries into the past according to Stigler.",
@@ -2525,7 +2763,8 @@
         "score1": -29.66378688812256,
         "score2": -29.27530574798584,
         "pred": "extend",
-        "correct": true
+        "correct": true,
+        "difference": 0.38848114013671875
     },
     {
         "text": "The longest river in the province is the Athabasca River, which travels from the Columbia Icefield in the Rocky Mountains to Lake Athabasca.",
@@ -2535,7 +2774,8 @@
         "answer": "travels",
         "score1": -19.066192626953125,
         "score2": -9.57699203491211,
-        "pred": "travel"
+        "pred": "travel",
+        "difference": -9.489200592041016
     },
     {
         "text": "However, the torsion angle between a given hydrogen atom attached to the front carbon and a given hydrogen atom attached to the rear carbon can vary freely between 0 and 360.",
@@ -2546,7 +2786,8 @@
         "score1": -9.329150199890137,
         "score2": -9.412528038024902,
         "pred": "vary",
-        "correct": true
+        "correct": true,
+        "difference": 0.08337783813476562
     },
     {
         "text": "Various anarchist groups, tendencies, and schools of thought exist today, making it difficult to describe the contemporary anarchist movement.",
@@ -2557,7 +2798,8 @@
         "score1": -22.229942321777344,
         "score2": -21.70240592956543,
         "pred": "exist",
-        "correct": true
+        "correct": true,
+        "difference": 0.5275363922119141
     },
     {
         "text": "Most of the MAR runs under water but where it reaches the surfaces it has produced volcanic islands.",
@@ -2567,7 +2809,8 @@
         "answer": "reaches",
         "score1": -17.63703155517578,
         "score2": -9.105673789978027,
-        "pred": "reach"
+        "pred": "reach",
+        "difference": -8.531357765197754
     },
     {
         "text": "Illumination Albedo is not directly dependent on illumination because changing the amount of incoming light proportionally changes the amount of reflected light, except in circumstances where a change in illumination induces a change in the Earth's surface at that location (e.g. through melting of reflective ice).",
@@ -2577,7 +2820,8 @@
         "answer": "induces",
         "score1": -18.274023056030273,
         "score2": -18.396682739257812,
-        "pred": "induce"
+        "pred": "induce",
+        "difference": -0.12265968322753906
     },
     {
         "text": "Arawak heritage is stronger on Aruba than on most Caribbean islands; although no full-blooded Aboriginals remain, the features of the islanders clearly indicate their genetic Arawak heritage.",
@@ -2588,7 +2832,8 @@
         "score1": -18.434606552124023,
         "score2": -18.36860466003418,
         "pred": "remain",
-        "correct": true
+        "correct": true,
+        "difference": 0.06600189208984375
     },
     {
         "text": "Arawak heritage is stronger on Aruba than on most Caribbean islands; although no full-blooded Aboriginals remain, the features of the islanders clearly indicate their genetic Arawak heritage.",
@@ -2599,7 +2844,8 @@
         "score1": -18.21493148803711,
         "score2": -17.987987518310547,
         "pred": "indicate",
-        "correct": true
+        "correct": true,
+        "difference": 0.2269439697265625
     },
     {
         "text": "The Matanuska-Susitna Borough, the majority of Fairbanks (including North Pole and the military base), and South Anchorage typically have the strongest Republican showing.",
@@ -2610,7 +2856,8 @@
         "score1": -10.078774452209473,
         "score2": -9.913439750671387,
         "pred": "have",
-        "correct": true
+        "correct": true,
+        "difference": 0.16533470153808594
     },
     {
         "text": "Lizards have moveable eyelids, eardrums are present and some species have a central parietal eye.",
@@ -2621,7 +2868,8 @@
         "score1": -9.778931617736816,
         "score2": -9.587515830993652,
         "pred": "have",
-        "correct": true
+        "correct": true,
+        "difference": 0.19141578674316406
     },
     {
         "text": "The adults vary in length from 8 to 75 centimetres (3 to 30 inches) with the exception of Thomson's caecilian (Caecilia thompsoni), which can reach .",
@@ -2632,7 +2880,8 @@
         "score1": -9.415055274963379,
         "score2": -18.68008041381836,
         "pred": "reach",
-        "correct": true
+        "correct": true,
+        "difference": 9.26502513885498
     },
     {
         "text": "Gozo Shioda's Yoshinkan Aikido, considered one of the \"hard styles\", largely follows Ueshiba's teachings from before World War II, and surmises that the secret to lies in timing and the application of the whole body's strength to a single point.",
@@ -2642,7 +2891,8 @@
         "answer": "follows",
         "score1": -9.22617244720459,
         "score2": -18.422399520874023,
-        "pred": "follow"
+        "pred": "follow",
+        "difference": -9.196227073669434
     },
     {
         "text": "Gozo Shioda's Yoshinkan Aikido, considered one of the \"hard styles\", largely follows Ueshiba's teachings from before World War II, and surmises that the secret to lies in timing and the application of the whole body's strength to a single point.",
@@ -2652,7 +2902,8 @@
         "answer": "lies",
         "score1": -9.047789573669434,
         "score2": -9.099427223205566,
-        "pred": "lie"
+        "pred": "lie",
+        "difference": -0.05163764953613281
     },
     {
         "text": "In one letter, she wrote: \"You are unbearable and burdensome, and very hard to live with; all your good qualities are overshadowed by your conceit, and made useless to the world simply because you cannot restrain your propensity to pick holes in other people.\"",
@@ -2663,7 +2914,8 @@
         "score1": -27.260001182556152,
         "score2": -18.168319702148438,
         "pred": "restrain",
-        "correct": true
+        "correct": true,
+        "difference": 9.091681480407715
     },
     {
         "text": "In Tarkovsky's last diary entry (15 December 1986), he wrote: \"But now I have no strength left   that is the problem\".",
@@ -2674,7 +2926,8 @@
         "score1": -9.039468765258789,
         "score2": -8.928504943847656,
         "pred": "have",
-        "correct": true
+        "correct": true,
+        "difference": 0.11096382141113281
     },
     {
         "text": "He works to ensure that once those espousing Galt's philosophy are restored to their rightful place in society, they have enough capital to rebuild the world.",
@@ -2685,7 +2938,8 @@
         "score1": -9.089038848876953,
         "score2": -9.295550346374512,
         "pred": "have",
-        "correct": true
+        "correct": true,
+        "difference": 0.2065114974975586
     },
     {
         "text": "In his autobiography he wrote: \"this venture has been structured for three men, and I consider my third to be as necessary as either of the other two\".",
@@ -2696,7 +2950,8 @@
         "score1": -9.215892791748047,
         "score2": -18.963773727416992,
         "pred": "consider",
-        "correct": true
+        "correct": true,
+        "difference": 9.747880935668945
     },
     {
         "text": "Variation in summer albedo across both forest types is associated with maximum rates of photosynthesis because plants with high growth capacity display a greater fraction of their foliage for direct interception of incoming radiation in the upper canopy.",
@@ -2707,7 +2962,8 @@
         "score1": -19.342050552368164,
         "score2": -9.482633590698242,
         "pred": "display",
-        "correct": true
+        "correct": true,
+        "difference": 9.859416961669922
     },
     {
         "text": "A play by Alexis from the 4th century BC mentions an abacus and pebbles for accounting, and both Diogenes and Polybius use the abacus as a metaphor for human behavior, stating \"that men that sometimes stood for more and sometimes for less\" like the pebbles on an abacus.",
@@ -2718,7 +2974,8 @@
         "score1": -8.88153076171875,
         "score2": -8.91305923461914,
         "pred": "use",
-        "correct": true
+        "correct": true,
+        "difference": 0.031528472900390625
     },
     {
         "text": "In chapter seven, when the animals confess their non-existent crimes and are killed, Orwell directly alludes to the purges, confessions and show trials of the late 1930s.",
@@ -2728,7 +2985,8 @@
         "answer": "alludes",
         "score1": -19.287023544311523,
         "score2": -19.538841247558594,
-        "pred": "allude"
+        "pred": "allude",
+        "difference": -0.2518177032470703
     },
     {
         "text": "The illustrations contain many other objects beginning with that letter that the reader can try to identify (however, there are not necessarily \"a thousand things, or maybe more\", as the author states).",
@@ -2739,7 +2997,8 @@
         "score1": -8.790472030639648,
         "score2": -8.553165435791016,
         "pred": "try",
-        "correct": true
+        "correct": true,
+        "difference": 0.2373065948486328
     },
     {
         "text": "The illustrations contain many other objects beginning with that letter that the reader can try to identify (however, there are not necessarily \"a thousand things, or maybe more\", as the author states).",
@@ -2749,7 +3008,8 @@
         "answer": "states",
         "score1": -8.883790969848633,
         "score2": -8.865141868591309,
-        "pred": "state"
+        "pred": "state",
+        "difference": -0.01864910125732422
     },
     {
         "text": "This is because the outermost electron of the alkali metals is in a different electron shell than the inner electrons, and thus when it is removed the resulting atom has one fewer electron shell and is smaller.",
@@ -2759,7 +3019,8 @@
         "answer": "has",
         "score1": -8.887492179870605,
         "score2": -8.791034698486328,
-        "pred": "have"
+        "pred": "have",
+        "difference": -0.09645748138427734
     },
     {
         "text": "The country's proximity to the Ionian Sea and the Adriatic Sea give the underdeveloped fishing industry great potential.",
@@ -2770,7 +3031,8 @@
         "score1": -17.390382766723633,
         "score2": -17.814882278442383,
         "pred": "give",
-        "correct": true
+        "correct": true,
+        "difference": 0.42449951171875
     },
     {
         "text": "Margaret Hamilton, the Director of Apollo Flight Computer Programming at the MIT Charles Stark Draper Laboratory later recalled: During the mission, the cause was diagnosed as the rendezvous radar switch being in the wrong position, causing the computer to process data from both the rendezvous and landing radars at the same time.",
@@ -2781,7 +3043,8 @@
         "score1": -19.4082088470459,
         "score2": -28.98768424987793,
         "pred": "process",
-        "correct": true
+        "correct": true,
+        "difference": 9.579475402832031
     },
     {
         "text": "The struggles of the prey and further jaw movements work it inwards and the caecilian usually retreats into its burrow.",
@@ -2791,7 +3054,8 @@
         "answer": "retreats",
         "score1": -18.374881744384766,
         "score2": -27.489832878112793,
-        "pred": "retreat"
+        "pred": "retreat",
+        "difference": -9.114951133728027
     },
     {
         "text": "Societal and cultural aspects of autism have developed: some in the community seek a cure, while others believe that autism is simply another way of being.",
@@ -2802,7 +3066,8 @@
         "score1": -9.716954231262207,
         "score2": -19.671531677246094,
         "pred": "seek",
-        "correct": true
+        "correct": true,
+        "difference": 9.954577445983887
     },
     {
         "text": "Societal and cultural aspects of autism have developed: some in the community seek a cure, while others believe that autism is simply another way of being.",
@@ -2813,7 +3078,8 @@
         "score1": -19.199756622314453,
         "score2": -19.21504020690918,
         "pred": "believe",
-        "correct": true
+        "correct": true,
+        "difference": 0.015283584594726562
     },
     {
         "text": "Football is governed in Andorra by the Andorran Football Federation   founded in 1994, it organizes the national competitions of association football (Primera Divisi, Copa Constituci and Supercopa) and futsal.",
@@ -2823,7 +3089,8 @@
         "answer": "organizes",
         "score1": -17.37903594970703,
         "score2": -17.556377410888672,
-        "pred": "organize"
+        "pred": "organize",
+        "difference": -0.17734146118164062
     },
     {
         "text": "Einstein felt that the waves of arriving Jews of the Aliyah could live alongside existing Arabs in Palestine.",
@@ -2834,7 +3101,8 @@
         "score1": -9.417946815490723,
         "score2": -17.918354034423828,
         "pred": "live",
-        "correct": true
+        "correct": true,
+        "difference": 8.500407218933105
     },
     {
         "text": "Each egg has a large yolk sac and the larva feeds on this while it develops inside the egg, emerging fully formed as a juvenile salamander.",
@@ -2845,7 +3113,8 @@
         "score1": -17.833110809326172,
         "score2": -17.902570724487305,
         "pred": "feeds",
-        "correct": true
+        "correct": true,
+        "difference": 0.06945991516113281
     },
     {
         "text": "Each egg has a large yolk sac and the larva feeds on this while it develops inside the egg, emerging fully formed as a juvenile salamander.",
@@ -2855,7 +3124,8 @@
         "answer": "develops",
         "score1": -17.782394409179688,
         "score2": -8.916407585144043,
-        "pred": "develop"
+        "pred": "develop",
+        "difference": -8.865986824035645
     },
     {
         "text": "The invasion kept going, and in 1057 the Arabs spread on the high plains of Constantine where they encircled the Qalaa of Banu Hammad (capital of the Hammadid Emirate), as they had done in Kairouan a few decades ago.",
@@ -2866,7 +3136,8 @@
         "score1": -18.54340934753418,
         "score2": -27.651881217956543,
         "pred": "spread",
-        "correct": true
+        "correct": true,
+        "difference": 9.108471870422363
     },
     {
         "text": "However the Indo-European component of Apollo does not explain his strong relation with omens, exorcisms, and with the oracular cult.",
@@ -2877,7 +3148,8 @@
         "score1": -18.930288314819336,
         "score2": -18.693265914916992,
         "pred": "explain",
-        "correct": true
+        "correct": true,
+        "difference": 0.23702239990234375
     },
     {
         "text": "In the wider sense, an alphabet is a script that is segmental at the phoneme level that is, it has separate glyphs for individual sounds and not for larger units such as syllables or words.",
@@ -2887,7 +3159,8 @@
         "answer": "has",
         "score1": -8.637953758239746,
         "score2": -8.401867866516113,
-        "pred": "have"
+        "pred": "have",
+        "difference": -0.2360858917236328
     },
     {
         "text": "However, they cover different concepts: Agriculture is the set of activities that transform the environment for the production of animals and plants for human use.",
@@ -2898,7 +3171,8 @@
         "score1": -9.323790550231934,
         "score2": -18.08367919921875,
         "pred": "transform",
-        "correct": true
+        "correct": true,
+        "difference": 8.759888648986816
     },
     {
         "text": "By contrast, ceremonies honoring films that have not performed well at the box office tend to show weaker ratings, despite how much critical acclaim those films have received.",
@@ -2909,7 +3183,8 @@
         "score1": -18.501222610473633,
         "score2": -18.812408447265625,
         "pred": "tend",
-        "correct": true
+        "correct": true,
+        "difference": 0.3111858367919922
     },
     {
         "text": "The New Azerbaijan Party, and independents loyal to the ruling government, currently hold almost all of the Parliament's 125 seats.",
@@ -2920,7 +3195,8 @@
         "score1": -9.907038688659668,
         "score2": -19.701173782348633,
         "pred": "hold",
-        "correct": true
+        "correct": true,
+        "difference": 9.794135093688965
     },
     {
         "text": "It is long known that aquifers in areas as diverse as northern China, the Upper Ganges and the western US are being depleted, and new research extends these problems to aquifers in Iran, Mexico and Saudi Arabia.",
@@ -2930,7 +3206,8 @@
         "answer": "extends",
         "score1": -26.749720573425293,
         "score2": -26.939257621765137,
-        "pred": "extend"
+        "pred": "extend",
+        "difference": -0.18953704833984375
     },
     {
         "text": "Many of its young people, including most of the highest academic achievers, leave the state after high school graduation and do not return.",
@@ -2941,7 +3218,8 @@
         "score1": -17.568994522094727,
         "score2": -8.897900581359863,
         "pred": "leave",
-        "correct": true
+        "correct": true,
+        "difference": 8.671093940734863
     },
     {
         "text": "Although mainstream physics long ignored Einstein's approaches to unification, Einstein's work has motivated modern quests for a theory of everything, in particular string theory, where geometrical fields emerge in a unified quantum-mechanical setting.",
@@ -2952,7 +3230,8 @@
         "score1": -27.944575309753418,
         "score2": -27.693431854248047,
         "pred": "emerge",
-        "correct": true
+        "correct": true,
+        "difference": 0.2511434555053711
     },
     {
         "text": "After the completion of the Trans Adriatic Pipeline (TAP), Albania will be significantly connected to the planned Southern Gas Corridor, that will transport natural gas from the Caspian Sea through Albania to Europe.",
@@ -2963,7 +3242,8 @@
         "score1": -18.174867630004883,
         "score2": -18.073314666748047,
         "pred": "transport",
-        "correct": true
+        "correct": true,
+        "difference": 0.10155296325683594
     },
     {
         "text": "The robot expresses its face by moving all points to the decided positions, they say.",
@@ -2974,7 +3254,8 @@
         "score1": -9.691319465637207,
         "score2": -19.13136100769043,
         "pred": "say",
-        "correct": true
+        "correct": true,
+        "difference": 9.440041542053223
     },
     {
         "text": "Einstein declined, and wrote in his response that he was \"deeply moved\", and \"at once saddened and ashamed\" that he could not accept it.",
@@ -2985,7 +3266,8 @@
         "score1": -8.925167083740234,
         "score2": -17.834260940551758,
         "pred": "accept",
-        "correct": true
+        "correct": true,
+        "difference": 8.909093856811523
     },
     {
         "text": "Much of its shock value derives from the fact that the first portion of the essay describes the plight of starving beggars in Ireland, so that the reader is unprepared for the surprise of Swift's solution when he states: \"A young healthy child well nursed, is, at a year old, a most delicious nourishing and wholesome food, whether stewed, roasted, baked, or boiled; and I make no doubt that it will equally serve in a fricassee, or a ragout.\"",
@@ -2995,7 +3277,8 @@
         "answer": "describes",
         "score1": -19.91392707824707,
         "score2": -19.745683670043945,
-        "pred": "describe"
+        "pred": "describe",
+        "difference": -0.168243408203125
     },
     {
         "text": "Much of its shock value derives from the fact that the first portion of the essay describes the plight of starving beggars in Ireland, so that the reader is unprepared for the surprise of Swift's solution when he states: \"A young healthy child well nursed, is, at a year old, a most delicious nourishing and wholesome food, whether stewed, roasted, baked, or boiled; and I make no doubt that it will equally serve in a fricassee, or a ragout.\"",
@@ -3005,7 +3288,8 @@
         "answer": "states",
         "score1": -9.7507963180542,
         "score2": -9.746706008911133,
-        "pred": "state"
+        "pred": "state",
+        "difference": -0.004090309143066406
     },
     {
         "text": "Much of its shock value derives from the fact that the first portion of the essay describes the plight of starving beggars in Ireland, so that the reader is unprepared for the surprise of Swift's solution when he states: \"A young healthy child well nursed, is, at a year old, a most delicious nourishing and wholesome food, whether stewed, roasted, baked, or boiled; and I make no doubt that it will equally serve in a fricassee, or a ragout.\"",
@@ -3016,7 +3300,8 @@
         "score1": -9.681697845458984,
         "score2": -9.663305282592773,
         "pred": "make",
-        "correct": true
+        "correct": true,
+        "difference": 0.018392562866210938
     },
     {
         "text": "Much of its shock value derives from the fact that the first portion of the essay describes the plight of starving beggars in Ireland, so that the reader is unprepared for the surprise of Swift's solution when he states: \"A young healthy child well nursed, is, at a year old, a most delicious nourishing and wholesome food, whether stewed, roasted, baked, or boiled; and I make no doubt that it will equally serve in a fricassee, or a ragout.\"",
@@ -3026,7 +3311,8 @@
         "answer": "serve",
         "score1": -18.95290184020996,
         "score2": -18.97130584716797,
-        "pred": "serves"
+        "pred": "serves",
+        "difference": -0.018404006958007812
     },
     {
         "text": "Although historians generally agree that the Articles were too weak to hold the fast-growing nation together, they do give credit to the settlement of the western issue, as the states voluntarily turned over their lands to national control.",
@@ -3037,7 +3323,8 @@
         "score1": -9.059417724609375,
         "score2": -9.00675106048584,
         "pred": "give",
-        "correct": true
+        "correct": true,
+        "difference": 0.052666664123535156
     },
     {
         "text": "R.S. Owens is expected to continue producing other awards for the Academy and service existing Oscars that need replating.",
@@ -3047,7 +3334,8 @@
         "answer": "need",
         "score1": -9.213414192199707,
         "score2": -9.238245010375977,
-        "pred": "needs"
+        "pred": "needs",
+        "difference": -0.02483081817626953
     },
     {
         "text": "The uneven heating of Earth from albedo variations between land, ice, or ocean surfaces can drive weather.",
@@ -3058,7 +3346,8 @@
         "score1": -19.385486602783203,
         "score2": -10.034879684448242,
         "pred": "drive",
-        "correct": true
+        "correct": true,
+        "difference": 9.350606918334961
     },
     {
         "text": "With their demotion from a primary branch, Proto-Mon Khmer becomes synonymous with Proto-Austroasiatic.",
@@ -3069,7 +3358,8 @@
         "score1": -18.49993133544922,
         "score2": -18.429004669189453,
         "pred": "becomes",
-        "correct": true
+        "correct": true,
+        "difference": 0.07092666625976562
     },
     {
         "text": "(However, Napoleon had in fact engineered the sale of Boxer to the knacker, allowing him and his inner circle to acquire money to buy whisky for themselves.)",
@@ -3080,7 +3370,8 @@
         "score1": -19.158971786499023,
         "score2": -19.70265769958496,
         "pred": "acquire",
-        "correct": true
+        "correct": true,
+        "difference": 0.5436859130859375
     },
     {
         "text": "The Dietary Reference Intake for sodium is 1.5 grams per day, but most people in the United States consume more than 2.3 grams per day, the minimum amount that promotes hypertension; this in turn causes 7.6 million premature deaths worldwide.",
@@ -3090,7 +3381,8 @@
         "answer": "consume",
         "score1": -20.921232223510742,
         "score2": -20.8304500579834,
-        "pred": "consumes"
+        "pred": "consumes",
+        "difference": -0.09078216552734375
     },
     {
         "text": "The Dietary Reference Intake for sodium is 1.5 grams per day, but most people in the United States consume more than 2.3 grams per day, the minimum amount that promotes hypertension; this in turn causes 7.6 million premature deaths worldwide.",
@@ -3101,7 +3393,8 @@
         "score1": -19.791656494140625,
         "score2": -19.77944564819336,
         "pred": "promotes",
-        "correct": true
+        "correct": true,
+        "difference": 0.012210845947265625
     },
     {
         "text": "The Dietary Reference Intake for sodium is 1.5 grams per day, but most people in the United States consume more than 2.3 grams per day, the minimum amount that promotes hypertension; this in turn causes 7.6 million premature deaths worldwide.",
@@ -3111,7 +3404,8 @@
         "answer": "causes",
         "score1": -10.087339401245117,
         "score2": -19.92894172668457,
-        "pred": "cause"
+        "pred": "cause",
+        "difference": -9.841602325439453
     },
     {
         "text": "The Catholic Church and some major Protestant denominations mostly keep to themselves in contrast to the \"New Churches\" which actively proselytize.",
@@ -3122,7 +3416,8 @@
         "score1": -43.531107902526855,
         "score2": -43.905367851257324,
         "pred": "proselytize",
-        "correct": true
+        "correct": true,
+        "difference": 0.37425994873046875
     },
     {
         "text": "While that national dichotomy has stymied any effort at changing the tradition of the national anthem, \"America the Beautiful\" continues to be held in high esteem by a large number of Americans, and was even being considered before 1931 as a candidate to become the national anthem of the United States.",
@@ -3132,7 +3427,8 @@
         "answer": "continues",
         "score1": -9.583659172058105,
         "score2": -18.971532821655273,
-        "pred": "continue"
+        "pred": "continue",
+        "difference": -9.387873649597168
     },
     {
         "text": "Temperatures tend to be warmer in the southern part of the state with its proximity to the Gulf of Mexico, while the northern parts of the state, especially in the Appalachian Mountains in the northeast, tend to be slightly cooler.",
@@ -3143,7 +3439,8 @@
         "score1": -18.110910415649414,
         "score2": -18.15572166442871,
         "pred": "tend",
-        "correct": true
+        "correct": true,
+        "difference": 0.044811248779296875
     },
     {
         "text": "Screen readers are used to help the visually impaired to easily access electronic information.",
@@ -3154,7 +3451,8 @@
         "score1": -20.669471740722656,
         "score2": -10.561396598815918,
         "pred": "access",
-        "correct": true
+        "correct": true,
+        "difference": 10.108075141906738
     },
     {
         "text": "The fixed-effects model (class I) of analysis of variance applies to situations in which the experimenter applies one or more treatments to the subjects of the experiment to see whether the response variable values change.",
@@ -3164,7 +3462,8 @@
         "answer": "applies",
         "score1": -10.05155086517334,
         "score2": -19.586320877075195,
-        "pred": "apply"
+        "pred": "apply",
+        "difference": -9.534770011901855
     },
     {
         "text": "The fixed-effects model (class I) of analysis of variance applies to situations in which the experimenter applies one or more treatments to the subjects of the experiment to see whether the response variable values change.",
@@ -3174,7 +3473,8 @@
         "answer": "applies",
         "score1": -19.31269645690918,
         "score2": -9.69320011138916,
-        "pred": "apply"
+        "pred": "apply",
+        "difference": -9.61949634552002
     },
     {
         "text": "The fixed-effects model (class I) of analysis of variance applies to situations in which the experimenter applies one or more treatments to the subjects of the experiment to see whether the response variable values change.",
@@ -3185,7 +3485,8 @@
         "score1": -9.291149139404297,
         "score2": -9.331491470336914,
         "pred": "change",
-        "correct": true
+        "correct": true,
+        "difference": 0.04034233093261719
     },
     {
         "text": "Benjamin   A donkey, one of the oldest, wisest animals on the farm, and one of the few who can read properly.",
@@ -3196,7 +3497,8 @@
         "score1": -8.513968467712402,
         "score2": -8.602705955505371,
         "pred": "read",
-        "correct": true
+        "correct": true,
+        "difference": 0.08873748779296875
     },
     {
         "text": "A titration curve for a diprotic acid contains two midpoints where pH=pKa.",
@@ -3207,7 +3509,8 @@
         "score1": -9.521525382995605,
         "score2": -9.521525382995605,
         "pred": "=",
-        "correct": true
+        "correct": true,
+        "difference": 0.0
     },
     {
         "text": "To protect Einstein, Locker-Lampson had two bodyguards watch over him at his secluded cabin; a photo of them carrying shotguns and guarding Einstein was published in the Daily Herald on 24 July 1933.",
@@ -3218,7 +3521,8 @@
         "score1": -9.390140533447266,
         "score2": -19.137495040893555,
         "pred": "watch",
-        "correct": true
+        "correct": true,
+        "difference": 9.747354507446289
     },
     {
         "text": "The Apollo 8 crew were the first humans to pass through the Van Allen radiation belts, which extend up to from Earth.",
@@ -3229,7 +3533,8 @@
         "score1": -28.68735980987549,
         "score2": -28.893885612487793,
         "pred": "extend",
-        "correct": true
+        "correct": true,
+        "difference": 0.2065258026123047
     },
     {
         "text": "It is unclear if costly signaling can indicate a long-term cooperative personality but people have increased trust for those who help.",
@@ -3239,7 +3544,8 @@
         "answer": "help",
         "score1": -9.770212173461914,
         "score2": -9.795923233032227,
-        "pred": "helps"
+        "pred": "helps",
+        "difference": -0.0257110595703125
     },
     {
         "text": "Words, even the pregnant words of poets, do not evoke pictures in my mind.",
@@ -3250,7 +3556,8 @@
         "score1": -19.018463134765625,
         "score2": -18.338558197021484,
         "pred": "evoke",
-        "correct": true
+        "correct": true,
+        "difference": 0.6799049377441406
     },
     {
         "text": "On average, the Atlantic is the saltiest major ocean; surface water salinity in the open ocean ranges from 33 to 37 parts per thousand (3.3 3.7%) by mass and varies with latitude and season.",
@@ -3260,7 +3567,8 @@
         "answer": "ranges",
         "score1": -9.17839527130127,
         "score2": -18.5186710357666,
-        "pred": "range"
+        "pred": "range",
+        "difference": -9.340275764465332
     },
     {
         "text": "Amateur astronomers typically view the sky at night, when most celestial objects and astronomical events are visible, but others observe during the daytime by viewing the Sun and solar eclipses.",
@@ -3271,7 +3579,8 @@
         "score1": -29.242069244384766,
         "score2": -29.053281784057617,
         "pred": "observe",
-        "correct": true
+        "correct": true,
+        "difference": 0.18878746032714844
     },
     {
         "text": "Furthermore, Sonangol, the state-run oil company, controls 51% of Cabinda's oil.",
@@ -3281,7 +3590,8 @@
         "answer": "controls",
         "score1": -9.025803565979004,
         "score2": -17.947275161743164,
-        "pred": "control"
+        "pred": "control",
+        "difference": -8.92147159576416
     },
     {
         "text": "However, it would require all data transmission to send eight bits when seven could suffice.",
@@ -3292,7 +3602,8 @@
         "score1": -18.96617889404297,
         "score2": -18.59709358215332,
         "pred": "suffice",
-        "correct": true
+        "correct": true,
+        "difference": 0.36908531188964844
     },
     {
         "text": "It is the culmination of the film awards season, which usually begins during November or December of the previous year.",
@@ -3302,7 +3613,8 @@
         "answer": "begins",
         "score1": -18.22665023803711,
         "score2": -9.080911636352539,
-        "pred": "begin"
+        "pred": "begin",
+        "difference": -9.14573860168457
     },
     {
         "text": "Due to measurement constraints, it is often given for the spectrum in which most solar energy reaches the surface (between 0.3 and 3 m).",
@@ -3312,7 +3624,8 @@
         "answer": "reaches",
         "score1": -18.432022094726562,
         "score2": -9.356350898742676,
-        "pred": "reach"
+        "pred": "reach",
+        "difference": -9.075671195983887
     },
     {
         "text": "\"There was, in the father's life, some dark and vague source of fear which later made him hurl himself to his death from the attic of his house in Hamburg.\"",
@@ -3323,7 +3636,8 @@
         "score1": -26.102768898010254,
         "score2": -17.437288284301758,
         "pred": "hurl",
-        "correct": true
+        "correct": true,
+        "difference": 8.665480613708496
     },
     {
         "text": "Other connections that writers have suggested illustrate Orwell's telescoping of Russian history from 1917 to 1943 include the wave of rebelliousness that ran through the countryside after the Rebellion, which stands for the abortive revolutions in Hungary and in Germany (Ch IV); the conflict between Napoleon and Snowball (Ch V), parallelling \"the two rival and quasi-Messianic beliefs that seemed pitted against one another: Trotskyism, with its faith in the revolutionary vocation of the proletariat of the West; and Stalinism with its glorification of Russia's socialist destiny\"; Napoleon's dealings with Whymper and the Willingdon markets (Ch VI), paralleling the Treaty of Rapallo; and Frederick's forged bank notes, parallelling the Hitler-Stalin pact of August 1939, after which Frederick attacks Animal Farm without warning and destroys the windmill.",
@@ -3333,7 +3647,8 @@
         "answer": "include",
         "score1": -9.781129837036133,
         "score2": -9.663607597351074,
-        "pred": "includes"
+        "pred": "includes",
+        "difference": -0.1175222396850586
     },
     {
         "text": "Other connections that writers have suggested illustrate Orwell's telescoping of Russian history from 1917 to 1943 include the wave of rebelliousness that ran through the countryside after the Rebellion, which stands for the abortive revolutions in Hungary and in Germany (Ch IV); the conflict between Napoleon and Snowball (Ch V), parallelling \"the two rival and quasi-Messianic beliefs that seemed pitted against one another: Trotskyism, with its faith in the revolutionary vocation of the proletariat of the West; and Stalinism with its glorification of Russia's socialist destiny\"; Napoleon's dealings with Whymper and the Willingdon markets (Ch VI), paralleling the Treaty of Rapallo; and Frederick's forged bank notes, parallelling the Hitler-Stalin pact of August 1939, after which Frederick attacks Animal Farm without warning and destroys the windmill.",
@@ -3343,7 +3658,8 @@
         "answer": "stands",
         "score1": -18.740442276000977,
         "score2": -9.379302024841309,
-        "pred": "stand"
+        "pred": "stand",
+        "difference": -9.361140251159668
     },
     {
         "text": "Other connections that writers have suggested illustrate Orwell's telescoping of Russian history from 1917 to 1943 include the wave of rebelliousness that ran through the countryside after the Rebellion, which stands for the abortive revolutions in Hungary and in Germany (Ch IV); the conflict between Napoleon and Snowball (Ch V), parallelling \"the two rival and quasi-Messianic beliefs that seemed pitted against one another: Trotskyism, with its faith in the revolutionary vocation of the proletariat of the West; and Stalinism with its glorification of Russia's socialist destiny\"; Napoleon's dealings with Whymper and the Willingdon markets (Ch VI), paralleling the Treaty of Rapallo; and Frederick's forged bank notes, parallelling the Hitler-Stalin pact of August 1939, after which Frederick attacks Animal Farm without warning and destroys the windmill.",
@@ -3353,7 +3669,8 @@
         "answer": "attacks",
         "score1": -9.560766220092773,
         "score2": -9.560476303100586,
-        "pred": "attack"
+        "pred": "attack",
+        "difference": -0.0002899169921875
     },
     {
         "text": "An Arrhenius acid is a substance that, when added to water, increases the concentration of H+ ions in the water.",
@@ -3364,7 +3681,8 @@
         "score1": -17.309423446655273,
         "score2": -17.31717300415039,
         "pred": "increases",
-        "correct": true
+        "correct": true,
+        "difference": 0.0077495574951171875
     },
     {
         "text": "In contrast, if the entire Earth was covered by water   a so-called ocean planet   the average temperature on the planet would rise to almost .",
@@ -3375,7 +3693,8 @@
         "score1": -9.038695335388184,
         "score2": -8.86251163482666,
         "pred": "rise",
-        "correct": true
+        "correct": true,
+        "difference": 0.17618370056152344
     },
     {
         "text": "Angry at the dishonour of having his plunder and glory taken away (and, as he says later, because he loves Briseis), with the urging of his mother Thetis, Achilles refuses to fight or lead his troops alongside the other Greek forces.",
@@ -3385,7 +3704,8 @@
         "answer": "says",
         "score1": -9.356351852416992,
         "score2": -9.49055290222168,
-        "pred": "say"
+        "pred": "say",
+        "difference": -0.1342010498046875
     },
     {
         "text": "Angry at the dishonour of having his plunder and glory taken away (and, as he says later, because he loves Briseis), with the urging of his mother Thetis, Achilles refuses to fight or lead his troops alongside the other Greek forces.",
@@ -3395,7 +3715,8 @@
         "answer": "loves",
         "score1": -9.3286714553833,
         "score2": -9.148614883422852,
-        "pred": "love"
+        "pred": "love",
+        "difference": -0.18005657196044922
     },
     {
         "text": "Angry at the dishonour of having his plunder and glory taken away (and, as he says later, because he loves Briseis), with the urging of his mother Thetis, Achilles refuses to fight or lead his troops alongside the other Greek forces.",
@@ -3405,7 +3726,8 @@
         "answer": "refuses",
         "score1": -18.816518783569336,
         "score2": -18.77620506286621,
-        "pred": "refuse"
+        "pred": "refuse",
+        "difference": -0.040313720703125
     },
     {
         "text": "Some prefer \"America the Beautiful\" over \"The Star-Spangled Banner\" due to the latter's war-oriented imagery; others prefer \"The Star-Spangled Banner\" for the same reason.",
@@ -3416,7 +3738,8 @@
         "score1": -19.364116668701172,
         "score2": -28.5611629486084,
         "pred": "prefer",
-        "correct": true
+        "correct": true,
+        "difference": 9.197046279907227
     },
     {
         "text": "Some frogs and toads inflate themselves to make themselves look large and fierce, and some spadefoot toads (Pelobates spp) scream and leap towards the attacker.",
@@ -3427,7 +3750,8 @@
         "score1": -18.019264221191406,
         "score2": -26.956890106201172,
         "pred": "scream",
-        "correct": true
+        "correct": true,
+        "difference": 8.937625885009766
     },
     {
         "text": "However, a few vertebrates, such as the sturgeon and the coelacanth retain the notochord into adulthood.",
@@ -3438,7 +3762,8 @@
         "score1": -18.082443237304688,
         "score2": -17.88332748413086,
         "pred": "retain",
-        "correct": true
+        "correct": true,
+        "difference": 0.19911575317382812
     },
     {
         "text": "Achilles even engages in battle with the river god Scamander, who has become angry that Achilles is choking his waters with all the men he has killed.",
@@ -3449,7 +3774,8 @@
         "score1": -18.295055389404297,
         "score2": -18.401275634765625,
         "pred": "become",
-        "correct": true
+        "correct": true,
+        "difference": 0.10622024536132812
     },
     {
         "text": "The National Institute for Occupational Safety and Health (NIOSH) has set a recommended exposure limit of 5 mg/m3 over a 15-minute period.",
@@ -3460,7 +3786,8 @@
         "score1": -9.501221656799316,
         "score2": -9.723245620727539,
         "pred": "set",
-        "correct": true
+        "correct": true,
+        "difference": 0.22202396392822266
     },
     {
         "text": "With regard to the bystander effect, studies have shown that emergencies deemed ambiguous trigger the appearance of the classic bystander effect (wherein more witnesses decrease the likelihood of any of them helping) far more than non-ambiguous emergencies.",
@@ -3471,7 +3798,8 @@
         "score1": -37.451454162597656,
         "score2": -46.833906173706055,
         "pred": "trigger",
-        "correct": true
+        "correct": true,
+        "difference": 9.382452011108398
     },
     {
         "text": "With regard to the bystander effect, studies have shown that emergencies deemed ambiguous trigger the appearance of the classic bystander effect (wherein more witnesses decrease the likelihood of any of them helping) far more than non-ambiguous emergencies.",
@@ -3482,7 +3810,8 @@
         "score1": -29.069432258605957,
         "score2": -28.864328384399414,
         "pred": "decrease",
-        "correct": true
+        "correct": true,
+        "difference": 0.20510387420654297
     },
     {
         "text": "Although this is not strictly necessary and is not part of the IUPAC naming system, the usage is still common in cases where one wishes to emphasize or distinguish between the straight-chain and branched-chain isomers, e.g., \"n-butane\" rather than simply \"butane\" to differentiate it from isobutane.",
@@ -3492,7 +3821,8 @@
         "answer": "wishes",
         "score1": -16.551050186157227,
         "score2": -16.679811477661133,
-        "pred": "wish"
+        "pred": "wish",
+        "difference": -0.12876129150390625
     },
     {
         "text": "The Gibraltar Arc in the western Mediterranean is migrating westward into the Central Atlantic where it joins the converging African and Eurasian plates.",
@@ -3502,7 +3832,8 @@
         "answer": "joins",
         "score1": -18.34111976623535,
         "score2": -9.343425750732422,
-        "pred": "join"
+        "pred": "join",
+        "difference": -8.99769401550293
     },
     {
         "text": "Besides major transatlantic transportation and communication routes, the Atlantic offers abundant petroleum deposits in the sedimentary rocks of the continental shelves.",
@@ -3512,7 +3843,8 @@
         "answer": "offers",
         "score1": -20.423828125,
         "score2": -10.516386985778809,
-        "pred": "offer"
+        "pred": "offer",
+        "difference": -9.907441139221191
     },
     {
         "text": "The alkalide anions have filled s-subshells, which gives them enough stability to exist.",
@@ -3522,7 +3854,8 @@
         "answer": "gives",
         "score1": -9.122252464294434,
         "score2": -17.81812858581543,
-        "pred": "give"
+        "pred": "give",
+        "difference": -8.695876121520996
     },
     {
         "text": "Snow also falls on the coastal areas in the southwest almost every winter such as in the Ceraunian Mountains, where it can lie even beyond March.",
@@ -3533,7 +3866,8 @@
         "score1": -8.850805282592773,
         "score2": -8.78931713104248,
         "pred": "lie",
-        "correct": true
+        "correct": true,
+        "difference": 0.06148815155029297
     },
     {
         "text": "An exception is the granular poison frog (Oophaga granulifera) where the male and female place their cloacae in close proximity while facing in opposite directions and then release eggs and sperm simultaneously.",
@@ -3544,7 +3878,8 @@
         "score1": -9.103611946105957,
         "score2": -9.265610694885254,
         "pred": "place",
-        "correct": true
+        "correct": true,
+        "difference": 0.16199874877929688
     },
     {
         "text": "Throughout the 1850s, Lincoln had doubted the prospects of civil war, and his supporters rejected claims that his election would incite secession.",
@@ -3554,7 +3889,8 @@
         "answer": "incite",
         "score1": -18.479259490966797,
         "score2": -18.324132919311523,
-        "pred": "incites"
+        "pred": "incites",
+        "difference": -0.15512657165527344
     },
     {
         "text": "Presidential speech writer William Safire had prepared an In Event of Moon Disaster announcement for Nixon to read in the event the Apollo 11 astronauts were stranded on the Moon.",
@@ -3565,7 +3901,8 @@
         "score1": -10.212388038635254,
         "score2": -10.13444995880127,
         "pred": "read",
-        "correct": true
+        "correct": true,
+        "difference": 0.07793807983398438
     },
     {
         "text": "While live-action films are now also storyboarded, they enjoy more latitude to depart from storyboards (i.e., real-time improvisation).",
@@ -3576,7 +3913,8 @@
         "score1": -17.103845596313477,
         "score2": -25.47604751586914,
         "pred": "enjoy",
-        "correct": true
+        "correct": true,
+        "difference": 8.372201919555664
     },
     {
         "text": "Upon heating of KC8, the elimination of potassium atoms results in the conversion in sequence to KC24, KC36, KC48 and finally KC60.",
@@ -3586,7 +3924,8 @@
         "answer": "results",
         "score1": -10.5189790725708,
         "score2": -10.721312522888184,
-        "pred": "result"
+        "pred": "result",
+        "difference": -0.2023334503173828
     },
     {
         "text": "Speaking of the treatment of slaves in the slave-holding states of the United States, he condemned \"those devils in human form, those bigoted, church-going, strict sabbath-observing scoundrels, especially the Anglican parsons among them\" for how they \"treat their innocent black brothers who through violence and injustice have fallen into their devil's claws\".",
@@ -3597,7 +3936,8 @@
         "score1": -28.591240882873535,
         "score2": -19.10155487060547,
         "pred": "treat",
-        "correct": true
+        "correct": true,
+        "difference": 9.489686012268066
     },
     {
         "text": "While Alabama's public education system has improved in recent decades, it lags behind in achievement compared to other states.",
@@ -3607,7 +3947,8 @@
         "answer": "lags",
         "score1": -17.340320587158203,
         "score2": -8.973177909851074,
-        "pred": "lag"
+        "pred": "lag",
+        "difference": -8.367142677307129
     },
     {
         "text": "Since apurva is non-sentient, it cannot act unless moved by an intelligent being such as a god.",
@@ -3618,7 +3959,8 @@
         "score1": -9.912453651428223,
         "score2": -10.353301048278809,
         "pred": "act",
-        "correct": true
+        "correct": true,
+        "difference": 0.44084739685058594
     },
     {
         "text": "He notes that an animal's structure is well matched to function, so, among birds, the heron, which lives in marshes with soft mud and lives by catching fish, has a long neck and long legs, and a sharp spear-like beak, whereas ducks that swim have short legs and webbed feet.",
@@ -3628,7 +3970,8 @@
         "answer": "has",
         "score1": -9.206338882446289,
         "score2": -9.109136581420898,
-        "pred": "have"
+        "pred": "have",
+        "difference": -0.09720230102539062
     },
     {
         "text": "He notes that an animal's structure is well matched to function, so, among birds, the heron, which lives in marshes with soft mud and lives by catching fish, has a long neck and long legs, and a sharp spear-like beak, whereas ducks that swim have short legs and webbed feet.",
@@ -3638,7 +3981,8 @@
         "answer": "lives",
         "score1": -17.3264102935791,
         "score2": -8.92096996307373,
-        "pred": "live"
+        "pred": "live",
+        "difference": -8.405440330505371
     },
     {
         "text": "He notes that an animal's structure is well matched to function, so, among birds, the heron, which lives in marshes with soft mud and lives by catching fish, has a long neck and long legs, and a sharp spear-like beak, whereas ducks that swim have short legs and webbed feet.",
@@ -3649,7 +3993,8 @@
         "score1": -9.060632705688477,
         "score2": -9.002245903015137,
         "pred": "have",
-        "correct": true
+        "correct": true,
+        "difference": 0.058386802673339844
     },
     {
         "text": "He notes that an animal's structure is well matched to function, so, among birds, the heron, which lives in marshes with soft mud and lives by catching fish, has a long neck and long legs, and a sharp spear-like beak, whereas ducks that swim have short legs and webbed feet.",
@@ -3660,7 +4005,8 @@
         "score1": -17.84265899658203,
         "score2": -18.013093948364258,
         "pred": "swim",
-        "correct": true
+        "correct": true,
+        "difference": 0.17043495178222656
     },
     {
         "text": "Social anthropology studies patterns of behaviour, while cultural anthropology studies cultural meaning, including norms and values.",
@@ -3670,7 +4016,8 @@
         "answer": "studies",
         "score1": -9.998189926147461,
         "score2": -20.30679702758789,
-        "pred": "study"
+        "pred": "study",
+        "difference": -10.30860710144043
     },
     {
         "text": "The total he had carried was a tenth of the amount that the Saturn V would burn every second.",
@@ -3681,7 +4028,8 @@
         "score1": -16.876609802246094,
         "score2": -8.432422637939453,
         "pred": "burn",
-        "correct": true
+        "correct": true,
+        "difference": 8.44418716430664
     },
     {
         "text": "The conflict began when the IPIB Synod, in 1938, recognized the existence of different positions within the denomination regarding Annihilationism and eternal punishment and appointed a commission to draft a new confession, which would replace the Westminster Confession of Faith hitherto adopted by the denomination.",
@@ -3692,7 +4040,8 @@
         "score1": -9.595734596252441,
         "score2": -19.127260208129883,
         "pred": "replace",
-        "correct": true
+        "correct": true,
+        "difference": 9.531525611877441
     },
     {
         "text": "The appellate court will typically be deferential to the lower court's findings of fact (such as whether a defendant committed a particular act), unless clearly erroneous, and so will focus on the court's application of the law to those facts (such as whether the act found by the court to have occurred fits a legal definition at issue).",
@@ -3703,7 +4052,8 @@
         "score1": -9.162033081054688,
         "score2": -9.20319938659668,
         "pred": "fits",
-        "correct": true
+        "correct": true,
+        "difference": 0.04116630554199219
     },
     {
         "text": "Potassium superoxide is used in breathing masks, as it reacts with carbon dioxide to give potassium carbonate and oxygen gas.",
@@ -3713,7 +4063,8 @@
         "answer": "reacts",
         "score1": -19.907527923583984,
         "score2": -10.160318374633789,
-        "pred": "react"
+        "pred": "react",
+        "difference": -9.747209548950195
     },
     {
         "text": "A Supreme Court serves as the appellate tribunal; a Constitutional Court does not hold the powers of judicial review.",
@@ -3724,7 +4075,8 @@
         "score1": -9.105499267578125,
         "score2": -18.081865310668945,
         "pred": "hold",
-        "correct": true
+        "correct": true,
+        "difference": 8.97636604309082
     },
     {
         "text": "Adepts believed in the macrocosm-microcosm theories of Hermes, that is to say, they believed that processes that affect minerals and other substances could have an effect on the human body (for example, if one could learn the secret of purifying gold, one could use the technique to purify the human soul).",
@@ -3735,7 +4087,8 @@
         "score1": -9.192878723144531,
         "score2": -9.052812576293945,
         "pred": "have",
-        "correct": true
+        "correct": true,
+        "difference": 0.14006614685058594
     },
     {
         "text": "Adepts believed in the macrocosm-microcosm theories of Hermes, that is to say, they believed that processes that affect minerals and other substances could have an effect on the human body (for example, if one could learn the secret of purifying gold, one could use the technique to purify the human soul).",
@@ -3746,7 +4099,8 @@
         "score1": -17.594999313354492,
         "score2": -26.454171180725098,
         "pred": "affect",
-        "correct": true
+        "correct": true,
+        "difference": 8.859171867370605
     },
     {
         "text": "Adepts believed in the macrocosm-microcosm theories of Hermes, that is to say, they believed that processes that affect minerals and other substances could have an effect on the human body (for example, if one could learn the secret of purifying gold, one could use the technique to purify the human soul).",
@@ -3757,7 +4111,8 @@
         "score1": -8.829751014709473,
         "score2": -17.622230529785156,
         "pred": "learn",
-        "correct": true
+        "correct": true,
+        "difference": 8.792479515075684
     },
     {
         "text": "Adepts believed in the macrocosm-microcosm theories of Hermes, that is to say, they believed that processes that affect minerals and other substances could have an effect on the human body (for example, if one could learn the secret of purifying gold, one could use the technique to purify the human soul).",
@@ -3768,7 +4123,8 @@
         "score1": -8.83342170715332,
         "score2": -8.798933982849121,
         "pred": "use",
-        "correct": true
+        "correct": true,
+        "difference": 0.03448772430419922
     },
     {
         "text": "As a result, his philosophy has exerted a unique influence on almost every form of knowledge in the West and it continues to be a subject of contemporary philosophical discussion.",
@@ -3778,7 +4134,8 @@
         "answer": "continues",
         "score1": -17.01810646057129,
         "score2": -8.493459701538086,
-        "pred": "continue"
+        "pred": "continue",
+        "difference": -8.524646759033203
     },
     {
         "text": "The latter are predicated upon social relationships, whilst altruism does not consider relationships.",
@@ -3789,7 +4146,8 @@
         "score1": -19.493268966674805,
         "score2": -9.411972045898438,
         "pred": "consider",
-        "correct": true
+        "correct": true,
+        "difference": 10.081296920776367
     },
     {
         "text": "Daniel Eagan of Film Journal International described Dwan as one of the early pioneers of cinema, stating that his style \"is so basic as to seem invisible, but he treats his characters with uncommon sympathy and compassion.\"",
@@ -3799,7 +4157,8 @@
         "answer": "treats",
         "score1": -17.955392837524414,
         "score2": -26.913119316101074,
-        "pred": "treat"
+        "pred": "treat",
+        "difference": -8.95772647857666
     },
     {
         "text": "Dostum's forces were defeated by the Taliban during the Battles of Mazar-i-Sharif in 1997 and 1998; Pakistan's Chief of Army Staff, Pervez Musharraf, began sending thousands of Pakistanis to help the Taliban defeat the Northern Alliance.",
@@ -3810,7 +4169,8 @@
         "score1": -28.099451065063477,
         "score2": -27.753742218017578,
         "pred": "defeat",
-        "correct": true
+        "correct": true,
+        "difference": 0.34570884704589844
     },
     {
         "text": "There is ongoing discussion regarding the labeling of foods made from GMOs, and while the EU currently requires all GMO foods to be labeled, the US does not.",
@@ -3821,7 +4181,8 @@
         "score1": -9.934459686279297,
         "score2": -9.916131973266602,
         "pred": "requires",
-        "correct": true
+        "correct": true,
+        "difference": 0.018327713012695312
     },
     {
         "text": "There is ongoing discussion regarding the labeling of foods made from GMOs, and while the EU currently requires all GMO foods to be labeled, the US does not.",
@@ -3831,7 +4192,8 @@
         "answer": "does",
         "score1": -9.758476257324219,
         "score2": -9.859408378601074,
-        "pred": "do"
+        "pred": "do",
+        "difference": -0.10093212127685547
     },
     {
         "text": "Even more importantly, forward compatibility is ensured as software that recognizes only 7-bit ASCII characters as special and does not alter bytes with the highest bit set (as is often done to support 8-bit ASCII extensions such as ISO-8859-1) will preserve UTF-8 data unchanged.",
@@ -3842,7 +4204,8 @@
         "score1": -18.81719207763672,
         "score2": -18.75865364074707,
         "pred": "preserve",
-        "correct": true
+        "correct": true,
+        "difference": 0.05853843688964844
     },
     {
         "text": "Even more importantly, forward compatibility is ensured as software that recognizes only 7-bit ASCII characters as special and does not alter bytes with the highest bit set (as is often done to support 8-bit ASCII extensions such as ISO-8859-1) will preserve UTF-8 data unchanged.",
@@ -3852,7 +4215,8 @@
         "answer": "recognizes",
         "score1": -20.267627716064453,
         "score2": -19.83659553527832,
-        "pred": "recognize"
+        "pred": "recognize",
+        "difference": -0.4310321807861328
     },
     {
         "text": "The treatises of Zosimos of Panopolis, the earliest historically attested author (fl. c. 300 CE), can help in situating the other authors.",
@@ -3862,7 +4226,8 @@
         "answer": "help",
         "score1": -9.171345710754395,
         "score2": -9.184399604797363,
-        "pred": "helps"
+        "pred": "helps",
+        "difference": -0.01305389404296875
     },
     {
         "text": "This response is mostly secondary because salamanders have been observed to remain stationary near odoriferous prey but only feed if it moves.",
@@ -3872,7 +4237,8 @@
         "answer": "moves",
         "score1": -17.56487274169922,
         "score2": -8.741079330444336,
-        "pred": "move"
+        "pred": "move",
+        "difference": -8.823793411254883
     },
     {
         "text": "Sometimes, the appellate court finds a defect in the procedure the parties used in filing the appeal and dismisses the appeal without considering its merits, which has the same effect as affirming the judgment below.",
@@ -3882,7 +4248,8 @@
         "answer": "has",
         "score1": -9.678709983825684,
         "score2": -9.810927391052246,
-        "pred": "have"
+        "pred": "have",
+        "difference": -0.1322174072265625
     },
     {
         "text": "Second, the heat generated by the first part of the reaction often ignites the hydrogen gas, causing it to burn explosively into the surrounding air.",
@@ -3893,7 +4260,8 @@
         "score1": -17.985395431518555,
         "score2": -17.95702362060547,
         "pred": "ignites",
-        "correct": true
+        "correct": true,
+        "difference": 0.028371810913085938
     },
     {
         "text": "Second, the heat generated by the first part of the reaction often ignites the hydrogen gas, causing it to burn explosively into the surrounding air.",
@@ -3904,7 +4272,8 @@
         "score1": -9.17709732055664,
         "score2": -18.291723251342773,
         "pred": "burn",
-        "correct": true
+        "correct": true,
+        "difference": 9.114625930786133
     },
     {
         "text": "Synthetic fertilizers are more heavily relied upon for crop production and manure use becomes a challenge as well as a source for pollution.",
@@ -3914,7 +4283,8 @@
         "answer": "becomes",
         "score1": -19.867990493774414,
         "score2": -19.642446517944336,
-        "pred": "become"
+        "pred": "become",
+        "difference": -0.22554397583007812
     },
     {
         "text": "At the onset of his duel with Hector, Achilles is referred to as the brightest star in the sky, which comes on in the autumn, Orion's dog (Sirius); a sign of evil.",
@@ -3925,7 +4295,8 @@
         "score1": -9.516302108764648,
         "score2": -9.608036041259766,
         "pred": "comes",
-        "correct": true
+        "correct": true,
+        "difference": 0.09173393249511719
     },
     {
         "text": "Anarchism's emphasis on anti-capitalism, egalitarianism, and for the extension of community and individuality sets it apart from anarcho-capitalism and other types of economic libertarianism.",
@@ -3935,7 +4306,8 @@
         "answer": "sets",
         "score1": -9.483307838439941,
         "score2": -9.321723937988281,
-        "pred": "set"
+        "pred": "set",
+        "difference": -0.16158390045166016
     },
     {
         "text": "Congress was denied any powers of taxation: it could only request money from the states.",
@@ -3946,7 +4318,8 @@
         "score1": -9.35695743560791,
         "score2": -18.65243148803711,
         "pred": "request",
-        "correct": true
+        "correct": true,
+        "difference": 9.2954740524292
     },
     {
         "text": "In line with the western tradition of rodeo are the cultural artisans that reside and create unique Alberta western heritage crafts.",
@@ -3957,7 +4330,8 @@
         "score1": -17.41486167907715,
         "score2": -17.155044555664062,
         "pred": "reside",
-        "correct": true
+        "correct": true,
+        "difference": 0.25981712341308594
     },
     {
         "text": "Cabinda's petroleum production from its considerable offshore reserves now accounts for more than half of Angola's output.",
@@ -3967,7 +4341,8 @@
         "answer": "accounts",
         "score1": -17.978761672973633,
         "score2": -9.107585906982422,
-        "pred": "account"
+        "pred": "account",
+        "difference": -8.871175765991211
     },
     {
         "text": "Unlike temporal or human justice, which requires time to repay an evil deed and \"has its seat in the state, as requiting and punishing\", eternal justice \"rules not the state but the world, is not dependent upon human institutions, is not subject to chance and deception, is not uncertain, wavering, and erring, but infallible, fixed, and sure\".",
@@ -3977,7 +4352,8 @@
         "answer": "rules",
         "score1": -10.591926574707031,
         "score2": -10.681838989257812,
-        "pred": "rule"
+        "pred": "rule",
+        "difference": -0.08991241455078125
     },
     {
         "text": "A range of astronomy software is available and used by amateur astronomers, including software that generates maps of the sky, software to assist with astrophotography, observation scheduling software, and software to perform various calculations pertaining to astronomical phenomena.",
@@ -3987,7 +4363,8 @@
         "answer": "generates",
         "score1": -17.364830017089844,
         "score2": -17.29619598388672,
-        "pred": "generate"
+        "pred": "generate",
+        "difference": -0.068634033203125
     },
     {
         "text": "He learned by self-directed reading; besides Plato, Kant and Fichte he also read the works of Schelling, Fries, Jacobi, Bacon, Locke, and much current scientific literature.",
@@ -3998,7 +4375,8 @@
         "score1": -28.808959007263184,
         "score2": -28.221405029296875,
         "pred": "read",
-        "correct": true
+        "correct": true,
+        "difference": 0.5875539779663086
     },
     {
         "text": "The wireframe may be used either with positional notation like other abacuses (thus the 10-wire version may represent numbers up to 9,999,999,999), or each bead may represent one unit (e.g. 74 can be represented by shifting all beads on 7 wires and 4 beads on the 8th wire, so numbers up to 100 may be represented).",
@@ -4009,7 +4387,8 @@
         "score1": -18.7298526763916,
         "score2": -9.367966651916504,
         "pred": "represent",
-        "correct": true
+        "correct": true,
+        "difference": 9.361886024475098
     },
     {
         "text": "The wireframe may be used either with positional notation like other abacuses (thus the 10-wire version may represent numbers up to 9,999,999,999), or each bead may represent one unit (e.g. 74 can be represented by shifting all beads on 7 wires and 4 beads on the 8th wire, so numbers up to 100 may be represented).",
@@ -4020,7 +4399,8 @@
         "score1": -18.94689178466797,
         "score2": -9.507257461547852,
         "pred": "represent",
-        "correct": true
+        "correct": true,
+        "difference": 9.439634323120117
     },
     {
         "text": "Due to their similar atomic radii, rubidium and caesium in the body mimic potassium and are taken up similarly.",
@@ -4031,7 +4411,8 @@
         "score1": -26.895132064819336,
         "score2": -26.36111354827881,
         "pred": "mimic",
-        "correct": true
+        "correct": true,
+        "difference": 0.5340185165405273
     },
     {
         "text": "Sixteen months later, during the Apollo13 mission, Lovell would have to perform a similar manual realignment under more critical conditions after the module's IMU had to be turned off to conserve energy.",
@@ -4042,7 +4423,8 @@
         "score1": -9.464197158813477,
         "score2": -9.149964332580566,
         "pred": "have",
-        "correct": true
+        "correct": true,
+        "difference": 0.31423282623291016
     },
     {
         "text": "Galileo used more doubtful arguments to displace Aristotle's physics, proposing that bodies all fall at the same speed whatever their weight.",
@@ -4053,7 +4435,8 @@
         "score1": -9.799717903137207,
         "score2": -9.96724796295166,
         "pred": "fall",
-        "correct": true
+        "correct": true,
+        "difference": 0.16753005981445312
     },
     {
         "text": "So Apollo gave a turn to the face and pulled the skin from the sides all over that which in our language is called the belly, like the purses which draw in, and he made one mouth at the centre [of the belly] which he fastened in a knot (the same which is called the navel); he also moulded the breast and took out most of the wrinkles, much as a shoemaker might smooth leather upon a last; he left a few wrinkles, however, in the region of the belly and navel, as a memorial of the primeval state.",
@@ -4064,7 +4447,8 @@
         "score1": -8.900006294250488,
         "score2": -17.793848037719727,
         "pred": "draw",
-        "correct": true
+        "correct": true,
+        "difference": 8.893841743469238
     },
     {
         "text": "So Apollo gave a turn to the face and pulled the skin from the sides all over that which in our language is called the belly, like the purses which draw in, and he made one mouth at the centre [of the belly] which he fastened in a knot (the same which is called the navel); he also moulded the breast and took out most of the wrinkles, much as a shoemaker might smooth leather upon a last; he left a few wrinkles, however, in the region of the belly and navel, as a memorial of the primeval state.",
@@ -4075,7 +4459,8 @@
         "score1": -17.487445831298828,
         "score2": -26.2020206451416,
         "pred": "smooth",
-        "correct": true
+        "correct": true,
+        "difference": 8.714574813842773
     },
     {
         "text": "The enormous success of Mickey Mouse is seen as the start of the golden age of American animation that would last until the 1960s.",
@@ -4086,7 +4471,8 @@
         "score1": -18.7305908203125,
         "score2": -9.556488037109375,
         "pred": "last",
-        "correct": true
+        "correct": true,
+        "difference": 9.174102783203125
     },
     {
         "text": "They use many different methods of study, but modern population genetics, participant observation and other techniques often take anthropologists \"into the field,\" which means traveling to a community in its own setting, to do something called \"fieldwork.\"",
@@ -4097,7 +4483,8 @@
         "score1": -18.29964828491211,
         "score2": -18.221670150756836,
         "pred": "take",
-        "correct": true
+        "correct": true,
+        "difference": 0.07797813415527344
     },
     {
         "text": "They use many different methods of study, but modern population genetics, participant observation and other techniques often take anthropologists \"into the field,\" which means traveling to a community in its own setting, to do something called \"fieldwork.\"",
@@ -4107,7 +4494,8 @@
         "answer": "means",
         "score1": -9.331709861755371,
         "score2": -18.0562686920166,
-        "pred": "mean"
+        "pred": "mean",
+        "difference": -8.72455883026123
     },
     {
         "text": "The City of Lloydminster straddles the Albertan/Saskatchewan border, and both the public and separate school systems in that city are counted in the above numbers: both of them operate according to Saskatchewan law.",
@@ -4117,7 +4505,8 @@
         "answer": "operate",
         "score1": -17.34781837463379,
         "score2": -17.34341812133789,
-        "pred": "operates"
+        "pred": "operates",
+        "difference": -0.0044002532958984375
     },
     {
         "text": "Having the rendezvous radar on (so it was warmed up in case of an emergency landing abort) should have been irrelevant to the computer, but an electrical phasing mismatch between two parts of the rendezvous radar system could cause the stationary antenna to appear to the computer as dithering back and forth between two positions, depending upon how the hardware randomly powered up.",
@@ -4128,7 +4517,8 @@
         "score1": -9.141419410705566,
         "score2": -18.027742385864258,
         "pred": "cause",
-        "correct": true
+        "correct": true,
+        "difference": 8.886322975158691
     },
     {
         "text": "Having the rendezvous radar on (so it was warmed up in case of an emergency landing abort) should have been irrelevant to the computer, but an electrical phasing mismatch between two parts of the rendezvous radar system could cause the stationary antenna to appear to the computer as dithering back and forth between two positions, depending upon how the hardware randomly powered up.",
@@ -4139,7 +4529,8 @@
         "score1": -18.249507904052734,
         "score2": -18.39566993713379,
         "pred": "appear",
-        "correct": true
+        "correct": true,
+        "difference": 0.1461620330810547
     },
     {
         "text": "According to the family legend, Tarkovsky's ancestors on his father's side were princes from the Shamkhalate of Tarki, Dagestan, although his sister Marina Tarkovskaya who did a detailed research on their genealogy called it \"a myth, even a prank of sorts,\" stressing that none of the documents confirms this version.",
@@ -4149,7 +4540,8 @@
         "answer": "confirms",
         "score1": -17.878419876098633,
         "score2": -17.93292236328125,
-        "pred": "confirm"
+        "pred": "confirm",
+        "difference": -0.05450248718261719
     },
     {
         "text": "I was fascinated, because suddenly I realized that film could have so many more layers to it than what I had imagined before\".",
@@ -4160,7 +4552,8 @@
         "score1": -9.360157012939453,
         "score2": -9.670395851135254,
         "pred": "have",
-        "correct": true
+        "correct": true,
+        "difference": 0.3102388381958008
     },
     {
         "text": "It is a good medium on which to grow bacteria and fungi, as most microorganisms cannot digest agar.",
@@ -4171,7 +4564,8 @@
         "score1": -19.83205223083496,
         "score2": -19.432758331298828,
         "pred": "digest",
-        "correct": true
+        "correct": true,
+        "difference": 0.3992938995361328
     },
     {
         "text": "However, for the alkali metal cations, the second coordination sphere is not well-defined as the +1 charge on the cation is not high enough to polarise the water molecules in the primary solvation shell enough for them to form strong hydrogen bonds with those in the second coordination sphere, producing a more stable entity.",
@@ -4181,7 +4575,8 @@
         "answer": "form",
         "score1": -8.919464111328125,
         "score2": -8.921574592590332,
-        "pred": "forms"
+        "pred": "forms",
+        "difference": -0.0021104812622070312
     },
     {
         "text": "Human history thus begins on the coasts of South Africa where the Atlantic Benguela Upwelling and Indian Ocean Agulhas Current meet to produce an intertidal zone on which shellfish, fur seal, fish and sea birds provided the necessary protein sources.",
@@ -4192,7 +4587,8 @@
         "score1": -9.635387420654297,
         "score2": -18.88916015625,
         "pred": "meet",
-        "correct": true
+        "correct": true,
+        "difference": 9.253772735595703
     },
     {
         "text": "The Diagnostic and Statistical Manual of Mental Disorders (DSM-5) combines forms of the condition, including Asperger syndrome and pervasive developmental disorder not otherwise specified (PDD-NOS) into the diagnosis of autism spectrum disorder (ASD).",
@@ -4202,7 +4598,8 @@
         "answer": "combines",
         "score1": -20.118423461914062,
         "score2": -20.23949432373047,
-        "pred": "combine"
+        "pred": "combine",
+        "difference": -0.12107086181640625
     },
     {
         "text": "Sixteen of the operating separate school jurisdictions have a Catholic electorate, and one (St. Albert) has a Protestant electorate.",
@@ -4212,7 +4609,8 @@
         "answer": "has",
         "score1": -9.161027908325195,
         "score2": -9.355131149291992,
-        "pred": "have"
+        "pred": "have",
+        "difference": -0.19410324096679688
     },
     {
         "text": "While foraging, the aardwolf can cover about per hour, which translates to per summer night and per winter night.",
@@ -4222,7 +4620,8 @@
         "answer": "translates",
         "score1": -26.47297954559326,
         "score2": -18.33363151550293,
-        "pred": "translate"
+        "pred": "translate",
+        "difference": -8.139348030090332
     },
     {
         "text": "These signs often develop gradually, though some autistic children experience regression in their communication and social skills after reaching developmental milestones at a normal pace.",
@@ -4233,7 +4632,8 @@
         "score1": -38.64186477661133,
         "score2": -39.2093505859375,
         "pred": "experience",
-        "correct": true
+        "correct": true,
+        "difference": 0.5674858093261719
     },
     {
         "text": "An organism behaves altruistically and the recipient does not reciprocate but has an increased chance of acting in a way that is selfish but also as a byproduct benefits the altruist.",
@@ -4243,7 +4643,8 @@
         "answer": "benefits",
         "score1": -19.297876358032227,
         "score2": -9.789422988891602,
-        "pred": "benefit"
+        "pred": "benefit",
+        "difference": -9.508453369140625
     },
     {
         "text": "Flora and fauna Alabama is home to a diverse array of flora and fauna in habitats that range from the Tennessee Valley, Appalachian Plateau, and Ridge-and-Valley Appalachians of the north to the Piedmont, Canebrake, and Black Belt of the central region to the Gulf Coastal Plain and beaches along the Gulf of Mexico in the south.",
@@ -4254,7 +4655,8 @@
         "score1": -9.10795783996582,
         "score2": -18.413108825683594,
         "pred": "range",
-        "correct": true
+        "correct": true,
+        "difference": 9.305150985717773
     },
     {
         "text": "Trentepohlia is an example of a common green alga genus worldwide that can grow on its own or be lichenised.",
@@ -4265,7 +4667,8 @@
         "score1": -9.037030220031738,
         "score2": -18.228187561035156,
         "pred": "grow",
-        "correct": true
+        "correct": true,
+        "difference": 9.191157341003418
     },
     {
         "text": "Landa wrote that, \"Swift is maintaining that the maxim people are the riches of a nation applies to Ireland only if Ireland is permitted slavery or cannibalism\"",
@@ -4276,7 +4679,8 @@
         "score1": -0.0,
         "score2": -0.0,
         "pred": "applies",
-        "correct": true
+        "correct": true,
+        "difference": 0.0
     },
     {
         "text": "Surface water temperatures, which vary with latitude, current systems, and season and reflect the latitudinal distribution of solar energy, range from below to over .",
@@ -4287,7 +4691,8 @@
         "score1": -19.476112365722656,
         "score2": -9.753104209899902,
         "pred": "range",
-        "correct": true
+        "correct": true,
+        "difference": 9.723008155822754
     },
     {
         "text": "Binoculars, for instance, although generally of lower power than the majority of telescopes, also tend to provide a wider field of view, which is preferable for looking at some objects in the night sky.",
@@ -4298,7 +4703,8 @@
         "score1": -26.362658500671387,
         "score2": -26.23091411590576,
         "pred": "tend",
-        "correct": true
+        "correct": true,
+        "difference": 0.131744384765625
     },
     {
         "text": "Dante even acknowledges Aristotle's influence explicitly in the poem, specifically when Virgil justifies the Inferno's structure by citing the Nicomachean Ethics.",
@@ -4308,7 +4714,8 @@
         "answer": "justifies",
         "score1": -19.95770835876465,
         "score2": -19.732961654663086,
-        "pred": "justify"
+        "pred": "justify",
+        "difference": -0.2247467041015625
     },
     {
         "text": "The Soviet Union, through its Intercosmos program, allowed people from other \"socialist\" (i.e. Warsaw Pact and other Soviet-allied) countries to fly on its missions, with the notable exceptions of France and Austria participating in Soyuz TM-7 and Soyuz TM-13, respectively.",
@@ -4318,7 +4725,8 @@
         "answer": "fly",
         "score1": -9.244229316711426,
         "score2": -9.242535591125488,
-        "pred": "flies"
+        "pred": "flies",
+        "difference": -0.0016937255859375
     },
     {
         "text": "It was the development of the amniotic egg, which prevents the developing embryo from drying out, that enabled the reptiles to reproduce on land and which led to their dominance in the period that followed.",
@@ -4328,7 +4736,8 @@
         "answer": "prevents",
         "score1": -18.63591957092285,
         "score2": -17.993785858154297,
-        "pred": "prevent"
+        "pred": "prevent",
+        "difference": -0.6421337127685547
     },
     {
         "text": "An adult pair, along with their most-recent offspring, occupies a territory of .",
@@ -4338,7 +4747,8 @@
         "answer": "occupies",
         "score1": -19.18220329284668,
         "score2": -19.063432693481445,
-        "pred": "occupy"
+        "pred": "occupy",
+        "difference": -0.11877059936523438
     },
     {
         "text": "In descending order of the number of speakers, widely-spoken Afroasiatic languages include: Arabic (Semitic), the most widely spoken Afroasiatic language, has over 300 million native speakers.",
@@ -4348,7 +4758,8 @@
         "answer": "include",
         "score1": -9.259142875671387,
         "score2": -9.348007202148438,
-        "pred": "includes"
+        "pred": "includes",
+        "difference": -0.08886432647705078
     },
     {
         "text": "In descending order of the number of speakers, widely-spoken Afroasiatic languages include: Arabic (Semitic), the most widely spoken Afroasiatic language, has over 300 million native speakers.",
@@ -4358,7 +4769,8 @@
         "answer": "has",
         "score1": -9.236337661743164,
         "score2": -9.153802871704102,
-        "pred": "have"
+        "pred": "have",
+        "difference": -0.0825347900390625
     },
     {
         "text": "Additional accessibility features include the use of Assistive Touch which allows a user to access multi-touch gestures through pre-programmed onscreen buttons.",
@@ -4369,7 +4781,8 @@
         "score1": -10.507960319519043,
         "score2": -10.326099395751953,
         "pred": "allows",
-        "correct": true
+        "correct": true,
+        "difference": 0.18186092376708984
     },
     {
         "text": "Additional accessibility features include the use of Assistive Touch which allows a user to access multi-touch gestures through pre-programmed onscreen buttons.",
@@ -4380,7 +4793,8 @@
         "score1": -9.74125862121582,
         "score2": -19.009557723999023,
         "pred": "access",
-        "correct": true
+        "correct": true,
+        "difference": 9.268299102783203
     },
     {
         "text": "In an adversarial system, appellate courts do not have the power to review lower court decisions unless a party appeals it.",
@@ -4390,7 +4804,8 @@
         "answer": "appeals",
         "score1": -18.125530242919922,
         "score2": -17.877199172973633,
-        "pred": "appeal"
+        "pred": "appeal",
+        "difference": -0.24833106994628906
     },
     {
         "text": "In the U.S. House of Representatives, the state is represented by seven members, six of whom are Republicans: (Bradley Byrne, Mike D. Rogers, Robert Aderholt, Morris J. Brooks, Martha Roby, and Gary Palmer) and one Democrat: Terri Sewell who represents the Black Belt as well as most of the predominantly black portions of Birmingham, Tuscaloosa and Montgomery.",
@@ -4400,7 +4815,8 @@
         "answer": "represents",
         "score1": -18.414785385131836,
         "score2": -9.260332107543945,
-        "pred": "represent"
+        "pred": "represent",
+        "difference": -9.15445327758789
     },
     {
         "text": "The rivers that directly flow into the Caspian Sea, originate mainly from the north-eastern slope of the Major Caucasus and Talysh Mountains and run along the Samur Devechi and Lankaran lowlands.",
@@ -4411,7 +4827,8 @@
         "score1": -18.264434814453125,
         "score2": -17.969619750976562,
         "pred": "originate",
-        "correct": true
+        "correct": true,
+        "difference": 0.2948150634765625
     },
     {
         "text": "Defying his prediction that \"the world will little note, nor long remember what we say here\", the Address became the most quoted speech in American history.",
@@ -4422,7 +4839,8 @@
         "score1": -18.276926040649414,
         "score2": -18.237077713012695,
         "pred": "say",
-        "correct": true
+        "correct": true,
+        "difference": 0.03984832763671875
     },
     {
         "text": "Einstein also published his own articles describing the model and its implications, among them the Bose Einstein condensate phenomenon that some particulates should appear at very low temperatures.",
@@ -4433,7 +4851,8 @@
         "score1": -18.275829315185547,
         "score2": -18.09601593017578,
         "pred": "appear",
-        "correct": true
+        "correct": true,
+        "difference": 0.17981338500976562
     },
     {
         "text": "Einstein relates this to Rayleigh scattering, which is what happens when the fluctuation size is much smaller than the wavelength, and which explains why the sky is blue.",
@@ -4444,7 +4863,8 @@
         "score1": -26.74695110321045,
         "score2": -26.782221794128418,
         "pred": "happens",
-        "correct": true
+        "correct": true,
+        "difference": 0.03527069091796875
     },
     {
         "text": "Einstein relates this to Rayleigh scattering, which is what happens when the fluctuation size is much smaller than the wavelength, and which explains why the sky is blue.",
@@ -4454,7 +4874,8 @@
         "answer": "explains",
         "score1": -28.355841636657715,
         "score2": -37.57723617553711,
-        "pred": "explain"
+        "pred": "explain",
+        "difference": -9.221394538879395
     },
     {
         "text": "Inequities that result when such measures are adopted would need to be addressed, such as the reallocation of water from poor to rich, the clearing of land to make way for more productive farmland, or the preservation of a wetland system that limits fishing rights.",
@@ -4464,7 +4885,8 @@
         "answer": "limits",
         "score1": -8.721426010131836,
         "score2": -8.669075012207031,
-        "pred": "limit"
+        "pred": "limit",
+        "difference": -0.05235099792480469
     },
     {
         "text": "In a subsequent letter to physicist and friend Max Born, who had already emigrated from Germany to England, Einstein wrote, \"... I must confess that the degree of their brutality and cowardice came as something of a surprise.\"",
@@ -4475,7 +4897,8 @@
         "score1": -18.673688888549805,
         "score2": -18.808094024658203,
         "pred": "confess",
-        "correct": true
+        "correct": true,
+        "difference": 0.13440513610839844
     },
     {
         "text": "It is the broad, evidence-based and cause-neutral approach that distinguishes effective altruism from traditional altruism or charity.",
@@ -4485,7 +4908,8 @@
         "answer": "distinguishes",
         "score1": -28.539304733276367,
         "score2": -28.00213623046875,
-        "pred": "distinguish"
+        "pred": "distinguish",
+        "difference": -0.5371685028076172
     },
     {
         "text": "NASA Administrator Thomas Paine met with Abernathy at the occasion, both hoping that the space program can spur progress also in other regards, such as poverty in the US.",
@@ -4496,7 +4920,8 @@
         "score1": -18.430173873901367,
         "score2": -18.167091369628906,
         "pred": "spur",
-        "correct": true
+        "correct": true,
+        "difference": 0.26308250427246094
     },
     {
         "text": "Modern anthropology assumes that there is complete continuity between magical thinking and religion, and that every religion is a cultural product, created by the human community that worships it.",
@@ -4506,7 +4931,8 @@
         "answer": "worships",
         "score1": -17.614667892456055,
         "score2": -26.02291202545166,
-        "pred": "worship"
+        "pred": "worship",
+        "difference": -8.408244132995605
     },
     {
         "text": "Although they remained polite towards each other, their growing theoretical disagreements and especially Schopenhauer's extreme self-confidence and tactless criticisms soon made Goethe become distant again and after 1816 their correspondence became less frequent.",
@@ -4517,7 +4943,8 @@
         "score1": -19.855926513671875,
         "score2": -20.04096794128418,
         "pred": "become",
-        "correct": true
+        "correct": true,
+        "difference": 0.1850414276123047
     },
     {
         "text": "He decided to switch from medicine to philosophy around 1810 11 and he left Gttingen, which did not have a strong philosophy program: besides Schulze, the only other philosophy professor was Friedrich Bouterwek, whom Schopenhauer disliked.",
@@ -4528,6 +4955,7 @@
         "score1": -8.50510311126709,
         "score2": -8.69933795928955,
         "pred": "have",
-        "correct": true
+        "correct": true,
+        "difference": 0.19423484802246094
     }
 ]
