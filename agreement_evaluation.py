@@ -12,6 +12,8 @@ from pathlib import Path
 import tqdm
 
 from transformers import GPT2Tokenizer
+from transformers import AutoTokenizer, AutoModelForCausalLM
+
 from safetensors.torch import load_file
 import pandas as pd
 
@@ -26,8 +28,8 @@ def read_args():
     )
     parser.add_argument(
         '--model-type', '-mt', dest='model_type', type=str,
-        choices=['pt', 'st'],
-        help='pt or st (safetensors) model type'
+        choices=['pt', 'st', 'hf'],
+        help='pt, st (safetensors) or hf (Hugging Face model).'
     )
     parser.add_argument(
         '--val-data', '-vd', dest='data_path', type=str,
@@ -85,14 +87,36 @@ def load_model_pt(ckpt_path, device) -> GPT:
     return model
 
 
-def score_option(prompt, continuation, tokenizer, model) -> float | Any:
+def score_option_hf(prompt: str, continuation: str, tokenizer, model) -> float | None:
+    input_text = prompt + continuation
+    input_ids = tokenizer(input_text, return_tensors="pt", add_special_tokens=False)["input_ids"]
+    prompt_ids = tokenizer(prompt, return_tensors="pt", add_special_tokens=False)["input_ids"]
+
+    block_size = getattr(model.config, "n_positions", None)
+    if block_size is not None and input_ids.size(1) > block_size:
+        return None  # 超出最大长度限制
+
+    input_ids = input_ids.to(model.device)
+    prompt_ids = prompt_ids.to(model.device)
+
+    with torch.no_grad():
+        outputs = model(input_ids=input_ids, labels=input_ids)
+        loss = outputs.loss  # 平均交叉熵损失
+
+    num_target_tokens = input_ids.size(1) - prompt_ids.size(1)
+    total_log_prob = -loss.item() * num_target_tokens
+
+    return total_log_prob
+
+
+def score_option_local(prompt, continuation, tokenizer, model) -> float | None:
     # Compute log-likelihood of a candidate continuation given a prompt
     input_text = prompt + continuation
     input_ids = tokenizer.encode(input_text, return_tensors="pt")
     prompt_ids = tokenizer.encode(prompt, return_tensors="pt")
     block_size = model.config.block_size
     if input_ids.size(1) > block_size:
-        return None  # 超过 block_size，跳过
+        return None
     input_ids = input_ids.to(next(model.parameters()).device)
     prompt_ids = prompt_ids.to(next(model.parameters()).device)
 
@@ -102,17 +126,23 @@ def score_option(prompt, continuation, tokenizer, model) -> float | Any:
     return total_log_prob
 
 
-def score_samples(samples, tokenizer, model) -> list[dict]:
+def score_samples(samples, tokenizer, model, model_type) -> list[dict]:
     # Score a list of samples with prompts and two options.
     filtered_samples = []
     for sample in samples:
         prompt = sample["prompt"]
         option1 = sample["option1"]
         option2 = sample["option2"]
-        score1 = score_option(prompt, option1, tokenizer, model)
-        score2 = score_option(prompt, option2, tokenizer, model)
+        if model_type == "hf":
+            score1 = score_option_hf(prompt, option1, tokenizer, model)
+            score2 = score_option_hf(prompt, option2, tokenizer, model)
+        elif model_type in ["pt", "st"]:
+            score1 = score_option_local(prompt, option1, tokenizer, model)
+            score2 = score_option_local(prompt, option2, tokenizer, model)
+        else:
+            raise ValueError("Invalid model type. Use 'pt', 'st', or 'hf'.")
         if score1 is None or score2 is None:
-            continue  # 跳过超长样本
+            continue
         sample["score1"] = score1
         sample["score2"] = score2
 
@@ -153,15 +183,12 @@ def main():
     args = read_args()
 
     # ======== Check arguments ========
-    ckpt_path = args.model_path
+    model_path = args.model_path
     eval_data_path = args.data_path
     out_path = args.out_path
-    if not ckpt_path or not eval_data_path or not out_path:
+    if not model_path or not eval_data_path or not out_path:
         raise ValueError("Please provide model path, evaluation data path, and output path.")
-    if Path(ckpt_path).suffix != '.pt' and Path(ckpt_path).suffix != '.safetensors':
-        raise ValueError("Model path must be a .pt file.")
-    if not Path(out_path).exists():
-        Path(out_path).mkdir(parents=True, exist_ok=True)
+    Path(out_path).mkdir(parents=True, exist_ok=True)
 
     # ======== Set device ========
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -172,11 +199,14 @@ def main():
     # ======== Load model and tokenizer ========
     tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
 
-    print(f"Loading model from {ckpt_path}...")
+    print(f"Loading model from {model_path}...")
     if args.model_type == 'st':
-        model = load_nanogpt_openwebtext(ckpt_path, device)
+        model = load_nanogpt_openwebtext(model_path, device)
     elif args.model_type == 'pt':
-        model = load_model_pt(ckpt_path, device)
+        model = load_model_pt(model_path, device)
+    elif args.model_type == "hf":
+        tokenizer = AutoTokenizer.from_pretrained(model_path)
+        model = AutoModelForCausalLM.from_pretrained(model_path)
     else:
         raise ValueError("Invalid model type. Use 'pt' for PyTorch or 'st' for Safetensors.")
     model.to(device)
@@ -205,7 +235,7 @@ def main():
     print(f"Total evaluation samples: {total_count}")
 
     # ========= Score samples ========
-    used_samples = score_samples(eval_samples, tokenizer, model)
+    used_samples = score_samples(eval_samples, tokenizer, model, args.model_type)
     used_count = len(used_samples)
     print(f"Used evaluation samples (not skipped): {used_count}")
     results = analyze_results(used_samples)
