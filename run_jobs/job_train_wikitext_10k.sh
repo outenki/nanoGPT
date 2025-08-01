@@ -1,6 +1,6 @@
 #!/bin/bash
 #PJM -L "rscgrp=b-batch"
-#PJM -L "elapse=3:00:00"
+#PJM -L "elapse=12:00:00"
 #PJM -L "gpu=1"
 #PJM -L "jobenv=singularity"
 #PJM -e /home/pj25000107/ku50001566/projects/nanoGPT/logs/job_train_wikitext_10k.err
