@@ -29,7 +29,7 @@ def read_args():
         help='pt or st (safetensors) model type'
     )
     parser.add_argument(
-        '--val-data', '-vd', dest='data_name', type=str,
+        '--val-data', '-vd', dest='data_path', type=str,
         help='Path to test data. (json)'
     )
     parser.add_argument(
@@ -50,7 +50,7 @@ def load_nanogpt_openwebtext(model_path: str, device: torch.device, config=None)
             n_head=12,
             n_embd=768,
             block_size=1024,
-            vocab_size=50257, # As per standard GPT-2's vocabulary size
+            vocab_size=50257,   # As per standard GPT-2's vocabulary size
             dropout=0.0
         )
 
@@ -59,12 +59,9 @@ def load_nanogpt_openwebtext(model_path: str, device: torch.device, config=None)
     # Load the state dictionary from the .safetensors file
     state_dict = load_file(model_path, device="cpu")
     if device.type == 'cuda':
-        # Move the state dictionary to the GPU if available
         state_dict = {k: v.to(device) for k, v in state_dict.items()}
 
     # Load the state dictionary into the model
-    # Use strict=False to ignore the bias keys that are missing in the checkpoint
-    # (this is a common practice when the checkpoint doesn't have biases)
     model.load_state_dict(state_dict, strict=False)
 
     # Set the model to evaluation mode
@@ -87,7 +84,7 @@ def load_model_pt(ckpt_path, device) -> GPT:
     return model
 
 
-def score_candidate(prompt, continuation, tokenizer, model) -> float | Any:
+def score_option(prompt, continuation, tokenizer, model) -> float | Any:
     # Compute log-likelihood of a candidate continuation given a prompt
     input_text = prompt + continuation
     input_ids = tokenizer.encode(input_text, return_tensors="pt")
@@ -111,8 +108,8 @@ def score_samples(samples, tokenizer, model) -> list[dict]:
         prompt = sample["prompt"]
         option1 = sample["option1"]
         option2 = sample["option2"]
-        score1 = score_candidate(prompt, option1, tokenizer, model)
-        score2 = score_candidate(prompt, option2, tokenizer, model)
+        score1 = score_option(prompt, option1, tokenizer, model)
+        score2 = score_option(prompt, option2, tokenizer, model)
         if score1 is None or score2 is None:
             continue  # 跳过超长样本
         sample["score1"] = score1
@@ -151,7 +148,7 @@ def main():
 
     # ======== Check arguments ========
     ckpt_path = args.model_path
-    eval_data_path = args.data_name
+    eval_data_path = args.data_path
     out_path = args.out_path
     if not ckpt_path or not eval_data_path or not out_path:
         raise ValueError("Please provide model path, evaluation data path, and output path.")
