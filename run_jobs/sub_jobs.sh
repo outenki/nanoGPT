@@ -1,0 +1,5 @@
+pjsub job_train_nonce_10k.sh
+pjsub job_train_wikitext_10k.sh
+pjsub job_train_nonce_100k.sh
+pjsub job_train_wikitext_100k.sh
+pjsub job_train_openwebtext.sh

@@ -11,4 +11,4 @@ module load singularity-ce
 
 cd /home/pj25000107/ku50001566/projects/nanoGPT || exit 1
 
-singularity exec /home/pj25000107/ku50001566/nlp-singularity/nlp-singularity.sif /bin/bash train_wikitext_100k.sh
+singularity exec --nv /home/pj25000107/ku50001566/nlp-singularity/nlp-singularity.sif /bin/bash train_wikitext_100k.sh
