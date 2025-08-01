@@ -57,7 +57,10 @@ def load_nanogpt_openwebtext(model_path: str, device: torch.device, config=None)
     model = GPT(config)
 
     # Load the state dictionary from the .safetensors file
-    state_dict = load_file(model_path, device=device)
+    state_dict = load_file(model_path, device="cpu")
+    if device.type == 'cuda':
+        # Move the state dictionary to the GPU if available
+        state_dict = {k: v.to(device) for k, v in state_dict.items()}
 
     # Load the state dictionary into the model
     # Use strict=False to ignore the bias keys that are missing in the checkpoint
