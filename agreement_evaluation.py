@@ -216,7 +216,7 @@ def main():
     print(f"Saving evaluation results to {out_file}...")
     with open(out_file, "w") as f:
         json.dump(used_samples, f, indent=4)
-    pd.DataFrame(used_samples).to_csv("evaluated_samples.csv", index=False)
+    pd.DataFrame(used_samples).to_csv(Path(out_path) / "evaluated_samples.csv", index=False)
 
     out_file = Path(out_path) / "evaluation_summary.json"
     print(f"Saving summary results to {out_file}...")
