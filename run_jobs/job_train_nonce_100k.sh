@@ -5,7 +5,7 @@
 #PJM -L "jobenv=singularity"
 #PJM -e /home/pj25000107/ku50001566/projects/nanoGPT/logs/job_train_nonce_100k.err
 #PJM -o /home/pj25000107/ku50001566/projects/nanoGPT/logs/job_train_nonce_100k.out
-#PJM -N "100k_nonce_train"
+#PJM -N "nonce_100k_train"
 
 module load singularity-ce
 
