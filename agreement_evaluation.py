@@ -13,6 +13,7 @@ import tqdm
 
 from transformers import GPT2Tokenizer
 from safetensors.torch import load_file
+import pandas as pd
 
 from model import GPTConfig, GPT
 
@@ -123,6 +124,11 @@ def score_samples(samples, tokenizer, model) -> list[dict]:
         if sample["pred"] == sample["answer"]:
             sample["correct"] = True
 
+        if sample["option1"] == sample["answer"]:
+            sample["difference"] = sample["score1"] - sample["score2"]
+        else:
+            sample["difference"] = sample["score2"] - sample["score1"]
+
         filtered_samples.append(sample)
     return filtered_samples
 
@@ -175,6 +181,7 @@ def main():
         raise ValueError("Invalid model type. Use 'pt' for PyTorch or 'st' for Safetensors.")
     model.to(device)
     model.eval()
+    num_params = sum(p.numel() for p in model.parameters())
 
     # ======== Load evaluation data ========
     print(f"Loading evaluation data from {eval_data_path}...")
@@ -202,12 +209,14 @@ def main():
     used_count = len(used_samples)
     print(f"Used evaluation samples (not skipped): {used_count}")
     results = analyze_results(used_samples)
+    results["num_params"] = num_params
 
     # ========= Save results ========
     out_file = Path(out_path) / "evaluated_samples.json"
     print(f"Saving evaluation results to {out_file}...")
     with open(out_file, "w") as f:
         json.dump(used_samples, f, indent=4)
+    pd.DataFrame(used_samples).to_csv("evaluated_samples.csv", index=False)
 
     out_file = Path(out_path) / "evaluation_summary.json"
     print(f"Saving summary results to {out_file}...")

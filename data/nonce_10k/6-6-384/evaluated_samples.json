@@ -5,8 +5,8 @@
         "option1": "submits",
         "option2": "submit",
         "answer": "submit",
-        "score1": -24.121376037597656,
-        "score2": -12.037261009216309,
+        "score1": -23.16193962097168,
+        "score2": -12.018343925476074,
         "pred": "submit",
         "correct": true
     },
@@ -16,8 +16,8 @@
         "option1": "makes",
         "option2": "make",
         "answer": "makes",
-        "score1": -8.966254234313965,
-        "score2": -8.774944305419922,
+        "score1": -8.92247200012207,
+        "score2": -8.736411094665527,
         "pred": "make"
     },
     {
@@ -26,8 +26,8 @@
         "option1": "share",
         "option2": "shares",
         "answer": "shares",
-        "score1": -9.859917640686035,
-        "score2": -18.75506019592285,
+        "score1": -9.757719039916992,
+        "score2": -18.79494857788086,
         "pred": "share"
     },
     {
@@ -36,8 +36,8 @@
         "option1": "recommends",
         "option2": "recommend",
         "answer": "recommend",
-        "score1": -23.141952514648438,
-        "score2": -22.493953704833984,
+        "score1": -21.89738655090332,
+        "score2": -21.421506881713867,
         "pred": "recommend",
         "correct": true
     },
@@ -47,8 +47,8 @@
         "option1": "has",
         "option2": "have",
         "answer": "have",
-        "score1": -9.221503257751465,
-        "score2": -9.479763984680176,
+        "score1": -9.12831974029541,
+        "score2": -9.43064022064209,
         "pred": "has"
     },
     {
@@ -57,8 +57,8 @@
         "option1": "fear",
         "option2": "feares",
         "answer": "fear",
-        "score1": -10.68372917175293,
-        "score2": -21.28772735595703,
+        "score1": -10.957438468933105,
+        "score2": -21.829072952270508,
         "pred": "fear",
         "correct": true
     },
@@ -68,8 +68,8 @@
         "option1": "says",
         "option2": "say",
         "answer": "says",
-        "score1": -11.974836349487305,
-        "score2": -11.608572959899902,
+        "score1": -11.00922679901123,
+        "score2": -10.879167556762695,
         "pred": "say"
     },
     {
@@ -78,8 +78,8 @@
         "option1": "sells",
         "option2": "sell",
         "answer": "sell",
-        "score1": -20.9840087890625,
-        "score2": -10.50850772857666,
+        "score1": -20.087305068969727,
+        "score2": -10.098578453063965,
         "pred": "sell",
         "correct": true
     },
@@ -89,8 +89,8 @@
         "option1": "develop",
         "option2": "develops",
         "answer": "develop",
-        "score1": -19.986083984375,
-        "score2": -29.901612281799316,
+        "score1": -20.242515563964844,
+        "score2": -30.236838340759277,
         "pred": "develop",
         "correct": true
     },
@@ -100,9 +100,10 @@
         "option1": "come",
         "option2": "comes",
         "answer": "comes",
-        "score1": -9.914627075195312,
-        "score2": -9.918682098388672,
-        "pred": "come"
+        "score1": -10.053618431091309,
+        "score2": -9.934088706970215,
+        "pred": "comes",
+        "correct": true
     },
     {
         "text": "If the head of government is not satisfied with the council, he may request that the co-princes dissolve the council and order new elections.",
@@ -110,8 +111,8 @@
         "option1": "request",
         "option2": "requests",
         "answer": "request",
-        "score1": -8.810186386108398,
-        "score2": -18.585426330566406,
+        "score1": -9.264967918395996,
+        "score2": -18.662771224975586,
         "pred": "request",
         "correct": true
     },
@@ -121,30 +122,8 @@
         "option1": "dissolve",
         "option2": "dissolves",
         "answer": "dissolve",
-        "score1": -26.844114303588867,
-        "score2": -27.06584358215332,
-        "pred": "dissolve",
-        "correct": true
-    },
-    {
-        "text": "If the head of government is not satisfied with the council, he may request that the co-princes dissolve the council and order new elections.",
-        "prompt": "If the head of government is not satisfied with the council, he may request that the co-princes",
-        "option1": "dissolves",
-        "option2": "dissolve",
-        "answer": "dissolve",
-        "score1": -27.06584358215332,
-        "score2": -26.844114303588867,
-        "pred": "dissolve",
-        "correct": true
-    },
-    {
-        "text": "If the head of government is not satisfied with the council, he may request that the co-princes dissolve the council and order new elections.",
-        "prompt": "If the head of government is not satisfied with the council, he may request that the co-princes",
-        "option1": "dissolve",
-        "option2": "dissolves",
-        "answer": "dissolve",
-        "score1": -26.844114303588867,
-        "score2": -27.06584358215332,
+        "score1": -27.834403038024902,
+        "score2": -28.188305854797363,
         "pred": "dissolve",
         "correct": true
     },
@@ -154,8 +133,8 @@
         "option1": "feed",
         "option2": "feeds",
         "answer": "feed",
-        "score1": -11.789569854736328,
-        "score2": -23.41105842590332,
+        "score1": -10.45858097076416,
+        "score2": -20.68419075012207,
         "pred": "feed",
         "correct": true
     },
@@ -165,8 +144,8 @@
         "option1": "has",
         "option2": "have",
         "answer": "has",
-        "score1": -8.768278121948242,
-        "score2": -9.28158187866211,
+        "score1": -9.622118949890137,
+        "score2": -10.211532592773438,
         "pred": "has",
         "correct": true
     },
@@ -176,8 +155,8 @@
         "option1": "feeds",
         "option2": "feed",
         "answer": "feeds",
-        "score1": -16.9732723236084,
-        "score2": -8.436738967895508,
+        "score1": -17.942790985107422,
+        "score2": -9.018911361694336,
         "pred": "feed"
     },
     {
@@ -186,8 +165,8 @@
         "option1": "have",
         "option2": "has",
         "answer": "have",
-        "score1": -9.777435302734375,
-        "score2": -9.552531242370605,
+        "score1": -9.83253002166748,
+        "score2": -9.503872871398926,
         "pred": "has"
     },
     {
@@ -196,9 +175,10 @@
         "option1": "cure",
         "option2": "cures",
         "answer": "cure",
-        "score1": -19.912418365478516,
-        "score2": -19.87161636352539,
-        "pred": "cures"
+        "score1": -19.26527214050293,
+        "score2": -19.358705520629883,
+        "pred": "cure",
+        "correct": true
     },
     {
         "text": "One of the very few properties of the alkali metals that does not display a very smooth trend is their reduction potentials: lithium's value is anomalous, being more negative than the others.",
@@ -206,8 +186,8 @@
         "option1": "displays",
         "option2": "display",
         "answer": "display",
-        "score1": -18.50555992126465,
-        "score2": -9.528871536254883,
+        "score1": -19.154315948486328,
+        "score2": -10.331226348876953,
         "pred": "display",
         "correct": true
     },
@@ -217,10 +197,9 @@
         "option1": "highlights",
         "option2": "highlight",
         "answer": "highlights",
-        "score1": -21.1328182220459,
-        "score2": -21.245641708374023,
-        "pred": "highlights",
-        "correct": true
+        "score1": -21.61598777770996,
+        "score2": -21.55019760131836,
+        "pred": "highlight"
     },
     {
         "text": "Although the world manifests itself to our experience as a multiplicity of objects (the \"objectivation\" of the will), each element of this multiplicity has the same blind essence striving towards existence and life.",
@@ -228,8 +207,8 @@
         "option1": "has",
         "option2": "have",
         "answer": "has",
-        "score1": -9.78599739074707,
-        "score2": -10.054317474365234,
+        "score1": -9.880456924438477,
+        "score2": -10.186626434326172,
         "pred": "has",
         "correct": true
     },
@@ -239,8 +218,8 @@
         "option1": "have",
         "option2": "has",
         "answer": "has",
-        "score1": -11.154400825500488,
-        "score2": -10.740466117858887,
+        "score1": -10.563304901123047,
+        "score2": -10.092312812805176,
         "pred": "has",
         "correct": true
     },
@@ -250,8 +229,8 @@
         "option1": "informs",
         "option2": "inform",
         "answer": "inform",
-        "score1": -21.32712173461914,
-        "score2": -21.068960189819336,
+        "score1": -20.336837768554688,
+        "score2": -20.038522720336914,
         "pred": "inform",
         "correct": true
     },
@@ -261,8 +240,8 @@
         "option1": "gives",
         "option2": "give",
         "answer": "give",
-        "score1": -21.313846588134766,
-        "score2": -11.058204650878906,
+        "score1": -19.40068244934082,
+        "score2": -10.299642562866211,
         "pred": "give",
         "correct": true
     },
@@ -272,8 +251,8 @@
         "option1": "reports",
         "option2": "report",
         "answer": "reports",
-        "score1": -9.260375022888184,
-        "score2": -9.173017501831055,
+        "score1": -10.338311195373535,
+        "score2": -10.325990676879883,
         "pred": "report"
     },
     {
@@ -282,8 +261,8 @@
         "option1": "hold",
         "option2": "holds",
         "answer": "hold",
-        "score1": -10.261836051940918,
-        "score2": -20.438697814941406,
+        "score1": -10.081791877746582,
+        "score2": -20.032106399536133,
         "pred": "hold",
         "correct": true
     },
@@ -293,8 +272,8 @@
         "option1": "swell",
         "option2": "swells",
         "answer": "swell",
-        "score1": -19.819473266601562,
-        "score2": -29.710132598876953,
+        "score1": -18.832500457763672,
+        "score2": -28.155595779418945,
         "pred": "swell",
         "correct": true
     },
@@ -304,8 +283,8 @@
         "option1": "follows",
         "option2": "follow",
         "answer": "follow",
-        "score1": -22.11085319519043,
-        "score2": -11.13781452178955,
+        "score1": -21.461063385009766,
+        "score2": -10.827229499816895,
         "pred": "follow",
         "correct": true
     },
@@ -315,8 +294,8 @@
         "option1": "gains",
         "option2": "gain",
         "answer": "gain",
-        "score1": -18.623626708984375,
-        "score2": -9.448098182678223,
+        "score1": -18.99486541748047,
+        "score2": -9.779457092285156,
         "pred": "gain",
         "correct": true
     },
@@ -326,8 +305,8 @@
         "option1": "agree",
         "option2": "agrees",
         "answer": "agrees",
-        "score1": -11.094010353088379,
-        "score2": -21.241031646728516,
+        "score1": -10.710684776306152,
+        "score2": -20.64006805419922,
         "pred": "agree"
     },
     {
@@ -336,10 +315,9 @@
         "option1": "includes",
         "option2": "include",
         "answer": "include",
-        "score1": -11.068166732788086,
-        "score2": -11.00931453704834,
-        "pred": "include",
-        "correct": true
+        "score1": -10.613264083862305,
+        "score2": -10.616052627563477,
+        "pred": "includes"
     },
     {
         "text": "Neural connections and the immune system are a pathway that may allow diseases originated in the intestine to spread to the brain.",
@@ -347,8 +325,8 @@
         "option1": "allow",
         "option2": "allows",
         "answer": "allow",
-        "score1": -9.387354850769043,
-        "score2": -9.6602201461792,
+        "score1": -9.404593467712402,
+        "score2": -10.050139427185059,
         "pred": "allow",
         "correct": true
     },
@@ -358,8 +336,8 @@
         "option1": "spread",
         "option2": "spreads",
         "answer": "spread",
-        "score1": -9.282381057739258,
-        "score2": -18.69583511352539,
+        "score1": -9.73006534576416,
+        "score2": -19.50008773803711,
         "pred": "spread",
         "correct": true
     },
@@ -369,8 +347,8 @@
         "option1": "sees",
         "option2": "see",
         "answer": "see",
-        "score1": -20.025218963623047,
-        "score2": -10.377218246459961,
+        "score1": -20.19888687133789,
+        "score2": -10.391131401062012,
         "pred": "see",
         "correct": true
     },
@@ -380,8 +358,8 @@
         "option1": "feel",
         "option2": "feels",
         "answer": "feel",
-        "score1": -20.347457885742188,
-        "score2": -20.44693946838379,
+        "score1": -20.433774948120117,
+        "score2": -20.53179931640625,
         "pred": "feel",
         "correct": true
     },
@@ -391,8 +369,8 @@
         "option1": "leads",
         "option2": "lead",
         "answer": "leads",
-        "score1": -19.268461227416992,
-        "score2": -10.114540100097656,
+        "score1": -19.462812423706055,
+        "score2": -10.210335731506348,
         "pred": "lead"
     },
     {
@@ -401,8 +379,8 @@
         "option1": "reflect",
         "option2": "reflects",
         "answer": "reflects",
-        "score1": -10.955080032348633,
-        "score2": -21.809864044189453,
+        "score1": -10.814898490905762,
+        "score2": -21.521255493164062,
         "pred": "reflect"
     },
     {
@@ -411,8 +389,8 @@
         "option1": "exist",
         "option2": "exists",
         "answer": "exists",
-        "score1": -8.696429252624512,
-        "score2": -17.100765228271484,
+        "score1": -8.994965553283691,
+        "score2": -18.085418701171875,
         "pred": "exist"
     },
     {
@@ -421,8 +399,8 @@
         "option1": "remain",
         "option2": "remains",
         "answer": "remain",
-        "score1": -21.825223922729492,
-        "score2": -22.24346160888672,
+        "score1": -20.516633987426758,
+        "score2": -20.678756713867188,
         "pred": "remain",
         "correct": true
     },
@@ -432,8 +410,8 @@
         "option1": "claims",
         "option2": "claim",
         "answer": "claim",
-        "score1": -36.04611682891846,
-        "score2": -24.380849838256836,
+        "score1": -33.024842262268066,
+        "score2": -22.41811180114746,
         "pred": "claim",
         "correct": true
     },
@@ -443,8 +421,8 @@
         "option1": "solve",
         "option2": "solves",
         "answer": "solve",
-        "score1": -19.08355140686035,
-        "score2": -19.172096252441406,
+        "score1": -18.85602378845215,
+        "score2": -18.989273071289062,
         "pred": "solve",
         "correct": true
     },
@@ -454,8 +432,8 @@
         "option1": "have",
         "option2": "has",
         "answer": "has",
-        "score1": -10.09977912902832,
-        "score2": -9.724017143249512,
+        "score1": -10.328371047973633,
+        "score2": -9.8156156539917,
         "pred": "has",
         "correct": true
     },
@@ -465,8 +443,8 @@
         "option1": "prevail",
         "option2": "prevails",
         "answer": "prevail",
-        "score1": -21.935951232910156,
-        "score2": -22.779706954956055,
+        "score1": -20.922122955322266,
+        "score2": -21.211448669433594,
         "pred": "prevail",
         "correct": true
     },
@@ -476,8 +454,8 @@
         "option1": "sets",
         "option2": "set",
         "answer": "set",
-        "score1": -11.1199369430542,
-        "score2": -11.033291816711426,
+        "score1": -10.422054290771484,
+        "score2": -10.36579704284668,
         "pred": "set",
         "correct": true
     },
@@ -487,8 +465,8 @@
         "option1": "files",
         "option2": "file",
         "answer": "file",
-        "score1": -9.344451904296875,
-        "score2": -9.354496955871582,
+        "score1": -9.392449378967285,
+        "score2": -9.394161224365234,
         "pred": "files"
     },
     {
@@ -497,8 +475,8 @@
         "option1": "hold",
         "option2": "holds",
         "answer": "holds",
-        "score1": -11.184566497802734,
-        "score2": -22.16183090209961,
+        "score1": -11.496015548706055,
+        "score2": -22.661951065063477,
         "pred": "hold"
     },
     {
@@ -507,8 +485,8 @@
         "option1": "lacks",
         "option2": "lack",
         "answer": "lacks",
-        "score1": -21.353923797607422,
-        "score2": -21.120962142944336,
+        "score1": -21.89634132385254,
+        "score2": -21.85964584350586,
         "pred": "lack"
     },
     {
@@ -517,8 +495,8 @@
         "option1": "allow",
         "option2": "allows",
         "answer": "allows",
-        "score1": -11.430669784545898,
-        "score2": -11.782398223876953,
+        "score1": -10.743852615356445,
+        "score2": -11.381510734558105,
         "pred": "allow"
     },
     {
@@ -527,8 +505,8 @@
         "option1": "generate",
         "option2": "generates",
         "answer": "generate",
-        "score1": -22.17588233947754,
-        "score2": -22.31594467163086,
+        "score1": -21.172348022460938,
+        "score2": -21.398462295532227,
         "pred": "generate",
         "correct": true
     },
@@ -538,8 +516,8 @@
         "option1": "suffers",
         "option2": "suffer",
         "answer": "suffer",
-        "score1": -30.76512336730957,
-        "score2": -20.76703643798828,
+        "score1": -29.78035068511963,
+        "score2": -20.154794692993164,
         "pred": "suffer",
         "correct": true
     },
@@ -549,8 +527,8 @@
         "option1": "has",
         "option2": "have",
         "answer": "have",
-        "score1": -10.322948455810547,
-        "score2": -10.470274925231934,
+        "score1": -10.260988235473633,
+        "score2": -10.458660125732422,
         "pred": "has"
     },
     {
@@ -559,8 +537,8 @@
         "option1": "connects",
         "option2": "connect",
         "answer": "connects",
-        "score1": -19.11024284362793,
-        "score2": -9.57083511352539,
+        "score1": -20.123010635375977,
+        "score2": -10.18156623840332,
         "pred": "connect"
     },
     {
@@ -569,8 +547,8 @@
         "option1": "touch",
         "option2": "touches",
         "answer": "touch",
-        "score1": -27.40601634979248,
-        "score2": -36.262088775634766,
+        "score1": -28.252939224243164,
+        "score2": -37.35841751098633,
         "pred": "touch",
         "correct": true
     },
@@ -580,8 +558,8 @@
         "option1": "have",
         "option2": "has",
         "answer": "have",
-        "score1": -10.634288787841797,
-        "score2": -10.151679992675781,
+        "score1": -10.691811561584473,
+        "score2": -10.080564498901367,
         "pred": "has"
     },
     {
@@ -590,8 +568,8 @@
         "option1": "has",
         "option2": "have",
         "answer": "have",
-        "score1": -10.972796440124512,
-        "score2": -11.286210060119629,
+        "score1": -11.205657958984375,
+        "score2": -11.559802055358887,
         "pred": "has"
     },
     {
@@ -600,8 +578,8 @@
         "option1": "tend",
         "option2": "tends",
         "answer": "tend",
-        "score1": -21.359195709228516,
-        "score2": -21.757497787475586,
+        "score1": -20.971153259277344,
+        "score2": -21.232620239257812,
         "pred": "tend",
         "correct": true
     },
@@ -611,10 +589,9 @@
         "option1": "include",
         "option2": "includes",
         "answer": "include",
-        "score1": -10.742464065551758,
-        "score2": -10.837278366088867,
-        "pred": "include",
-        "correct": true
+        "score1": -10.455400466918945,
+        "score2": -10.331366539001465,
+        "pred": "includes"
     },
     {
         "text": "Rifting in the central segment, however, coincided with the Cretaceous Normal Superchron (also known as the Cretaceous quiet period), a 40 Ma period without magnetic reversals, which makes it difficult to date sea-floor spreading in this segment.",
@@ -622,8 +599,8 @@
         "option1": "makes",
         "option2": "make",
         "answer": "makes",
-        "score1": -10.330146789550781,
-        "score2": -10.246051788330078,
+        "score1": -10.07575798034668,
+        "score2": -9.944742202758789,
         "pred": "make"
     },
     {
@@ -632,8 +609,8 @@
         "option1": "take",
         "option2": "takes",
         "answer": "takes",
-        "score1": -20.70435905456543,
-        "score2": -21.084671020507812,
+        "score1": -21.31439781188965,
+        "score2": -21.364276885986328,
         "pred": "take"
     },
     {
@@ -642,8 +619,8 @@
         "option1": "exists",
         "option2": "exist",
         "answer": "exist",
-        "score1": -19.198230743408203,
-        "score2": -9.838791847229004,
+        "score1": -19.166561126708984,
+        "score2": -9.564864158630371,
         "pred": "exist",
         "correct": true
     },
@@ -653,10 +630,9 @@
         "option1": "emphasize",
         "option2": "emphasizes",
         "answer": "emphasizes",
-        "score1": -30.349190711975098,
-        "score2": -30.249269485473633,
-        "pred": "emphasizes",
-        "correct": true
+        "score1": -29.499089241027832,
+        "score2": -29.701889991760254,
+        "pred": "emphasize"
     },
     {
         "text": "These are not the only phosphides and arsenides of the alkali metals: for example, potassium has nine different known phosphides, with formulae K3P, K4P3, K5P4, KP, K4P6, K3P7, K3P11, KP10.3, and KP15.",
@@ -664,8 +640,8 @@
         "option1": "have",
         "option2": "has",
         "answer": "has",
-        "score1": -9.722060203552246,
-        "score2": -9.359766960144043,
+        "score1": -9.966066360473633,
+        "score2": -9.500404357910156,
         "pred": "has",
         "correct": true
     },
@@ -675,8 +651,8 @@
         "option1": "give",
         "option2": "gives",
         "answer": "give",
-        "score1": -25.583195686340332,
-        "score2": -26.2886323928833,
+        "score1": -25.137662887573242,
+        "score2": -25.233564376831055,
         "pred": "give",
         "correct": true
     },
@@ -686,8 +662,8 @@
         "option1": "determine",
         "option2": "determines",
         "answer": "determines",
-        "score1": -32.512807846069336,
-        "score2": -31.686893463134766,
+        "score1": -31.485915184020996,
+        "score2": -31.079323768615723,
         "pred": "determines",
         "correct": true
     },
@@ -697,8 +673,8 @@
         "option1": "plays",
         "option2": "play",
         "answer": "play",
-        "score1": -9.292180061340332,
-        "score2": -9.309013366699219,
+        "score1": -8.900882720947266,
+        "score2": -8.906975746154785,
         "pred": "plays"
     },
     {
@@ -707,8 +683,8 @@
         "option1": "consists",
         "option2": "consist",
         "answer": "consists",
-        "score1": -20.545156478881836,
-        "score2": -19.998348236083984,
+        "score1": -20.694923400878906,
+        "score2": -20.256275177001953,
         "pred": "consist"
     },
     {
@@ -717,8 +693,8 @@
         "option1": "involve",
         "option2": "involves",
         "answer": "involves",
-        "score1": -21.829130172729492,
-        "score2": -21.92902183532715,
+        "score1": -21.75284194946289,
+        "score2": -21.976806640625,
         "pred": "involve"
     },
     {
@@ -727,8 +703,8 @@
         "option1": "participates",
         "option2": "participate",
         "answer": "participate",
-        "score1": -24.921815872192383,
-        "score2": -24.827707290649414,
+        "score1": -23.732662200927734,
+        "score2": -23.52236557006836,
         "pred": "participate",
         "correct": true
     },
@@ -738,8 +714,8 @@
         "option1": "hear",
         "option2": "hears",
         "answer": "hear",
-        "score1": -20.92320442199707,
-        "score2": -21.104324340820312,
+        "score1": -20.75580406188965,
+        "score2": -20.817113876342773,
         "pred": "hear",
         "correct": true
     },
@@ -749,7 +725,7 @@
         "option1": "gets",
         "option2": "get",
         "answer": "get",
-        "score1": -10.056286811828613,
+        "score1": -9.459494590759277,
         "score2": -0.0,
         "pred": "get",
         "correct": true
@@ -760,8 +736,8 @@
         "option1": "exercise",
         "option2": "exercises",
         "answer": "exercise",
-        "score1": -18.83273696899414,
-        "score2": -28.11250877380371,
+        "score1": -19.19857406616211,
+        "score2": -28.30246925354004,
         "pred": "exercise",
         "correct": true
     },
@@ -771,8 +747,8 @@
         "option1": "grows",
         "option2": "grow",
         "answer": "grows",
-        "score1": -19.413227081298828,
-        "score2": -9.803869247436523,
+        "score1": -19.04564094543457,
+        "score2": -9.669942855834961,
         "pred": "grow"
     },
     {
@@ -781,8 +757,8 @@
         "option1": "has",
         "option2": "have",
         "answer": "have",
-        "score1": -10.224996566772461,
-        "score2": -10.519771575927734,
+        "score1": -10.385441780090332,
+        "score2": -10.689777374267578,
         "pred": "has"
     },
     {
@@ -791,8 +767,8 @@
         "option1": "resembles",
         "option2": "resemble",
         "answer": "resemble",
-        "score1": -27.409220695495605,
-        "score2": -18.739803314208984,
+        "score1": -27.901559829711914,
+        "score2": -19.58782958984375,
         "pred": "resemble",
         "correct": true
     },
@@ -802,8 +778,8 @@
         "option1": "attempt",
         "option2": "attempts",
         "answer": "attempts",
-        "score1": -17.92626190185547,
-        "score2": -27.054576873779297,
+        "score1": -18.747467041015625,
+        "score2": -27.94197177886963,
         "pred": "attempt"
     },
     {
@@ -812,8 +788,8 @@
         "option1": "fly",
         "option2": "flies",
         "answer": "flies",
-        "score1": -10.040213584899902,
-        "score2": -9.865447044372559,
+        "score1": -10.040552139282227,
+        "score2": -10.004374504089355,
         "pred": "flies",
         "correct": true
     },
@@ -823,9 +799,10 @@
         "option1": "describes",
         "option2": "describe",
         "answer": "describe",
-        "score1": -21.14904022216797,
-        "score2": -21.56270980834961,
-        "pred": "describes"
+        "score1": -21.54886817932129,
+        "score2": -21.22591781616211,
+        "pred": "describe",
+        "correct": true
     },
     {
         "text": "Weapons Weapons training in aikido traditionally includes the short staff () (these techniques closely resemble the use of the bayonet, or Jkend), the wooden sword (), and the knife ().",
@@ -833,8 +810,8 @@
         "option1": "resemble",
         "option2": "resembles",
         "answer": "resemble",
-        "score1": -23.80539321899414,
-        "score2": -34.70611381530762,
+        "score1": -22.780664443969727,
+        "score2": -32.69553279876709,
         "pred": "resemble",
         "correct": true
     },
@@ -844,8 +821,8 @@
         "option1": "takes",
         "option2": "take",
         "answer": "take",
-        "score1": -9.267220497131348,
-        "score2": -9.178518295288086,
+        "score1": -9.279191970825195,
+        "score2": -9.245404243469238,
         "pred": "take",
         "correct": true
     },
@@ -855,10 +832,9 @@
         "option1": "believes",
         "option2": "believe",
         "answer": "believes",
-        "score1": -20.069076538085938,
-        "score2": -20.174501419067383,
-        "pred": "believes",
-        "correct": true
+        "score1": -19.842798233032227,
+        "score2": -19.769540786743164,
+        "pred": "believe"
     },
     {
         "text": "However, almost half the population has to be considered poor, with dramatic differences between the countryside and the cities, where slightly more than 50% of the people reside.",
@@ -866,8 +842,8 @@
         "option1": "resides",
         "option2": "reside",
         "answer": "reside",
-        "score1": -19.518238067626953,
-        "score2": -19.418087005615234,
+        "score1": -19.336627960205078,
+        "score2": -19.28570556640625,
         "pred": "reside",
         "correct": true
     },
@@ -877,8 +853,8 @@
         "option1": "separate",
         "option2": "separates",
         "answer": "separates",
-        "score1": -19.319477081298828,
-        "score2": -19.38987159729004,
+        "score1": -19.725847244262695,
+        "score2": -19.798324584960938,
         "pred": "separate"
     },
     {
@@ -887,8 +863,8 @@
         "option1": "prevents",
         "option2": "prevent",
         "answer": "prevents",
-        "score1": -19.241783142089844,
-        "score2": -18.999126434326172,
+        "score1": -20.06396484375,
+        "score2": -19.701499938964844,
         "pred": "prevent"
     },
     {
@@ -897,8 +873,8 @@
         "option1": "fly",
         "option2": "flies",
         "answer": "flies",
-        "score1": -9.493691444396973,
-        "score2": -9.383577346801758,
+        "score1": -9.350979804992676,
+        "score2": -9.268017768859863,
         "pred": "flies",
         "correct": true
     },
@@ -908,8 +884,8 @@
         "option1": "returns",
         "option2": "return",
         "answer": "return",
-        "score1": -19.79368782043457,
-        "score2": -9.92901611328125,
+        "score1": -19.927825927734375,
+        "score2": -10.056939125061035,
         "pred": "return",
         "correct": true
     },
@@ -919,8 +895,8 @@
         "option1": "leads",
         "option2": "lead",
         "answer": "leads",
-        "score1": -22.205467224121094,
-        "score2": -11.75368595123291,
+        "score1": -21.986064910888672,
+        "score2": -11.53909683227539,
         "pred": "lead"
     },
     {
@@ -929,8 +905,8 @@
         "option1": "shows",
         "option2": "show",
         "answer": "show",
-        "score1": -11.136290550231934,
-        "score2": -10.95311164855957,
+        "score1": -11.368255615234375,
+        "score2": -11.342360496520996,
         "pred": "show",
         "correct": true
     },
@@ -940,8 +916,8 @@
         "option1": "dry",
         "option2": "dries",
         "answer": "dry",
-        "score1": -9.307157516479492,
-        "score2": -17.85594367980957,
+        "score1": -9.774169921875,
+        "score2": -18.357606887817383,
         "pred": "dry",
         "correct": true
     },
@@ -951,8 +927,8 @@
         "option1": "wins",
         "option2": "win",
         "answer": "win",
-        "score1": -18.69814109802246,
-        "score2": -9.578225135803223,
+        "score1": -19.191450119018555,
+        "score2": -9.70081901550293,
         "pred": "win",
         "correct": true
     },
@@ -962,8 +938,8 @@
         "option1": "hear",
         "option2": "hears",
         "answer": "hears",
-        "score1": -20.408214569091797,
-        "score2": -20.59714698791504,
+        "score1": -20.288761138916016,
+        "score2": -20.441654205322266,
         "pred": "hear"
     },
     {
@@ -972,8 +948,8 @@
         "option1": "have",
         "option2": "has",
         "answer": "has",
-        "score1": -10.411124229431152,
-        "score2": -10.22358512878418,
+        "score1": -10.61803913116455,
+        "score2": -10.395831108093262,
         "pred": "has",
         "correct": true
     },
@@ -983,8 +959,8 @@
         "option1": "refer",
         "option2": "refers",
         "answer": "refer",
-        "score1": -18.7734375,
-        "score2": -18.834857940673828,
+        "score1": -17.928247451782227,
+        "score2": -18.271909713745117,
         "pred": "refer",
         "correct": true
     },
@@ -994,8 +970,8 @@
         "option1": "varies",
         "option2": "vary",
         "answer": "vary",
-        "score1": -20.152536392211914,
-        "score2": -20.1058292388916,
+        "score1": -19.73866844177246,
+        "score2": -19.682798385620117,
         "pred": "vary",
         "correct": true
     },
@@ -1005,8 +981,8 @@
         "option1": "offer",
         "option2": "offers",
         "answer": "offers",
-        "score1": -10.344830513000488,
-        "score2": -19.87822914123535,
+        "score1": -10.851876258850098,
+        "score2": -20.835180282592773,
         "pred": "offer"
     },
     {
@@ -1015,8 +991,8 @@
         "option1": "have",
         "option2": "has",
         "answer": "has",
-        "score1": -9.833098411560059,
-        "score2": -9.631962776184082,
+        "score1": -9.561874389648438,
+        "score2": -9.294387817382812,
         "pred": "has",
         "correct": true
     },
@@ -1026,8 +1002,8 @@
         "option1": "has",
         "option2": "have",
         "answer": "has",
-        "score1": -9.405384063720703,
-        "score2": -9.559526443481445,
+        "score1": -9.12155532836914,
+        "score2": -9.329833030700684,
         "pred": "has",
         "correct": true
     },
@@ -1037,8 +1013,8 @@
         "option1": "feeds",
         "option2": "feed",
         "answer": "feed",
-        "score1": -19.729923248291016,
-        "score2": -9.883271217346191,
+        "score1": -19.39386749267578,
+        "score2": -9.827622413635254,
         "pred": "feed",
         "correct": true
     },
@@ -1048,8 +1024,8 @@
         "option1": "lasts",
         "option2": "last",
         "answer": "last",
-        "score1": -18.408164978027344,
-        "score2": -9.326884269714355,
+        "score1": -17.592193603515625,
+        "score2": -8.892367362976074,
         "pred": "last",
         "correct": true
     },
@@ -1059,8 +1035,8 @@
         "option1": "carry",
         "option2": "carries",
         "answer": "carries",
-        "score1": -9.870019912719727,
-        "score2": -18.992040634155273,
+        "score1": -10.002205848693848,
+        "score2": -19.325544357299805,
         "pred": "carry"
     },
     {
@@ -1069,8 +1045,8 @@
         "option1": "invests",
         "option2": "invest",
         "answer": "invests",
-        "score1": -20.296754837036133,
-        "score2": -10.110721588134766,
+        "score1": -20.120588302612305,
+        "score2": -10.222466468811035,
         "pred": "invest"
     },
     {
@@ -1079,8 +1055,8 @@
         "option1": "donates",
         "option2": "donate",
         "answer": "donate",
-        "score1": -18.021949768066406,
-        "score2": -17.96755027770996,
+        "score1": -17.524765014648438,
+        "score2": -17.46205711364746,
         "pred": "donate",
         "correct": true
     },
@@ -1090,8 +1066,8 @@
         "option1": "teach",
         "option2": "teaches",
         "answer": "teach",
-        "score1": -17.687341690063477,
-        "score2": -18.45600700378418,
+        "score1": -18.029172897338867,
+        "score2": -18.583433151245117,
         "pred": "teach",
         "correct": true
     },
@@ -1101,10 +1077,9 @@
         "option1": "produces",
         "option2": "produce",
         "answer": "produce",
-        "score1": -22.11627197265625,
-        "score2": -21.656909942626953,
-        "pred": "produce",
-        "correct": true
+        "score1": -20.33698272705078,
+        "score2": -20.371328353881836,
+        "pred": "produces"
     },
     {
         "text": "Henri Carteron held the \"extreme view\" that Aristotle's concept of force was basically qualitative, but other authors reject this.",
@@ -1112,8 +1087,8 @@
         "option1": "rejects",
         "option2": "reject",
         "answer": "reject",
-        "score1": -30.034378051757812,
-        "score2": -20.072465896606445,
+        "score1": -31.153656005859375,
+        "score2": -20.951948165893555,
         "pred": "reject",
         "correct": true
     },
@@ -1123,8 +1098,8 @@
         "option1": "relaxes",
         "option2": "relax",
         "answer": "relax",
-        "score1": -25.454524040222168,
-        "score2": -17.46169662475586,
+        "score1": -28.520736694335938,
+        "score2": -19.534069061279297,
         "pred": "relax",
         "correct": true
     },
@@ -1134,8 +1109,8 @@
         "option1": "state",
         "option2": "states",
         "answer": "states",
-        "score1": -10.138611793518066,
-        "score2": -10.244209289550781,
+        "score1": -9.913395881652832,
+        "score2": -10.032027244567871,
         "pred": "state"
     },
     {
@@ -1144,8 +1119,8 @@
         "option1": "defines",
         "option2": "define",
         "answer": "defines",
-        "score1": -18.246997833251953,
-        "score2": -9.370321273803711,
+        "score1": -18.93468475341797,
+        "score2": -9.886088371276855,
         "pred": "define"
     },
     {
@@ -1154,8 +1129,8 @@
         "option1": "distinguish",
         "option2": "distinguishes",
         "answer": "distinguishes",
-        "score1": -29.804500579833984,
-        "score2": -30.185505867004395,
+        "score1": -30.16709804534912,
+        "score2": -30.194881439208984,
         "pred": "distinguish"
     },
     {
@@ -1164,8 +1139,8 @@
         "option1": "tends",
         "option2": "tend",
         "answer": "tend",
-        "score1": -19.599994659423828,
-        "score2": -18.936250686645508,
+        "score1": -18.904850006103516,
+        "score2": -18.39419937133789,
         "pred": "tend",
         "correct": true
     },
@@ -1175,8 +1150,8 @@
         "option1": "have",
         "option2": "has",
         "answer": "have",
-        "score1": -10.23623275756836,
-        "score2": -10.013821601867676,
+        "score1": -9.698273658752441,
+        "score2": -9.374086380004883,
         "pred": "has"
     },
     {
@@ -1185,8 +1160,8 @@
         "option1": "show",
         "option2": "shows",
         "answer": "shows",
-        "score1": -30.663119316101074,
-        "score2": -39.558895111083984,
+        "score1": -30.361533164978027,
+        "score2": -38.656532287597656,
         "pred": "show"
     },
     {
@@ -1195,8 +1170,8 @@
         "option1": "acquires",
         "option2": "acquire",
         "answer": "acquire",
-        "score1": -22.041162490844727,
-        "score2": -20.4635009765625,
+        "score1": -21.826181411743164,
+        "score2": -20.601171493530273,
         "pred": "acquire",
         "correct": true
     },
@@ -1206,8 +1181,8 @@
         "option1": "flick",
         "option2": "flicks",
         "answer": "flick",
-        "score1": -24.0002498626709,
-        "score2": -25.597536087036133,
+        "score1": -23.03084373474121,
+        "score2": -25.62037467956543,
         "pred": "flick",
         "correct": true
     },
@@ -1217,8 +1192,8 @@
         "option1": "have",
         "option2": "has",
         "answer": "has",
-        "score1": -9.973433494567871,
-        "score2": -9.608647346496582,
+        "score1": -9.894700050354004,
+        "score2": -9.415436744689941,
         "pred": "has",
         "correct": true
     },
@@ -1228,8 +1203,8 @@
         "option1": "spreads",
         "option2": "spread",
         "answer": "spread",
-        "score1": -20.818044662475586,
-        "score2": -10.414226531982422,
+        "score1": -20.711122512817383,
+        "score2": -10.467674255371094,
         "pred": "spread",
         "correct": true
     },
@@ -1239,8 +1214,8 @@
         "option1": "affect",
         "option2": "affects",
         "answer": "affects",
-        "score1": -22.582775115966797,
-        "score2": -33.46996879577637,
+        "score1": -22.694263458251953,
+        "score2": -33.539812088012695,
         "pred": "affect"
     },
     {
@@ -1249,8 +1224,8 @@
         "option1": "lead",
         "option2": "leads",
         "answer": "lead",
-        "score1": -9.667238235473633,
-        "score2": -18.754283905029297,
+        "score1": -10.009675979614258,
+        "score2": -19.458227157592773,
         "pred": "lead",
         "correct": true
     },
@@ -1260,8 +1235,8 @@
         "option1": "estimates",
         "option2": "estimate",
         "answer": "estimate",
-        "score1": -20.2772274017334,
-        "score2": -20.150476455688477,
+        "score1": -19.5877628326416,
+        "score2": -19.244665145874023,
         "pred": "estimate",
         "correct": true
     },
@@ -1271,8 +1246,8 @@
         "option1": "remains",
         "option2": "remain",
         "answer": "remain",
-        "score1": -20.51020622253418,
-        "score2": -20.17075538635254,
+        "score1": -19.59490966796875,
+        "score2": -19.527822494506836,
         "pred": "remain",
         "correct": true
     },
@@ -1282,8 +1257,8 @@
         "option1": "becomes",
         "option2": "become",
         "answer": "becomes",
-        "score1": -17.611766815185547,
-        "score2": -16.95290184020996,
+        "score1": -18.011960983276367,
+        "score2": -17.9248104095459,
         "pred": "become"
     },
     {
@@ -1292,8 +1267,8 @@
         "option1": "increases",
         "option2": "increase",
         "answer": "increases",
-        "score1": -19.642553329467773,
-        "score2": -18.85613441467285,
+        "score1": -18.99652862548828,
+        "score2": -18.662548065185547,
         "pred": "increase"
     },
     {
@@ -1302,8 +1277,8 @@
         "option1": "has",
         "option2": "have",
         "answer": "have",
-        "score1": -10.08657169342041,
-        "score2": -10.277204513549805,
+        "score1": -9.835724830627441,
+        "score2": -10.065430641174316,
         "pred": "has"
     },
     {
@@ -1312,8 +1287,8 @@
         "option1": "explodes",
         "option2": "explode",
         "answer": "explodes",
-        "score1": -22.005386352539062,
-        "score2": -21.97410774230957,
+        "score1": -21.90273666381836,
+        "score2": -21.75444793701172,
         "pred": "explode"
     },
     {
@@ -1322,8 +1297,8 @@
         "option1": "consists",
         "option2": "consist",
         "answer": "consist",
-        "score1": -18.814407348632812,
-        "score2": -18.52058982849121,
+        "score1": -19.511796951293945,
+        "score2": -19.249509811401367,
         "pred": "consist",
         "correct": true
     },
@@ -1333,8 +1308,8 @@
         "option1": "relies",
         "option2": "rely",
         "answer": "rely",
-        "score1": -20.501850128173828,
-        "score2": -10.893797874450684,
+        "score1": -19.717117309570312,
+        "score2": -10.740306854248047,
         "pred": "rely",
         "correct": true
     },
@@ -1344,8 +1319,8 @@
         "option1": "have",
         "option2": "has",
         "answer": "have",
-        "score1": -10.287964820861816,
-        "score2": -9.902144432067871,
+        "score1": -10.254673957824707,
+        "score2": -9.807851791381836,
         "pred": "has"
     },
     {
@@ -1354,8 +1329,8 @@
         "option1": "begetteth",
         "option2": "begetteth",
         "answer": "begetteth",
-        "score1": -38.914608001708984,
-        "score2": -38.914608001708984,
+        "score1": -38.9123420715332,
+        "score2": -38.9123420715332,
         "pred": "begetteth",
         "correct": true
     },
@@ -1365,8 +1340,8 @@
         "option1": "defy",
         "option2": "defies",
         "answer": "defy",
-        "score1": -19.909223556518555,
-        "score2": -20.005054473876953,
+        "score1": -20.071014404296875,
+        "score2": -20.154312133789062,
         "pred": "defy",
         "correct": true
     },
@@ -1376,8 +1351,8 @@
         "option1": "contradict",
         "option2": "contradicts",
         "answer": "contradicts",
-        "score1": -30.900206565856934,
-        "score2": -31.7341890335083,
+        "score1": -30.87528133392334,
+        "score2": -31.469541549682617,
         "pred": "contradict"
     },
     {
@@ -1386,8 +1361,8 @@
         "option1": "occurs",
         "option2": "occur",
         "answer": "occur",
-        "score1": -21.725666046142578,
-        "score2": -21.026592254638672,
+        "score1": -19.992666244506836,
+        "score2": -19.785091400146484,
         "pred": "occur",
         "correct": true
     },
@@ -1397,8 +1372,8 @@
         "option1": "change",
         "option2": "changes",
         "answer": "change",
-        "score1": -10.014652252197266,
-        "score2": -10.29375171661377,
+        "score1": -9.789884567260742,
+        "score2": -9.9619140625,
         "pred": "change",
         "correct": true
     },
@@ -1408,8 +1383,8 @@
         "option1": "sees",
         "option2": "see",
         "answer": "see",
-        "score1": -17.653034210205078,
-        "score2": -9.338020324707031,
+        "score1": -16.536945343017578,
+        "score2": -8.676526069641113,
         "pred": "see",
         "correct": true
     },
@@ -1419,8 +1394,8 @@
         "option1": "looks",
         "option2": "look",
         "answer": "look",
-        "score1": -20.28219985961914,
-        "score2": -10.182798385620117,
+        "score1": -19.09868049621582,
+        "score2": -9.622896194458008,
         "pred": "look",
         "correct": true
     },
@@ -1430,8 +1405,8 @@
         "option1": "live",
         "option2": "lives",
         "answer": "live",
-        "score1": -11.045495986938477,
-        "score2": -21.452648162841797,
+        "score1": -10.757338523864746,
+        "score2": -20.777843475341797,
         "pred": "live",
         "correct": true
     },
@@ -1441,8 +1416,8 @@
         "option1": "collects",
         "option2": "collect",
         "answer": "collect",
-        "score1": -21.95934295654297,
-        "score2": -11.097275733947754,
+        "score1": -20.61886215209961,
+        "score2": -10.505833625793457,
         "pred": "collect",
         "correct": true
     },
@@ -1452,8 +1427,8 @@
         "option1": "occur",
         "option2": "occurs",
         "answer": "occurs",
-        "score1": -21.251123428344727,
-        "score2": -21.914718627929688,
+        "score1": -19.564525604248047,
+        "score2": -19.670663833618164,
         "pred": "occur"
     },
     {
@@ -1462,8 +1437,8 @@
         "option1": "brings",
         "option2": "bring",
         "answer": "brings",
-        "score1": -17.513179779052734,
-        "score2": -8.95649242401123,
+        "score1": -17.97360610961914,
+        "score2": -9.58749771118164,
         "pred": "bring"
     },
     {
@@ -1472,9 +1447,10 @@
         "option1": "recognize",
         "option2": "recognizes",
         "answer": "recognize",
-        "score1": -22.422466278076172,
-        "score2": -22.383438110351562,
-        "pred": "recognizes"
+        "score1": -22.32912254333496,
+        "score2": -22.437971115112305,
+        "pred": "recognize",
+        "correct": true
     },
     {
         "text": "It was an era of constitution writing most states were busy at the task and leaders felt the new nation must have a written constitution; a \"rulebook\" for how the new nation should function.",
@@ -1482,8 +1458,8 @@
         "option1": "have",
         "option2": "has",
         "answer": "have",
-        "score1": -10.679698944091797,
-        "score2": -10.322638511657715,
+        "score1": -10.740065574645996,
+        "score2": -10.277351379394531,
         "pred": "has"
     },
     {
@@ -1492,8 +1468,8 @@
         "option1": "functions",
         "option2": "function",
         "answer": "function",
-        "score1": -20.119951248168945,
-        "score2": -9.910577774047852,
+        "score1": -20.58462142944336,
+        "score2": -10.08961296081543,
         "pred": "function",
         "correct": true
     },
@@ -1503,8 +1479,8 @@
         "option1": "become",
         "option2": "becomes",
         "answer": "become",
-        "score1": -27.897680282592773,
-        "score2": -28.853631019592285,
+        "score1": -28.356250762939453,
+        "score2": -28.825621604919434,
         "pred": "become",
         "correct": true
     },
@@ -1514,8 +1490,8 @@
         "option1": "appear",
         "option2": "appears",
         "answer": "appears",
-        "score1": -18.525001525878906,
-        "score2": -18.670440673828125,
+        "score1": -18.525188446044922,
+        "score2": -18.53801155090332,
         "pred": "appear"
     },
     {
@@ -1524,8 +1500,8 @@
         "option1": "refer",
         "option2": "refers",
         "answer": "refer",
-        "score1": -19.380239486694336,
-        "score2": -19.44480323791504,
+        "score1": -19.91990089416504,
+        "score2": -20.06807518005371,
         "pred": "refer",
         "correct": true
     },
@@ -1535,8 +1511,8 @@
         "option1": "leads",
         "option2": "lead",
         "answer": "lead",
-        "score1": -19.283700942993164,
-        "score2": -9.896783828735352,
+        "score1": -19.27703285217285,
+        "score2": -9.878768920898438,
         "pred": "lead",
         "correct": true
     },
@@ -1546,8 +1522,8 @@
         "option1": "copies",
         "option2": "copy",
         "answer": "copy",
-        "score1": -19.63688850402832,
-        "score2": -10.132861137390137,
+        "score1": -19.20363426208496,
+        "score2": -9.943011283874512,
         "pred": "copy",
         "correct": true
     },
@@ -1557,8 +1533,8 @@
         "option1": "mean",
         "option2": "means",
         "answer": "means",
-        "score1": -9.563332557678223,
-        "score2": -17.451902389526367,
+        "score1": -9.406512260437012,
+        "score2": -17.723421096801758,
         "pred": "mean"
     },
     {
@@ -1567,8 +1543,8 @@
         "option1": "shifts",
         "option2": "shift",
         "answer": "shift",
-        "score1": -18.39043617248535,
-        "score2": -9.26375961303711,
+        "score1": -18.791183471679688,
+        "score2": -9.39320182800293,
         "pred": "shift",
         "correct": true
     },
@@ -1578,8 +1554,8 @@
         "option1": "combines",
         "option2": "combine",
         "answer": "combine",
-        "score1": -21.509092330932617,
-        "score2": -21.23239517211914,
+        "score1": -20.906389236450195,
+        "score2": -20.737340927124023,
         "pred": "combine",
         "correct": true
     },
@@ -1589,8 +1565,8 @@
         "option1": "leaves",
         "option2": "leave",
         "answer": "leaves",
-        "score1": -19.923839569091797,
-        "score2": -10.26197338104248,
+        "score1": -20.053667068481445,
+        "score2": -10.188838005065918,
         "pred": "leave"
     },
     {
@@ -1599,8 +1575,8 @@
         "option1": "allows",
         "option2": "allow",
         "answer": "allow",
-        "score1": -9.379055976867676,
-        "score2": -9.328194618225098,
+        "score1": -9.306878089904785,
+        "score2": -9.1768159866333,
         "pred": "allow",
         "correct": true
     },
@@ -1610,8 +1586,8 @@
         "option1": "sin",
         "option2": "sins",
         "answer": "sin",
-        "score1": -9.334735870361328,
-        "score2": -18.373584747314453,
+        "score1": -9.273463249206543,
+        "score2": -18.303091049194336,
         "pred": "sin",
         "correct": true
     },
@@ -1621,8 +1597,8 @@
         "option1": "beat",
         "option2": "beats",
         "answer": "beat",
-        "score1": -21.308094024658203,
-        "score2": -22.978818893432617,
+        "score1": -20.514862060546875,
+        "score2": -21.33403778076172,
         "pred": "beat",
         "correct": true
     },
@@ -1632,8 +1608,8 @@
         "option1": "finds",
         "option2": "find",
         "answer": "find",
-        "score1": -19.284868240356445,
-        "score2": -9.64444351196289,
+        "score1": -19.16012954711914,
+        "score2": -9.602880477905273,
         "pred": "find",
         "correct": true
     },
@@ -1643,8 +1619,8 @@
         "option1": "understands",
         "option2": "understand",
         "answer": "understand",
-        "score1": -25.89554786682129,
-        "score2": -17.188331604003906,
+        "score1": -26.591291427612305,
+        "score2": -17.767669677734375,
         "pred": "understand",
         "correct": true
     },
@@ -1654,10 +1630,9 @@
         "option1": "lie",
         "option2": "lies",
         "answer": "lies",
-        "score1": -17.03094482421875,
-        "score2": -17.006912231445312,
-        "pred": "lies",
-        "correct": true
+        "score1": -17.629262924194336,
+        "score2": -17.86359214782715,
+        "pred": "lie"
     },
     {
         "text": "In England and Wales, the police cannot legally detain anyone for more than 24 hours without charging them unless an officer with the rank of superintendent (or above) authorises detention for a further 12 hours (36 hours total), or a judge (who will be a magistrate) authorises detention by the police before charge for up to a maximum of 96 hours, but for terrorism-related offences people can be held by the police for up to 28 days before charge.",
@@ -1665,8 +1640,8 @@
         "option1": "detain",
         "option2": "detains",
         "answer": "detain",
-        "score1": -23.547685623168945,
-        "score2": -24.371185302734375,
+        "score1": -23.923725128173828,
+        "score2": -24.11970329284668,
         "pred": "detain",
         "correct": true
     },
@@ -1676,8 +1651,8 @@
         "option1": "authorise",
         "option2": "authorises",
         "answer": "authorises",
-        "score1": -20.98213005065918,
-        "score2": -20.95060920715332,
+        "score1": -20.331012725830078,
+        "score2": -20.306623458862305,
         "pred": "authorises",
         "correct": true
     },
@@ -1687,8 +1662,8 @@
         "option1": "authorise",
         "option2": "authorises",
         "answer": "authorises",
-        "score1": -20.675098419189453,
-        "score2": -20.658687591552734,
+        "score1": -19.921781539916992,
+        "score2": -19.921300888061523,
         "pred": "authorises",
         "correct": true
     },
@@ -1698,8 +1673,8 @@
         "option1": "ignite",
         "option2": "ignites",
         "answer": "ignite",
-        "score1": -21.339479446411133,
-        "score2": -21.49362564086914,
+        "score1": -20.982831954956055,
+        "score2": -21.09079933166504,
         "pred": "ignite",
         "correct": true
     },
@@ -1709,8 +1684,8 @@
         "option1": "punctures",
         "option2": "puncture",
         "answer": "punctures",
-        "score1": -40.97900390625,
-        "score2": -31.12547492980957,
+        "score1": -39.96628189086914,
+        "score2": -30.448302268981934,
         "pred": "puncture"
     },
     {
@@ -1719,8 +1694,8 @@
         "option1": "remains",
         "option2": "remain",
         "answer": "remains",
-        "score1": -40.312870025634766,
-        "score2": -30.90926170349121,
+        "score1": -37.0969123840332,
+        "score2": -28.970123291015625,
         "pred": "remain"
     },
     {
@@ -1729,8 +1704,8 @@
         "option1": "rely",
         "option2": "relies",
         "answer": "relies",
-        "score1": -10.218280792236328,
-        "score2": -19.933284759521484,
+        "score1": -9.942797660827637,
+        "score2": -19.123424530029297,
         "pred": "rely"
     },
     {
@@ -1739,8 +1714,8 @@
         "option1": "ranges",
         "option2": "range",
         "answer": "ranges",
-        "score1": -21.279964447021484,
-        "score2": -10.796651840209961,
+        "score1": -20.48902702331543,
+        "score2": -10.322697639465332,
         "pred": "range"
     },
     {
@@ -1749,8 +1724,8 @@
         "option1": "travels",
         "option2": "travel",
         "answer": "travel",
-        "score1": -22.58013916015625,
-        "score2": -11.42635726928711,
+        "score1": -21.312665939331055,
+        "score2": -10.822772026062012,
         "pred": "travel",
         "correct": true
     },
@@ -1760,8 +1735,8 @@
         "option1": "fall",
         "option2": "falls",
         "answer": "fall",
-        "score1": -10.561074256896973,
-        "score2": -10.647186279296875,
+        "score1": -10.321253776550293,
+        "score2": -10.327286720275879,
         "pred": "fall",
         "correct": true
     },
@@ -1771,8 +1746,8 @@
         "option1": "increases",
         "option2": "increase",
         "answer": "increases",
-        "score1": -18.459951400756836,
-        "score2": -17.664560317993164,
+        "score1": -18.41234016418457,
+        "score2": -18.128925323486328,
         "pred": "increase"
     },
     {
@@ -1781,8 +1756,8 @@
         "option1": "make",
         "option2": "makes",
         "answer": "make",
-        "score1": -9.8886079788208,
-        "score2": -10.151150703430176,
+        "score1": -9.578592300415039,
+        "score2": -9.976804733276367,
         "pred": "make",
         "correct": true
     },
@@ -1792,8 +1767,8 @@
         "option1": "takes",
         "option2": "take",
         "answer": "takes",
-        "score1": -20.081218719482422,
-        "score2": -10.320059776306152,
+        "score1": -19.668439865112305,
+        "score2": -10.646917343139648,
         "pred": "take"
     },
     {
@@ -1802,8 +1777,8 @@
         "option1": "have",
         "option2": "has",
         "answer": "have",
-        "score1": -8.524847030639648,
-        "score2": -7.946071624755859,
+        "score1": -9.108644485473633,
+        "score2": -8.414448738098145,
         "pred": "has"
     },
     {
@@ -1812,8 +1787,8 @@
         "option1": "rules",
         "option2": "rule",
         "answer": "rule",
-        "score1": -10.580292701721191,
-        "score2": -10.624004364013672,
+        "score1": -10.373457908630371,
+        "score2": -10.46080493927002,
         "pred": "rules"
     },
     {
@@ -1822,8 +1797,8 @@
         "option1": "affirm",
         "option2": "affirms",
         "answer": "affirms",
-        "score1": -18.426679611206055,
-        "score2": -19.288837432861328,
+        "score1": -18.400968551635742,
+        "score2": -19.158449172973633,
         "pred": "affirm"
     },
     {
@@ -1832,8 +1807,8 @@
         "option1": "drop",
         "option2": "drops",
         "answer": "drop",
-        "score1": -10.228824615478516,
-        "score2": -10.41752815246582,
+        "score1": -10.316370010375977,
+        "score2": -10.611663818359375,
         "pred": "drop",
         "correct": true
     },
@@ -1843,8 +1818,8 @@
         "option1": "seats",
         "option2": "seat",
         "answer": "seats",
-        "score1": -20.235010147094727,
-        "score2": -10.336089134216309,
+        "score1": -19.96971893310547,
+        "score2": -10.175363540649414,
         "pred": "seat"
     },
     {
@@ -1853,8 +1828,8 @@
         "option1": "knows",
         "option2": "know",
         "answer": "knows",
-        "score1": -28.70305824279785,
-        "score2": -19.50656509399414,
+        "score1": -28.24563503265381,
+        "score2": -19.369152069091797,
         "pred": "know"
     },
     {
@@ -1863,8 +1838,8 @@
         "option1": "go",
         "option2": "goes",
         "answer": "goes",
-        "score1": -9.427292823791504,
-        "score2": -18.431039810180664,
+        "score1": -9.525075912475586,
+        "score2": -18.625070571899414,
         "pred": "go"
     },
     {
@@ -1873,8 +1848,8 @@
         "option1": "date",
         "option2": "dates",
         "answer": "dates",
-        "score1": -11.404619216918945,
-        "score2": -11.34525203704834,
+        "score1": -11.153498649597168,
+        "score2": -10.754167556762695,
         "pred": "dates",
         "correct": true
     },
@@ -1884,8 +1859,8 @@
         "option1": "approach",
         "option2": "approaches",
         "answer": "approaches",
-        "score1": -19.39848518371582,
-        "score2": -20.41765785217285,
+        "score1": -20.848155975341797,
+        "score2": -21.475496292114258,
         "pred": "approach"
     },
     {
@@ -1894,8 +1869,8 @@
         "option1": "makes",
         "option2": "make",
         "answer": "make",
-        "score1": -10.109426498413086,
-        "score2": -9.858220100402832,
+        "score1": -10.386529922485352,
+        "score2": -10.099761009216309,
         "pred": "make",
         "correct": true
     },
@@ -1905,8 +1880,8 @@
         "option1": "swear",
         "option2": "swears",
         "answer": "swear",
-        "score1": -19.307544708251953,
-        "score2": -19.8787841796875,
+        "score1": -19.659574508666992,
+        "score2": -19.836000442504883,
         "pred": "swear",
         "correct": true
     },
@@ -1916,8 +1891,8 @@
         "option1": "has",
         "option2": "have",
         "answer": "has",
-        "score1": -9.816232681274414,
-        "score2": -10.109720230102539,
+        "score1": -9.438202857971191,
+        "score2": -9.82984447479248,
         "pred": "has",
         "correct": true
     },
@@ -1927,8 +1902,8 @@
         "option1": "contain",
         "option2": "contains",
         "answer": "contains",
-        "score1": -19.70442771911621,
-        "score2": -19.98075294494629,
+        "score1": -18.980697631835938,
+        "score2": -19.072044372558594,
         "pred": "contain"
     },
     {
@@ -1937,8 +1912,8 @@
         "option1": "show",
         "option2": "shows",
         "answer": "show",
-        "score1": -10.209074020385742,
-        "score2": -10.367680549621582,
+        "score1": -10.442486763000488,
+        "score2": -10.5216064453125,
         "pred": "show",
         "correct": true
     },
@@ -1948,8 +1923,8 @@
         "option1": "unites",
         "option2": "unite",
         "answer": "unites",
-        "score1": -18.110187530517578,
-        "score2": -17.804101943969727,
+        "score1": -18.28382682800293,
+        "score2": -18.033126831054688,
         "pred": "unite"
     },
     {
@@ -1958,8 +1933,8 @@
         "option1": "hide",
         "option2": "hides",
         "answer": "hide",
-        "score1": -8.875261306762695,
-        "score2": -17.08347511291504,
+        "score1": -9.2306489944458,
+        "score2": -17.641921997070312,
         "pred": "hide",
         "correct": true
     },
@@ -1969,8 +1944,8 @@
         "option1": "flies",
         "option2": "fly",
         "answer": "fly",
-        "score1": -9.620765686035156,
-        "score2": -9.66844654083252,
+        "score1": -9.72256851196289,
+        "score2": -9.734049797058105,
         "pred": "flies"
     },
     {
@@ -1979,8 +1954,8 @@
         "option1": "decrease",
         "option2": "decreases",
         "answer": "decreases",
-        "score1": -26.965335845947266,
-        "score2": -27.883051872253418,
+        "score1": -27.49325180053711,
+        "score2": -27.917675971984863,
         "pred": "decrease"
     },
     {
@@ -1989,8 +1964,8 @@
         "option1": "needs",
         "option2": "need",
         "answer": "need",
-        "score1": -9.58774471282959,
-        "score2": -9.535743713378906,
+        "score1": -10.00829029083252,
+        "score2": -9.923368453979492,
         "pred": "need",
         "correct": true
     },
@@ -2000,8 +1975,8 @@
         "option1": "bear",
         "option2": "bears",
         "answer": "bear",
-        "score1": -9.757415771484375,
-        "score2": -19.474082946777344,
+        "score1": -9.849655151367188,
+        "score2": -19.55438804626465,
         "pred": "bear",
         "correct": true
     },
@@ -2011,8 +1986,8 @@
         "option1": "assumes",
         "option2": "assume",
         "answer": "assume",
-        "score1": -20.904691696166992,
-        "score2": -20.424238204956055,
+        "score1": -20.689613342285156,
+        "score2": -20.17592430114746,
         "pred": "assume",
         "correct": true
     },
@@ -2022,8 +1997,8 @@
         "option1": "argues",
         "option2": "argue",
         "answer": "argues",
-        "score1": -20.219532012939453,
-        "score2": -20.00857925415039,
+        "score1": -20.079511642456055,
+        "score2": -20.037158966064453,
         "pred": "argue"
     },
     {
@@ -2032,8 +2007,8 @@
         "option1": "imply",
         "option2": "implies",
         "answer": "implies",
-        "score1": -19.531370162963867,
-        "score2": -19.697101593017578,
+        "score1": -18.901050567626953,
+        "score2": -19.299413681030273,
         "pred": "imply"
     },
     {
@@ -2042,8 +2017,8 @@
         "option1": "appeals",
         "option2": "appeal",
         "answer": "appeal",
-        "score1": -20.5089168548584,
-        "score2": -20.17955780029297,
+        "score1": -21.298290252685547,
+        "score2": -20.23453140258789,
         "pred": "appeal",
         "correct": true
     },
@@ -2053,8 +2028,8 @@
         "option1": "date",
         "option2": "dates",
         "answer": "dates",
-        "score1": -11.281522750854492,
-        "score2": -11.236614227294922,
+        "score1": -10.701773643493652,
+        "score2": -10.472243309020996,
         "pred": "dates",
         "correct": true
     },
@@ -2064,9 +2039,10 @@
         "option1": "obtains",
         "option2": "obtain",
         "answer": "obtains",
-        "score1": -20.895343780517578,
-        "score2": -20.79342269897461,
-        "pred": "obtain"
+        "score1": -19.58846092224121,
+        "score2": -19.704877853393555,
+        "pred": "obtains",
+        "correct": true
     },
     {
         "text": "Most other mammals have a placenta through which the developing foetus obtains nourishment, but in marsupials, the foetal stage is very short and the immature young is born and finds its way to its mother's pouch where it latches on to a nipple and completes its development.",
@@ -2074,8 +2050,8 @@
         "option1": "latch",
         "option2": "latches",
         "answer": "latches",
-        "score1": -19.778751373291016,
-        "score2": -19.96064567565918,
+        "score1": -18.93266487121582,
+        "score2": -19.116945266723633,
         "pred": "latch"
     },
     {
@@ -2084,8 +2060,8 @@
         "option1": "lie",
         "option2": "lies",
         "answer": "lies",
-        "score1": -9.301531791687012,
-        "score2": -9.832727432250977,
+        "score1": -9.200392723083496,
+        "score2": -9.263243675231934,
         "pred": "lie"
     },
     {
@@ -2094,9 +2070,10 @@
         "option1": "originates",
         "option2": "originate",
         "answer": "originate",
-        "score1": -20.270320892333984,
-        "score2": -20.377077102661133,
-        "pred": "originates"
+        "score1": -19.32204818725586,
+        "score2": -18.957223892211914,
+        "pred": "originate",
+        "correct": true
     },
     {
         "text": "The stronger of two acids will have a higher Ka than the weaker acid; the ratio of hydrogen ions to acid will be higher for the stronger acid as the stronger acid has a greater tendency to lose its proton.",
@@ -2104,8 +2081,8 @@
         "option1": "have",
         "option2": "has",
         "answer": "has",
-        "score1": -9.514019012451172,
-        "score2": -9.307735443115234,
+        "score1": -9.825621604919434,
+        "score2": -9.539375305175781,
         "pred": "has",
         "correct": true
     },
@@ -2115,8 +2092,8 @@
         "option1": "perform",
         "option2": "performs",
         "answer": "perform",
-        "score1": -20.22368812561035,
-        "score2": -20.576772689819336,
+        "score1": -18.115121841430664,
+        "score2": -18.455575942993164,
         "pred": "perform",
         "correct": true
     },
@@ -2126,8 +2103,8 @@
         "option1": "knows",
         "option2": "know",
         "answer": "know",
-        "score1": -20.51042366027832,
-        "score2": -10.347671508789062,
+        "score1": -20.365581512451172,
+        "score2": -10.349919319152832,
         "pred": "know",
         "correct": true
     },
@@ -2137,8 +2114,8 @@
         "option1": "screams",
         "option2": "scream",
         "answer": "scream",
-        "score1": -25.588823318481445,
-        "score2": -16.902559280395508,
+        "score1": -24.75662612915039,
+        "score2": -16.589216232299805,
         "pred": "scream",
         "correct": true
     },
@@ -2148,8 +2125,8 @@
         "option1": "suggests",
         "option2": "suggest",
         "answer": "suggests",
-        "score1": -20.905433654785156,
-        "score2": -10.51287841796875,
+        "score1": -20.167505264282227,
+        "score2": -10.202715873718262,
         "pred": "suggest"
     },
     {
@@ -2158,8 +2135,8 @@
         "option1": "improve",
         "option2": "improves",
         "answer": "improve",
-        "score1": -9.874963760375977,
-        "score2": -19.76692771911621,
+        "score1": -9.490920066833496,
+        "score2": -18.31663703918457,
         "pred": "improve",
         "correct": true
     },
@@ -2169,8 +2146,8 @@
         "option1": "have",
         "option2": "has",
         "answer": "have",
-        "score1": -10.823095321655273,
-        "score2": -10.35467529296875,
+        "score1": -11.100258827209473,
+        "score2": -10.39306640625,
         "pred": "has"
     },
     {
@@ -2179,8 +2156,8 @@
         "option1": "run",
         "option2": "runs",
         "answer": "run",
-        "score1": -10.761368751525879,
-        "score2": -10.92712688446045,
+        "score1": -10.518119812011719,
+        "score2": -10.793098449707031,
         "pred": "run",
         "correct": true
     },
@@ -2190,8 +2167,8 @@
         "option1": "attaches",
         "option2": "attach",
         "answer": "attach",
-        "score1": -21.150239944458008,
-        "score2": -11.045178413391113,
+        "score1": -19.93548583984375,
+        "score2": -10.197566032409668,
         "pred": "attach",
         "correct": true
     },
@@ -2201,8 +2178,8 @@
         "option1": "strengthens",
         "option2": "strengthen",
         "answer": "strengthen",
-        "score1": -31.07600498199463,
-        "score2": -30.765769958496094,
+        "score1": -32.15431022644043,
+        "score2": -31.268543243408203,
         "pred": "strengthen",
         "correct": true
     },
@@ -2212,8 +2189,8 @@
         "option1": "weakens",
         "option2": "weaken",
         "answer": "weaken",
-        "score1": -21.89808464050293,
-        "score2": -21.598548889160156,
+        "score1": -21.213830947875977,
+        "score2": -21.208660125732422,
         "pred": "weaken",
         "correct": true
     },
@@ -2223,8 +2200,8 @@
         "option1": "oppose",
         "option2": "opposes",
         "answer": "opposes",
-        "score1": -19.02737808227539,
-        "score2": -19.85102081298828,
+        "score1": -19.955331802368164,
+        "score2": -20.298439025878906,
         "pred": "oppose"
     },
     {
@@ -2233,8 +2210,8 @@
         "option1": "uses",
         "option2": "use",
         "answer": "uses",
-        "score1": -10.359782218933105,
-        "score2": -10.308146476745605,
+        "score1": -10.131216049194336,
+        "score2": -10.041152000427246,
         "pred": "use"
     },
     {
@@ -2243,8 +2220,8 @@
         "option1": "relates",
         "option2": "relate",
         "answer": "relates",
-        "score1": -20.55472183227539,
-        "score2": -20.474084854125977,
+        "score1": -20.22502899169922,
+        "score2": -20.065532684326172,
         "pred": "relate"
     },
     {
@@ -2253,8 +2230,8 @@
         "option1": "shows",
         "option2": "show",
         "answer": "shows",
-        "score1": -19.905841827392578,
-        "score2": -10.338706016540527,
+        "score1": -20.108774185180664,
+        "score2": -10.511857986450195,
         "pred": "show"
     },
     {
@@ -2263,8 +2240,8 @@
         "option1": "justifies",
         "option2": "justify",
         "answer": "justify",
-        "score1": -21.144739151000977,
-        "score2": -21.128767013549805,
+        "score1": -20.056682586669922,
+        "score2": -19.975706100463867,
         "pred": "justify",
         "correct": true
     },
@@ -2274,8 +2251,8 @@
         "option1": "spares",
         "option2": "spare",
         "answer": "spare",
-        "score1": -20.286312103271484,
-        "score2": -20.020235061645508,
+        "score1": -19.22701072692871,
+        "score2": -18.98516082763672,
         "pred": "spare",
         "correct": true
     },
@@ -2285,8 +2262,8 @@
         "option1": "see",
         "option2": "sees",
         "answer": "see",
-        "score1": -10.179984092712402,
-        "score2": -19.5358829498291,
+        "score1": -9.477330207824707,
+        "score2": -18.180612564086914,
         "pred": "see",
         "correct": true
     },
@@ -2296,8 +2273,8 @@
         "option1": "bears",
         "option2": "bear",
         "answer": "bears",
-        "score1": -18.079288482666016,
-        "score2": -9.110920906066895,
+        "score1": -18.20340347290039,
+        "score2": -9.411887168884277,
         "pred": "bear"
     },
     {
@@ -2306,8 +2283,8 @@
         "option1": "remains",
         "option2": "remain",
         "answer": "remains",
-        "score1": -19.8574161529541,
-        "score2": -19.75912857055664,
+        "score1": -19.34538459777832,
+        "score2": -19.31468963623047,
         "pred": "remain"
     },
     {
@@ -2316,8 +2293,8 @@
         "option1": "have",
         "option2": "has",
         "answer": "have",
-        "score1": -17.499706268310547,
-        "score2": -17.080970764160156,
+        "score1": -17.265600204467773,
+        "score2": -17.103473663330078,
         "pred": "has"
     },
     {
@@ -2326,8 +2303,8 @@
         "option1": "wants",
         "option2": "want",
         "answer": "want",
-        "score1": -16.683095932006836,
-        "score2": -8.79348087310791,
+        "score1": -17.591135025024414,
+        "score2": -9.270572662353516,
         "pred": "want",
         "correct": true
     },
@@ -2337,8 +2314,8 @@
         "option1": "exist",
         "option2": "exists",
         "answer": "exist",
-        "score1": -10.4910249710083,
-        "score2": -20.7121639251709,
+        "score1": -10.206117630004883,
+        "score2": -20.355365753173828,
         "pred": "exist",
         "correct": true
     },
@@ -2348,8 +2325,8 @@
         "option1": "ranks",
         "option2": "rank",
         "answer": "ranks",
-        "score1": -19.28661346435547,
-        "score2": -9.920108795166016,
+        "score1": -19.188432693481445,
+        "score2": -9.859978675842285,
         "pred": "rank"
     },
     {
@@ -2358,8 +2335,8 @@
         "option1": "drank",
         "option2": "drank",
         "answer": "drank",
-        "score1": -19.429113388061523,
-        "score2": -19.429113388061523,
+        "score1": -18.93731689453125,
+        "score2": -18.93731689453125,
         "pred": "drank",
         "correct": true
     },
@@ -2369,8 +2346,8 @@
         "option1": "think",
         "option2": "thinks",
         "answer": "think",
-        "score1": -8.887629508972168,
-        "score2": -17.887304306030273,
+        "score1": -9.439642906188965,
+        "score2": -18.477094650268555,
         "pred": "think",
         "correct": true
     },
@@ -2380,8 +2357,8 @@
         "option1": "continue",
         "option2": "continues",
         "answer": "continue",
-        "score1": -42.18107223510742,
-        "score2": -43.1394157409668,
+        "score1": -39.958927154541016,
+        "score2": -40.33443069458008,
         "pred": "continue",
         "correct": true
     },
@@ -2391,8 +2368,8 @@
         "option1": "secretes",
         "option2": "secrete",
         "answer": "secrete",
-        "score1": -20.373523712158203,
-        "score2": -20.663631439208984,
+        "score1": -20.5195369720459,
+        "score2": -21.24502944946289,
         "pred": "secretes"
     },
     {
@@ -2401,10 +2378,9 @@
         "option1": "play",
         "option2": "plays",
         "answer": "plays",
-        "score1": -9.726861953735352,
-        "score2": -9.702383041381836,
-        "pred": "plays",
-        "correct": true
+        "score1": -9.61750316619873,
+        "score2": -9.66019058227539,
+        "pred": "play"
     },
     {
         "text": "At first, he is used to acquire necessities that cannot be produced on the farm, such as dog biscuits and paraffin wax, but later he procures luxuries like alcohol for the pigs.",
@@ -2412,10 +2388,9 @@
         "option1": "procures",
         "option2": "procure",
         "answer": "procures",
-        "score1": -19.305246353149414,
-        "score2": -19.405765533447266,
-        "pred": "procures",
-        "correct": true
+        "score1": -19.60741424560547,
+        "score2": -19.45809555053711,
+        "pred": "procure"
     },
     {
         "text": "Fertilisation is likely to be external as sirenids lack the cloacal glands used by male salamandrids to produce spermatophores and the females lack spermathecae for sperm storage.",
@@ -2423,8 +2398,8 @@
         "option1": "lack",
         "option2": "lacks",
         "answer": "lack",
-        "score1": -18.34769058227539,
-        "score2": -18.477174758911133,
+        "score1": -18.20306968688965,
+        "score2": -18.275400161743164,
         "pred": "lack",
         "correct": true
     },
@@ -2434,8 +2409,8 @@
         "option1": "call",
         "option2": "calls",
         "answer": "call",
-        "score1": -10.054920196533203,
-        "score2": -20.05910301208496,
+        "score1": -10.150458335876465,
+        "score2": -20.20935821533203,
         "pred": "call",
         "correct": true
     },
@@ -2445,8 +2420,8 @@
         "option1": "dies",
         "option2": "die",
         "answer": "dies",
-        "score1": -10.809226036071777,
-        "score2": -10.719398498535156,
+        "score1": -10.057958602905273,
+        "score2": -9.840041160583496,
         "pred": "die"
     },
     {
@@ -2455,8 +2430,8 @@
         "option1": "goes",
         "option2": "go",
         "answer": "go",
-        "score1": -18.832420349121094,
-        "score2": -9.59730052947998,
+        "score1": -18.920228958129883,
+        "score2": -9.619664192199707,
         "pred": "go",
         "correct": true
     },
@@ -2466,8 +2441,8 @@
         "option1": "causes",
         "option2": "cause",
         "answer": "causes",
-        "score1": -20.115379333496094,
-        "score2": -10.32958984375,
+        "score1": -21.077062606811523,
+        "score2": -11.059944152832031,
         "pred": "cause"
     },
     {
@@ -2476,8 +2451,8 @@
         "option1": "cause",
         "option2": "causes",
         "answer": "causes",
-        "score1": -10.349510192871094,
-        "score2": -20.241865158081055,
+        "score1": -10.842123031616211,
+        "score2": -20.866357803344727,
         "pred": "cause"
     },
     {
@@ -2486,9 +2461,10 @@
         "option1": "experiences",
         "option2": "experience",
         "answer": "experience",
-        "score1": -20.812227249145508,
-        "score2": -20.823665618896484,
-        "pred": "experiences"
+        "score1": -20.754423141479492,
+        "score2": -20.605693817138672,
+        "pred": "experience",
+        "correct": true
     },
     {
         "text": "A simple illustration of such cause and effect is the case of experiencing the effects of what one causes: if one causes suffering, then as a natural consequence one would experience suffering; if one causes happiness, then as a natural consequence one would experience happiness.",
@@ -2496,8 +2472,8 @@
         "option1": "cause",
         "option2": "causes",
         "answer": "causes",
-        "score1": -10.500775337219238,
-        "score2": -20.779319763183594,
+        "score1": -10.497637748718262,
+        "score2": -20.630813598632812,
         "pred": "cause"
     },
     {
@@ -2506,8 +2482,8 @@
         "option1": "experience",
         "option2": "experiences",
         "answer": "experience",
-        "score1": -21.166362762451172,
-        "score2": -21.16881561279297,
+        "score1": -20.72692108154297,
+        "score2": -20.837379455566406,
         "pred": "experience",
         "correct": true
     },
@@ -2517,8 +2493,8 @@
         "option1": "selects",
         "option2": "select",
         "answer": "select",
-        "score1": -19.274951934814453,
-        "score2": -9.6285982131958,
+        "score1": -19.665035247802734,
+        "score2": -9.900827407836914,
         "pred": "select",
         "correct": true
     },
@@ -2528,8 +2504,8 @@
         "option1": "affects",
         "option2": "affect",
         "answer": "affects",
-        "score1": -29.057501792907715,
-        "score2": -19.371381759643555,
+        "score1": -28.86719799041748,
+        "score2": -19.37343406677246,
         "pred": "affect"
     },
     {
@@ -2538,10 +2514,9 @@
         "option1": "argue",
         "option2": "argues",
         "answer": "argue",
-        "score1": -18.43168067932129,
-        "score2": -18.567123413085938,
-        "pred": "argue",
-        "correct": true
+        "score1": -18.785703659057617,
+        "score2": -18.784034729003906,
+        "pred": "argues"
     },
     {
         "text": "While the analysis of variance reached fruition in the 20th century, antecedents extend centuries into the past according to Stigler.",
@@ -2549,8 +2524,8 @@
         "option1": "extends",
         "option2": "extend",
         "answer": "extend",
-        "score1": -29.134368896484375,
-        "score2": -28.03483772277832,
+        "score1": -29.37582778930664,
+        "score2": -28.62274932861328,
         "pred": "extend",
         "correct": true
     },
@@ -2560,8 +2535,8 @@
         "option1": "travels",
         "option2": "travel",
         "answer": "travels",
-        "score1": -19.388198852539062,
-        "score2": -9.688520431518555,
+        "score1": -19.242990493774414,
+        "score2": -9.718637466430664,
         "pred": "travel"
     },
     {
@@ -2570,8 +2545,8 @@
         "option1": "vary",
         "option2": "varies",
         "answer": "vary",
-        "score1": -10.003777503967285,
-        "score2": -10.006524085998535,
+        "score1": -9.641468048095703,
+        "score2": -9.667238235473633,
         "pred": "vary",
         "correct": true
     },
@@ -2581,8 +2556,8 @@
         "option1": "exists",
         "option2": "exist",
         "answer": "exist",
-        "score1": -24.49219512939453,
-        "score2": -23.965660095214844,
+        "score1": -23.171648025512695,
+        "score2": -22.59486961364746,
         "pred": "exist",
         "correct": true
     },
@@ -2592,8 +2567,8 @@
         "option1": "reaches",
         "option2": "reach",
         "answer": "reaches",
-        "score1": -20.263322830200195,
-        "score2": -10.39932632446289,
+        "score1": -19.58873748779297,
+        "score2": -10.039186477661133,
         "pred": "reach"
     },
     {
@@ -2602,8 +2577,8 @@
         "option1": "induce",
         "option2": "induces",
         "answer": "induces",
-        "score1": -20.88675880432129,
-        "score2": -20.998701095581055,
+        "score1": -20.448150634765625,
+        "score2": -20.531240463256836,
         "pred": "induce"
     },
     {
@@ -2612,8 +2587,8 @@
         "option1": "remains",
         "option2": "remain",
         "answer": "remain",
-        "score1": -21.638158798217773,
-        "score2": -21.247892379760742,
+        "score1": -20.723569869995117,
+        "score2": -20.521142959594727,
         "pred": "remain",
         "correct": true
     },
@@ -2623,8 +2598,8 @@
         "option1": "indicates",
         "option2": "indicate",
         "answer": "indicate",
-        "score1": -21.168773651123047,
-        "score2": -21.056320190429688,
+        "score1": -20.8544979095459,
+        "score2": -20.791099548339844,
         "pred": "indicate",
         "correct": true
     },
@@ -2634,8 +2609,8 @@
         "option1": "has",
         "option2": "have",
         "answer": "have",
-        "score1": -9.968293190002441,
-        "score2": -10.209602355957031,
+        "score1": -10.107216835021973,
+        "score2": -10.41286849975586,
         "pred": "has"
     },
     {
@@ -2644,8 +2619,8 @@
         "option1": "has",
         "option2": "have",
         "answer": "have",
-        "score1": -10.450736999511719,
-        "score2": -10.914985656738281,
+        "score1": -9.505742073059082,
+        "score2": -9.988017082214355,
         "pred": "has"
     },
     {
@@ -2654,8 +2629,8 @@
         "option1": "reach",
         "option2": "reaches",
         "answer": "reach",
-        "score1": -10.187662124633789,
-        "score2": -20.21441078186035,
+        "score1": -9.965131759643555,
+        "score2": -19.72831153869629,
         "pred": "reach",
         "correct": true
     },
@@ -2665,8 +2640,8 @@
         "option1": "follow",
         "option2": "follows",
         "answer": "follows",
-        "score1": -10.100364685058594,
-        "score2": -20.149085998535156,
+        "score1": -9.940345764160156,
+        "score2": -19.730716705322266,
         "pred": "follow"
     },
     {
@@ -2675,8 +2650,8 @@
         "option1": "lie",
         "option2": "lies",
         "answer": "lies",
-        "score1": -9.452259063720703,
-        "score2": -9.64841365814209,
+        "score1": -9.224591255187988,
+        "score2": -9.226968765258789,
         "pred": "lie"
     },
     {
@@ -2685,8 +2660,8 @@
         "option1": "restrains",
         "option2": "restrain",
         "answer": "restrain",
-        "score1": -29.46815299987793,
-        "score2": -19.63807487487793,
+        "score1": -28.44181251525879,
+        "score2": -19.020111083984375,
         "pred": "restrain",
         "correct": true
     },
@@ -2696,8 +2671,8 @@
         "option1": "has",
         "option2": "have",
         "answer": "have",
-        "score1": -10.147499084472656,
-        "score2": -10.561263084411621,
+        "score1": -10.037627220153809,
+        "score2": -10.437957763671875,
         "pred": "has"
     },
     {
@@ -2706,8 +2681,8 @@
         "option1": "have",
         "option2": "has",
         "answer": "have",
-        "score1": -10.067181587219238,
-        "score2": -9.760197639465332,
+        "score1": -10.226061820983887,
+        "score2": -9.85311222076416,
         "pred": "has"
     },
     {
@@ -2716,8 +2691,8 @@
         "option1": "consider",
         "option2": "considers",
         "answer": "consider",
-        "score1": -10.293866157531738,
-        "score2": -19.938730239868164,
+        "score1": -10.06229305267334,
+        "score2": -19.33627700805664,
         "pred": "consider",
         "correct": true
     },
@@ -2727,8 +2702,8 @@
         "option1": "displays",
         "option2": "display",
         "answer": "display",
-        "score1": -20.47195816040039,
-        "score2": -10.415581703186035,
+        "score1": -19.90723991394043,
+        "score2": -10.343628883361816,
         "pred": "display",
         "correct": true
     },
@@ -2738,8 +2713,8 @@
         "option1": "use",
         "option2": "uses",
         "answer": "use",
-        "score1": -9.500893592834473,
-        "score2": -9.503856658935547,
+        "score1": -9.128975868225098,
+        "score2": -9.202188491821289,
         "pred": "use",
         "correct": true
     },
@@ -2749,8 +2724,8 @@
         "option1": "allude",
         "option2": "alludes",
         "answer": "alludes",
-        "score1": -21.058656692504883,
-        "score2": -21.23088836669922,
+        "score1": -20.44097328186035,
+        "score2": -20.4794921875,
         "pred": "allude"
     },
     {
@@ -2759,8 +2734,8 @@
         "option1": "tries",
         "option2": "try",
         "answer": "try",
-        "score1": -11.413019180297852,
-        "score2": -11.262594223022461,
+        "score1": -11.45117473602295,
+        "score2": -11.220389366149902,
         "pred": "try",
         "correct": true
     },
@@ -2770,8 +2745,8 @@
         "option1": "states",
         "option2": "state",
         "answer": "states",
-        "score1": -10.58452033996582,
-        "score2": -10.4829683303833,
+        "score1": -10.6289644241333,
+        "score2": -10.530860900878906,
         "pred": "state"
     },
     {
@@ -2780,8 +2755,8 @@
         "option1": "has",
         "option2": "have",
         "answer": "has",
-        "score1": -9.25992488861084,
-        "score2": -9.467265129089355,
+        "score1": -9.499677658081055,
+        "score2": -9.776272773742676,
         "pred": "has",
         "correct": true
     },
@@ -2791,8 +2766,8 @@
         "option1": "give",
         "option2": "gives",
         "answer": "give",
-        "score1": -18.571115493774414,
-        "score2": -19.090126037597656,
+        "score1": -18.367597579956055,
+        "score2": -18.441341400146484,
         "pred": "give",
         "correct": true
     },
@@ -2802,8 +2777,8 @@
         "option1": "process",
         "option2": "processes",
         "answer": "process",
-        "score1": -22.998737335205078,
-        "score2": -34.051663398742676,
+        "score1": -23.463499069213867,
+        "score2": -34.72945690155029,
         "pred": "process",
         "correct": true
     },
@@ -2813,8 +2788,8 @@
         "option1": "retreat",
         "option2": "retreats",
         "answer": "retreats",
-        "score1": -20.430721282958984,
-        "score2": -30.55898666381836,
+        "score1": -20.073041915893555,
+        "score2": -29.90848445892334,
         "pred": "retreat"
     },
     {
@@ -2823,8 +2798,8 @@
         "option1": "seek",
         "option2": "seeks",
         "answer": "seek",
-        "score1": -10.228153228759766,
-        "score2": -19.97310447692871,
+        "score1": -10.858551025390625,
+        "score2": -20.593496322631836,
         "pred": "seek",
         "correct": true
     },
@@ -2834,9 +2809,10 @@
         "option1": "believe",
         "option2": "believes",
         "answer": "believe",
-        "score1": -20.552772521972656,
-        "score2": -20.402332305908203,
-        "pred": "believes"
+        "score1": -20.478422164916992,
+        "score2": -20.53312873840332,
+        "pred": "believe",
+        "correct": true
     },
     {
         "text": "Football is governed in Andorra by the Andorran Football Federation   founded in 1994, it organizes the national competitions of association football (Primera Divisi, Copa Constituci and Supercopa) and futsal.",
@@ -2844,10 +2820,9 @@
         "option1": "organize",
         "option2": "organizes",
         "answer": "organizes",
-        "score1": -19.451562881469727,
-        "score2": -19.394027709960938,
-        "pred": "organizes",
-        "correct": true
+        "score1": -19.0576114654541,
+        "score2": -19.069299697875977,
+        "pred": "organize"
     },
     {
         "text": "Einstein felt that the waves of arriving Jews of the Aliyah could live alongside existing Arabs in Palestine.",
@@ -2855,8 +2830,8 @@
         "option1": "live",
         "option2": "lives",
         "answer": "live",
-        "score1": -9.965237617492676,
-        "score2": -18.958982467651367,
+        "score1": -10.087525367736816,
+        "score2": -19.185461044311523,
         "pred": "live",
         "correct": true
     },
@@ -2866,8 +2841,8 @@
         "option1": "feeds",
         "option2": "feed",
         "answer": "feeds",
-        "score1": -19.006881713867188,
-        "score2": -18.72726058959961,
+        "score1": -18.22479820251465,
+        "score2": -17.909751892089844,
         "pred": "feed"
     },
     {
@@ -2876,8 +2851,8 @@
         "option1": "develops",
         "option2": "develop",
         "answer": "develops",
-        "score1": -19.46795082092285,
-        "score2": -9.75206470489502,
+        "score1": -19.48553466796875,
+        "score2": -9.822620391845703,
         "pred": "develop"
     },
     {
@@ -2886,8 +2861,8 @@
         "option1": "spread",
         "option2": "spreads",
         "answer": "spread",
-        "score1": -19.56875228881836,
-        "score2": -29.334471702575684,
+        "score1": -19.667205810546875,
+        "score2": -29.21421718597412,
         "pred": "spread",
         "correct": true
     },
@@ -2897,8 +2872,8 @@
         "option1": "explains",
         "option2": "explain",
         "answer": "explain",
-        "score1": -21.51066780090332,
-        "score2": -20.70306968688965,
+        "score1": -20.950040817260742,
+        "score2": -20.809864044189453,
         "pred": "explain",
         "correct": true
     },
@@ -2908,8 +2883,8 @@
         "option1": "has",
         "option2": "have",
         "answer": "has",
-        "score1": -8.170306205749512,
-        "score2": -8.44615650177002,
+        "score1": -8.366385459899902,
+        "score2": -8.769424438476562,
         "pred": "has",
         "correct": true
     },
@@ -2919,8 +2894,8 @@
         "option1": "transform",
         "option2": "transforms",
         "answer": "transform",
-        "score1": -10.08459758758545,
-        "score2": -19.820775985717773,
+        "score1": -10.384885787963867,
+        "score2": -19.754701614379883,
         "pred": "transform",
         "correct": true
     },
@@ -2930,8 +2905,8 @@
         "option1": "tend",
         "option2": "tends",
         "answer": "tend",
-        "score1": -20.851716995239258,
-        "score2": -21.732479095458984,
+        "score1": -20.077444076538086,
+        "score2": -20.73874282836914,
         "pred": "tend",
         "correct": true
     },
@@ -2941,8 +2916,8 @@
         "option1": "hold",
         "option2": "holds",
         "answer": "hold",
-        "score1": -10.332354545593262,
-        "score2": -20.616085052490234,
+        "score1": -10.685625076293945,
+        "score2": -21.019960403442383,
         "pred": "hold",
         "correct": true
     },
@@ -2952,8 +2927,8 @@
         "option1": "extend",
         "option2": "extends",
         "answer": "extends",
-        "score1": -27.729366302490234,
-        "score2": -28.357666969299316,
+        "score1": -26.885619163513184,
+        "score2": -27.321404457092285,
         "pred": "extend"
     },
     {
@@ -2962,8 +2937,8 @@
         "option1": "leaves",
         "option2": "leave",
         "answer": "leave",
-        "score1": -21.307411193847656,
-        "score2": -11.225001335144043,
+        "score1": -19.979814529418945,
+        "score2": -10.312812805175781,
         "pred": "leave",
         "correct": true
     },
@@ -2973,8 +2948,8 @@
         "option1": "emerges",
         "option2": "emerge",
         "answer": "emerge",
-        "score1": -33.19603729248047,
-        "score2": -32.962989807128906,
+        "score1": -30.972418785095215,
+        "score2": -30.876734733581543,
         "pred": "emerge",
         "correct": true
     },
@@ -2984,8 +2959,8 @@
         "option1": "transports",
         "option2": "transport",
         "answer": "transport",
-        "score1": -19.34192657470703,
-        "score2": -19.29363250732422,
+        "score1": -19.239633560180664,
+        "score2": -19.11519432067871,
         "pred": "transport",
         "correct": true
     },
@@ -2995,8 +2970,8 @@
         "option1": "say",
         "option2": "says",
         "answer": "say",
-        "score1": -11.067072868347168,
-        "score2": -21.63987159729004,
+        "score1": -10.702632904052734,
+        "score2": -20.211313247680664,
         "pred": "say",
         "correct": true
     },
@@ -3006,8 +2981,8 @@
         "option1": "accept",
         "option2": "accepts",
         "answer": "accept",
-        "score1": -9.223186492919922,
-        "score2": -18.462018966674805,
+        "score1": -9.538262367248535,
+        "score2": -18.99630355834961,
         "pred": "accept",
         "correct": true
     },
@@ -3017,10 +2992,9 @@
         "option1": "describes",
         "option2": "describe",
         "answer": "describes",
-        "score1": -21.35619354248047,
-        "score2": -21.657751083374023,
-        "pred": "describes",
-        "correct": true
+        "score1": -20.828550338745117,
+        "score2": -20.687585830688477,
+        "pred": "describe"
     },
     {
         "text": "Much of its shock value derives from the fact that the first portion of the essay describes the plight of starving beggars in Ireland, so that the reader is unprepared for the surprise of Swift's solution when he states: \"A young healthy child well nursed, is, at a year old, a most delicious nourishing and wholesome food, whether stewed, roasted, baked, or boiled; and I make no doubt that it will equally serve in a fricassee, or a ragout.\"",
@@ -3028,8 +3002,8 @@
         "option1": "states",
         "option2": "state",
         "answer": "states",
-        "score1": -10.169453620910645,
-        "score2": -10.085477828979492,
+        "score1": -10.316999435424805,
+        "score2": -10.23245620727539,
         "pred": "state"
     },
     {
@@ -3038,8 +3012,8 @@
         "option1": "makes",
         "option2": "make",
         "answer": "make",
-        "score1": -10.258435249328613,
-        "score2": -10.202153205871582,
+        "score1": -10.32590103149414,
+        "score2": -10.323812484741211,
         "pred": "make",
         "correct": true
     },
@@ -3049,10 +3023,9 @@
         "option1": "serves",
         "option2": "serve",
         "answer": "serve",
-        "score1": -20.013408660888672,
-        "score2": -20.0035457611084,
-        "pred": "serve",
-        "correct": true
+        "score1": -20.279634475708008,
+        "score2": -20.296188354492188,
+        "pred": "serves"
     },
     {
         "text": "Although historians generally agree that the Articles were too weak to hold the fast-growing nation together, they do give credit to the settlement of the western issue, as the states voluntarily turned over their lands to national control.",
@@ -3060,8 +3033,8 @@
         "option1": "gives",
         "option2": "give",
         "answer": "give",
-        "score1": -9.433120727539062,
-        "score2": -9.211068153381348,
+        "score1": -9.847522735595703,
+        "score2": -9.81235408782959,
         "pred": "give",
         "correct": true
     },
@@ -3071,8 +3044,8 @@
         "option1": "needs",
         "option2": "need",
         "answer": "need",
-        "score1": -10.03590202331543,
-        "score2": -10.002964973449707,
+        "score1": -10.432280540466309,
+        "score2": -10.389702796936035,
         "pred": "need",
         "correct": true
     },
@@ -3082,8 +3055,8 @@
         "option1": "drives",
         "option2": "drive",
         "answer": "drive",
-        "score1": -19.649494171142578,
-        "score2": -10.164834976196289,
+        "score1": -19.046432495117188,
+        "score2": -9.76965618133545,
         "pred": "drive",
         "correct": true
     },
@@ -3093,8 +3066,8 @@
         "option1": "become",
         "option2": "becomes",
         "answer": "becomes",
-        "score1": -19.812820434570312,
-        "score2": -20.398326873779297,
+        "score1": -19.167753219604492,
+        "score2": -19.43962860107422,
         "pred": "become"
     },
     {
@@ -3103,8 +3076,8 @@
         "option1": "acquire",
         "option2": "acquires",
         "answer": "acquire",
-        "score1": -18.55038833618164,
-        "score2": -19.463672637939453,
+        "score1": -18.415006637573242,
+        "score2": -18.991178512573242,
         "pred": "acquire",
         "correct": true
     },
@@ -3114,8 +3087,8 @@
         "option1": "consume",
         "option2": "consumes",
         "answer": "consume",
-        "score1": -20.95330810546875,
-        "score2": -21.159486770629883,
+        "score1": -21.175844192504883,
+        "score2": -21.55546760559082,
         "pred": "consume",
         "correct": true
     },
@@ -3125,8 +3098,8 @@
         "option1": "promote",
         "option2": "promotes",
         "answer": "promotes",
-        "score1": -21.40179443359375,
-        "score2": -21.596118927001953,
+        "score1": -21.62123680114746,
+        "score2": -21.775402069091797,
         "pred": "promote"
     },
     {
@@ -3135,8 +3108,8 @@
         "option1": "cause",
         "option2": "causes",
         "answer": "causes",
-        "score1": -10.767524719238281,
-        "score2": -21.292016983032227,
+        "score1": -10.789400100708008,
+        "score2": -21.22521209716797,
         "pred": "cause"
     },
     {
@@ -3145,9 +3118,10 @@
         "option1": "proselytize",
         "option2": "proselytizes",
         "answer": "proselytize",
-        "score1": -47.805538177490234,
-        "score2": -47.73566246032715,
-        "pred": "proselytizes"
+        "score1": -48.68557929992676,
+        "score2": -48.76291751861572,
+        "pred": "proselytize",
+        "correct": true
     },
     {
         "text": "While that national dichotomy has stymied any effort at changing the tradition of the national anthem, \"America the Beautiful\" continues to be held in high esteem by a large number of Americans, and was even being considered before 1931 as a candidate to become the national anthem of the United States.",
@@ -3155,8 +3129,8 @@
         "option1": "continue",
         "option2": "continues",
         "answer": "continues",
-        "score1": -9.927457809448242,
-        "score2": -19.808446884155273,
+        "score1": -10.141946792602539,
+        "score2": -19.793230056762695,
         "pred": "continue"
     },
     {
@@ -3165,8 +3139,8 @@
         "option1": "tend",
         "option2": "tends",
         "answer": "tend",
-        "score1": -18.21678924560547,
-        "score2": -18.55561637878418,
+        "score1": -19.61513900756836,
+        "score2": -19.84707260131836,
         "pred": "tend",
         "correct": true
     },
@@ -3176,8 +3150,8 @@
         "option1": "accesses",
         "option2": "access",
         "answer": "access",
-        "score1": -20.454938888549805,
-        "score2": -10.657628059387207,
+        "score1": -20.801179885864258,
+        "score2": -10.928080558776855,
         "pred": "access",
         "correct": true
     },
@@ -3187,8 +3161,8 @@
         "option1": "apply",
         "option2": "applies",
         "answer": "applies",
-        "score1": -10.086921691894531,
-        "score2": -19.640607833862305,
+        "score1": -9.880501747131348,
+        "score2": -18.819927215576172,
         "pred": "apply"
     },
     {
@@ -3197,8 +3171,8 @@
         "option1": "applies",
         "option2": "apply",
         "answer": "applies",
-        "score1": -19.585416793823242,
-        "score2": -10.005974769592285,
+        "score1": -18.94148826599121,
+        "score2": -9.824764251708984,
         "pred": "apply"
     },
     {
@@ -3207,8 +3181,8 @@
         "option1": "change",
         "option2": "changes",
         "answer": "change",
-        "score1": -10.118430137634277,
-        "score2": -10.254809379577637,
+        "score1": -10.15109920501709,
+        "score2": -10.255341529846191,
         "pred": "change",
         "correct": true
     },
@@ -3218,8 +3192,8 @@
         "option1": "read",
         "option2": "reads",
         "answer": "read",
-        "score1": -9.576056480407715,
-        "score2": -9.605278015136719,
+        "score1": -9.45141315460205,
+        "score2": -9.633668899536133,
         "pred": "read",
         "correct": true
     },
@@ -3229,8 +3203,8 @@
         "option1": "=",
         "option2": "=",
         "answer": "=",
-        "score1": -9.9775390625,
-        "score2": -9.9775390625,
+        "score1": -9.470701217651367,
+        "score2": -9.470701217651367,
         "pred": "=",
         "correct": true
     },
@@ -3240,8 +3214,8 @@
         "option1": "watch",
         "option2": "watches",
         "answer": "watch",
-        "score1": -10.552152633666992,
-        "score2": -21.162460327148438,
+        "score1": -9.332831382751465,
+        "score2": -19.45939826965332,
         "pred": "watch",
         "correct": true
     },
@@ -3251,8 +3225,8 @@
         "option1": "extend",
         "option2": "extends",
         "answer": "extend",
-        "score1": -30.923452377319336,
-        "score2": -31.973942756652832,
+        "score1": -29.567376136779785,
+        "score2": -30.334327697753906,
         "pred": "extend",
         "correct": true
     },
@@ -3262,8 +3236,8 @@
         "option1": "helps",
         "option2": "help",
         "answer": "help",
-        "score1": -11.21303653717041,
-        "score2": -11.184353828430176,
+        "score1": -10.472251892089844,
+        "score2": -10.379668235778809,
         "pred": "help",
         "correct": true
     },
@@ -3273,8 +3247,8 @@
         "option1": "evokes",
         "option2": "evoke",
         "answer": "evoke",
-        "score1": -18.856260299682617,
-        "score2": -18.423599243164062,
+        "score1": -18.855192184448242,
+        "score2": -18.784576416015625,
         "pred": "evoke",
         "correct": true
     },
@@ -3284,8 +3258,8 @@
         "option1": "range",
         "option2": "ranges",
         "answer": "ranges",
-        "score1": -10.992878913879395,
-        "score2": -21.795276641845703,
+        "score1": -10.42629623413086,
+        "score2": -20.70787811279297,
         "pred": "range"
     },
     {
@@ -3294,10 +3268,9 @@
         "option1": "observes",
         "option2": "observe",
         "answer": "observe",
-        "score1": -32.49748134613037,
-        "score2": -32.49033451080322,
-        "pred": "observe",
-        "correct": true
+        "score1": -31.41240692138672,
+        "score2": -31.516468048095703,
+        "pred": "observes"
     },
     {
         "text": "Furthermore, Sonangol, the state-run oil company, controls 51% of Cabinda's oil.",
@@ -3305,8 +3278,8 @@
         "option1": "control",
         "option2": "controls",
         "answer": "controls",
-        "score1": -9.875107765197754,
-        "score2": -19.690044403076172,
+        "score1": -9.539286613464355,
+        "score2": -18.85451889038086,
         "pred": "control"
     },
     {
@@ -3315,8 +3288,8 @@
         "option1": "suffices",
         "option2": "suffice",
         "answer": "suffice",
-        "score1": -21.896482467651367,
-        "score2": -21.35641860961914,
+        "score1": -20.971792221069336,
+        "score2": -20.652645111083984,
         "pred": "suffice",
         "correct": true
     },
@@ -3326,8 +3299,8 @@
         "option1": "begins",
         "option2": "begin",
         "answer": "begins",
-        "score1": -18.894695281982422,
-        "score2": -9.67863655090332,
+        "score1": -19.411182403564453,
+        "score2": -9.83552360534668,
         "pred": "begin"
     },
     {
@@ -3336,8 +3309,8 @@
         "option1": "reaches",
         "option2": "reach",
         "answer": "reaches",
-        "score1": -21.10991668701172,
-        "score2": -10.684476852416992,
+        "score1": -19.838529586791992,
+        "score2": -10.131969451904297,
         "pred": "reach"
     },
     {
@@ -3346,8 +3319,8 @@
         "option1": "hurls",
         "option2": "hurl",
         "answer": "hurl",
-        "score1": -26.841856956481934,
-        "score2": -17.830991744995117,
+        "score1": -26.219590187072754,
+        "score2": -17.4759464263916,
         "pred": "hurl",
         "correct": true
     },
@@ -3357,10 +3330,9 @@
         "option1": "include",
         "option2": "includes",
         "answer": "include",
-        "score1": -11.229724884033203,
-        "score2": -11.336108207702637,
-        "pred": "include",
-        "correct": true
+        "score1": -10.678654670715332,
+        "score2": -10.6050386428833,
+        "pred": "includes"
     },
     {
         "text": "Other connections that writers have suggested illustrate Orwell's telescoping of Russian history from 1917 to 1943 include the wave of rebelliousness that ran through the countryside after the Rebellion, which stands for the abortive revolutions in Hungary and in Germany (Ch IV); the conflict between Napoleon and Snowball (Ch V), parallelling \"the two rival and quasi-Messianic beliefs that seemed pitted against one another: Trotskyism, with its faith in the revolutionary vocation of the proletariat of the West; and Stalinism with its glorification of Russia's socialist destiny\"; Napoleon's dealings with Whymper and the Willingdon markets (Ch VI), paralleling the Treaty of Rapallo; and Frederick's forged bank notes, parallelling the Hitler-Stalin pact of August 1939, after which Frederick attacks Animal Farm without warning and destroys the windmill.",
@@ -3368,8 +3340,8 @@
         "option1": "stands",
         "option2": "stand",
         "answer": "stands",
-        "score1": -20.521482467651367,
-        "score2": -10.282282829284668,
+        "score1": -19.210926055908203,
+        "score2": -9.639262199401855,
         "pred": "stand"
     },
     {
@@ -3378,8 +3350,8 @@
         "option1": "attacks",
         "option2": "attack",
         "answer": "attacks",
-        "score1": -10.568346977233887,
-        "score2": -10.566625595092773,
+        "score1": -10.26732063293457,
+        "score2": -10.2489652633667,
         "pred": "attack"
     },
     {
@@ -3388,8 +3360,8 @@
         "option1": "increases",
         "option2": "increase",
         "answer": "increases",
-        "score1": -18.111595153808594,
-        "score2": -17.379535675048828,
+        "score1": -17.61783218383789,
+        "score2": -17.38166046142578,
         "pred": "increase"
     },
     {
@@ -3398,8 +3370,8 @@
         "option1": "rises",
         "option2": "rise",
         "answer": "rise",
-        "score1": -9.612687110900879,
-        "score2": -9.436842918395996,
+        "score1": -9.694639205932617,
+        "score2": -9.61555290222168,
         "pred": "rise",
         "correct": true
     },
@@ -3409,8 +3381,8 @@
         "option1": "say",
         "option2": "says",
         "answer": "says",
-        "score1": -9.12825870513916,
-        "score2": -9.487326622009277,
+        "score1": -9.050840377807617,
+        "score2": -9.159059524536133,
         "pred": "say"
     },
     {
@@ -3419,8 +3391,8 @@
         "option1": "loves",
         "option2": "love",
         "answer": "loves",
-        "score1": -9.541193008422852,
-        "score2": -9.341538429260254,
+        "score1": -9.395217895507812,
+        "score2": -9.240799903869629,
         "pred": "love"
     },
     {
@@ -3429,8 +3401,8 @@
         "option1": "refuses",
         "option2": "refuse",
         "answer": "refuses",
-        "score1": -19.55510139465332,
-        "score2": -19.505455017089844,
+        "score1": -19.242456436157227,
+        "score2": -19.16083335876465,
         "pred": "refuse"
     },
     {
@@ -3439,8 +3411,8 @@
         "option1": "prefer",
         "option2": "prefers",
         "answer": "prefer",
-        "score1": -19.589868545532227,
-        "score2": -29.00431537628174,
+        "score1": -19.851604461669922,
+        "score2": -29.610580444335938,
         "pred": "prefer",
         "correct": true
     },
@@ -3450,8 +3422,8 @@
         "option1": "scream",
         "option2": "screams",
         "answer": "scream",
-        "score1": -18.692855834960938,
-        "score2": -28.114062309265137,
+        "score1": -17.8818416595459,
+        "score2": -26.68594264984131,
         "pred": "scream",
         "correct": true
     },
@@ -3461,8 +3433,8 @@
         "option1": "retains",
         "option2": "retain",
         "answer": "retain",
-        "score1": -17.784425735473633,
-        "score2": -17.32512664794922,
+        "score1": -18.70426368713379,
+        "score2": -18.55641746520996,
         "pred": "retain",
         "correct": true
     },
@@ -3472,8 +3444,8 @@
         "option1": "become",
         "option2": "becomes",
         "answer": "become",
-        "score1": -17.225765228271484,
-        "score2": -17.64563751220703,
+        "score1": -17.933700561523438,
+        "score2": -18.071739196777344,
         "pred": "become",
         "correct": true
     },
@@ -3483,8 +3455,8 @@
         "option1": "set",
         "option2": "sets",
         "answer": "set",
-        "score1": -10.456120491027832,
-        "score2": -10.672021865844727,
+        "score1": -9.783524513244629,
+        "score2": -10.023563385009766,
         "pred": "set",
         "correct": true
     },
@@ -3494,8 +3466,8 @@
         "option1": "trigger",
         "option2": "triggers",
         "answer": "trigger",
-        "score1": -41.932193756103516,
-        "score2": -50.81392288208008,
+        "score1": -42.669395446777344,
+        "score2": -52.075767517089844,
         "pred": "trigger",
         "correct": true
     },
@@ -3505,8 +3477,8 @@
         "option1": "decreases",
         "option2": "decrease",
         "answer": "decrease",
-        "score1": -33.164995193481445,
-        "score2": -32.481574058532715,
+        "score1": -32.98235034942627,
+        "score2": -32.741729736328125,
         "pred": "decrease",
         "correct": true
     },
@@ -3516,8 +3488,8 @@
         "option1": "wish",
         "option2": "wishes",
         "answer": "wishes",
-        "score1": -17.71319007873535,
-        "score2": -17.934572219848633,
+        "score1": -18.39117431640625,
+        "score2": -18.415430068969727,
         "pred": "wish"
     },
     {
@@ -3526,8 +3498,8 @@
         "option1": "joins",
         "option2": "join",
         "answer": "joins",
-        "score1": -19.71860122680664,
-        "score2": -10.480721473693848,
+        "score1": -19.8221378326416,
+        "score2": -10.203537940979004,
         "pred": "join"
     },
     {
@@ -3536,8 +3508,8 @@
         "option1": "offers",
         "option2": "offer",
         "answer": "offers",
-        "score1": -21.57297134399414,
-        "score2": -11.334893226623535,
+        "score1": -20.352394104003906,
+        "score2": -10.85107707977295,
         "pred": "offer"
     },
     {
@@ -3546,8 +3518,8 @@
         "option1": "give",
         "option2": "gives",
         "answer": "gives",
-        "score1": -10.183592796325684,
-        "score2": -19.73756217956543,
+        "score1": -9.396485328674316,
+        "score2": -18.010005950927734,
         "pred": "give"
     },
     {
@@ -3556,8 +3528,8 @@
         "option1": "lies",
         "option2": "lie",
         "answer": "lie",
-        "score1": -9.908366203308105,
-        "score2": -9.629135131835938,
+        "score1": -10.045255661010742,
+        "score2": -9.989957809448242,
         "pred": "lie",
         "correct": true
     },
@@ -3567,8 +3539,8 @@
         "option1": "place",
         "option2": "places",
         "answer": "place",
-        "score1": -9.509613037109375,
-        "score2": -9.432729721069336,
+        "score1": -9.506204605102539,
+        "score2": -9.495028495788574,
         "pred": "places"
     },
     {
@@ -3577,8 +3549,8 @@
         "option1": "incite",
         "option2": "incites",
         "answer": "incite",
-        "score1": -20.615345001220703,
-        "score2": -20.840234756469727,
+        "score1": -19.53862762451172,
+        "score2": -19.80390739440918,
         "pred": "incite",
         "correct": true
     },
@@ -3588,8 +3560,8 @@
         "option1": "reads",
         "option2": "read",
         "answer": "read",
-        "score1": -11.2803955078125,
-        "score2": -11.258111953735352,
+        "score1": -11.447772979736328,
+        "score2": -11.272407531738281,
         "pred": "read",
         "correct": true
     },
@@ -3599,8 +3571,8 @@
         "option1": "enjoy",
         "option2": "enjoys",
         "answer": "enjoy",
-        "score1": -22.3442325592041,
-        "score2": -33.26368045806885,
+        "score1": -20.311208724975586,
+        "score2": -30.101051330566406,
         "pred": "enjoy",
         "correct": true
     },
@@ -3610,8 +3582,8 @@
         "option1": "result",
         "option2": "results",
         "answer": "results",
-        "score1": -10.786624908447266,
-        "score2": -10.88567066192627,
+        "score1": -10.57469367980957,
+        "score2": -10.583966255187988,
         "pred": "result"
     },
     {
@@ -3620,8 +3592,8 @@
         "option1": "treats",
         "option2": "treat",
         "answer": "treat",
-        "score1": -29.494548797607422,
-        "score2": -19.672710418701172,
+        "score1": -28.49600315093994,
+        "score2": -19.037952423095703,
         "pred": "treat",
         "correct": true
     },
@@ -3631,8 +3603,8 @@
         "option1": "lags",
         "option2": "lag",
         "answer": "lags",
-        "score1": -21.87226676940918,
-        "score2": -11.182985305786133,
+        "score1": -19.387453079223633,
+        "score2": -9.883697509765625,
         "pred": "lag"
     },
     {
@@ -3641,8 +3613,8 @@
         "option1": "act",
         "option2": "acts",
         "answer": "act",
-        "score1": -9.443081855773926,
-        "score2": -10.140300750732422,
+        "score1": -10.023659706115723,
+        "score2": -10.321084022521973,
         "pred": "act",
         "correct": true
     },
@@ -3652,8 +3624,8 @@
         "option1": "has",
         "option2": "have",
         "answer": "has",
-        "score1": -10.207953453063965,
-        "score2": -10.398428916931152,
+        "score1": -10.007901191711426,
+        "score2": -10.244924545288086,
         "pred": "has",
         "correct": true
     },
@@ -3663,8 +3635,8 @@
         "option1": "lives",
         "option2": "live",
         "answer": "lives",
-        "score1": -20.114063262939453,
-        "score2": -10.304883003234863,
+        "score1": -19.454692840576172,
+        "score2": -10.044976234436035,
         "pred": "live"
     },
     {
@@ -3673,8 +3645,8 @@
         "option1": "has",
         "option2": "have",
         "answer": "have",
-        "score1": -9.783931732177734,
-        "score2": -9.903341293334961,
+        "score1": -9.54763412475586,
+        "score2": -9.710992813110352,
         "pred": "has"
     },
     {
@@ -3683,8 +3655,8 @@
         "option1": "swim",
         "option2": "swims",
         "answer": "swim",
-        "score1": -19.378984451293945,
-        "score2": -19.58269500732422,
+        "score1": -18.905410766601562,
+        "score2": -19.082033157348633,
         "pred": "swim",
         "correct": true
     },
@@ -3694,8 +3666,8 @@
         "option1": "study",
         "option2": "studies",
         "answer": "studies",
-        "score1": -11.727291107177734,
-        "score2": -23.26624298095703,
+        "score1": -11.123648643493652,
+        "score2": -21.286481857299805,
         "pred": "study"
     },
     {
@@ -3704,8 +3676,8 @@
         "option1": "burns",
         "option2": "burn",
         "answer": "burn",
-        "score1": -19.40892791748047,
-        "score2": -9.721582412719727,
+        "score1": -19.639230728149414,
+        "score2": -9.894898414611816,
         "pred": "burn",
         "correct": true
     },
@@ -3715,8 +3687,8 @@
         "option1": "replace",
         "option2": "replaces",
         "answer": "replace",
-        "score1": -10.125720024108887,
-        "score2": -19.931821823120117,
+        "score1": -10.18284797668457,
+        "score2": -19.99234962463379,
         "pred": "replace",
         "correct": true
     },
@@ -3726,8 +3698,8 @@
         "option1": "fits",
         "option2": "fit",
         "answer": "fits",
-        "score1": -9.556713104248047,
-        "score2": -9.619426727294922,
+        "score1": -9.807574272155762,
+        "score2": -9.851784706115723,
         "pred": "fits",
         "correct": true
     },
@@ -3737,8 +3709,8 @@
         "option1": "reacts",
         "option2": "react",
         "answer": "reacts",
-        "score1": -22.29083824157715,
-        "score2": -11.477025985717773,
+        "score1": -21.292993545532227,
+        "score2": -11.511099815368652,
         "pred": "react"
     },
     {
@@ -3747,8 +3719,8 @@
         "option1": "hold",
         "option2": "holds",
         "answer": "hold",
-        "score1": -9.888082504272461,
-        "score2": -19.747882843017578,
+        "score1": -9.737987518310547,
+        "score2": -19.310211181640625,
         "pred": "hold",
         "correct": true
     },
@@ -3758,8 +3730,8 @@
         "option1": "has",
         "option2": "have",
         "answer": "have",
-        "score1": -9.833680152893066,
-        "score2": -10.033409118652344,
+        "score1": -9.880704879760742,
+        "score2": -10.151405334472656,
         "pred": "has"
     },
     {
@@ -3768,8 +3740,8 @@
         "option1": "affect",
         "option2": "affects",
         "answer": "affect",
-        "score1": -18.636272430419922,
-        "score2": -27.94753646850586,
+        "score1": -19.1024227142334,
+        "score2": -28.56228733062744,
         "pred": "affect",
         "correct": true
     },
@@ -3779,8 +3751,8 @@
         "option1": "learn",
         "option2": "learns",
         "answer": "learn",
-        "score1": -9.731955528259277,
-        "score2": -19.45564079284668,
+        "score1": -9.5961332321167,
+        "score2": -19.10123634338379,
         "pred": "learn",
         "correct": true
     },
@@ -3790,8 +3762,8 @@
         "option1": "uses",
         "option2": "use",
         "answer": "use",
-        "score1": -9.672272682189941,
-        "score2": -9.652594566345215,
+        "score1": -9.459891319274902,
+        "score2": -9.418487548828125,
         "pred": "use",
         "correct": true
     },
@@ -3801,8 +3773,8 @@
         "option1": "continues",
         "option2": "continue",
         "answer": "continues",
-        "score1": -20.29878044128418,
-        "score2": -10.201530456542969,
+        "score1": -19.783727645874023,
+        "score2": -10.24959945678711,
         "pred": "continue"
     },
     {
@@ -3811,8 +3783,8 @@
         "option1": "considers",
         "option2": "consider",
         "answer": "consider",
-        "score1": -19.869674682617188,
-        "score2": -10.342447280883789,
+        "score1": -19.798877716064453,
+        "score2": -10.360332489013672,
         "pred": "consider",
         "correct": true
     },
@@ -3822,8 +3794,8 @@
         "option1": "treat",
         "option2": "treats",
         "answer": "treats",
-        "score1": -20.009899139404297,
-        "score2": -29.97828769683838,
+        "score1": -20.057443618774414,
+        "score2": -29.916732788085938,
         "pred": "treat"
     },
     {
@@ -3832,8 +3804,8 @@
         "option1": "defeats",
         "option2": "defeat",
         "answer": "defeat",
-        "score1": -31.735233306884766,
-        "score2": -30.896249771118164,
+        "score1": -32.06374168395996,
+        "score2": -31.699007034301758,
         "pred": "defeat",
         "correct": true
     },
@@ -3843,8 +3815,8 @@
         "option1": "require",
         "option2": "requires",
         "answer": "requires",
-        "score1": -10.962234497070312,
-        "score2": -10.948834419250488,
+        "score1": -11.462776184082031,
+        "score2": -11.363065719604492,
         "pred": "requires",
         "correct": true
     },
@@ -3854,8 +3826,8 @@
         "option1": "do",
         "option2": "does",
         "answer": "does",
-        "score1": -10.536592483520508,
-        "score2": -10.766900062561035,
+        "score1": -10.741460800170898,
+        "score2": -10.913310050964355,
         "pred": "do"
     },
     {
@@ -3864,8 +3836,8 @@
         "option1": "preserves",
         "option2": "preserve",
         "answer": "preserve",
-        "score1": -20.02808952331543,
-        "score2": -20.014278411865234,
+        "score1": -20.15131378173828,
+        "score2": -20.150890350341797,
         "pred": "preserve",
         "correct": true
     },
@@ -3875,10 +3847,9 @@
         "option1": "recognizes",
         "option2": "recognize",
         "answer": "recognizes",
-        "score1": -22.873502731323242,
-        "score2": -22.899091720581055,
-        "pred": "recognizes",
-        "correct": true
+        "score1": -22.300006866455078,
+        "score2": -22.07237434387207,
+        "pred": "recognize"
     },
     {
         "text": "The treatises of Zosimos of Panopolis, the earliest historically attested author (fl. c. 300 CE), can help in situating the other authors.",
@@ -3886,8 +3857,8 @@
         "option1": "helps",
         "option2": "help",
         "answer": "help",
-        "score1": -9.808296203613281,
-        "score2": -9.787413597106934,
+        "score1": -9.573094367980957,
+        "score2": -9.492776870727539,
         "pred": "help",
         "correct": true
     },
@@ -3897,8 +3868,8 @@
         "option1": "moves",
         "option2": "move",
         "answer": "moves",
-        "score1": -19.698122024536133,
-        "score2": -10.072681427001953,
+        "score1": -19.669206619262695,
+        "score2": -9.921860694885254,
         "pred": "move"
     },
     {
@@ -3907,8 +3878,8 @@
         "option1": "have",
         "option2": "has",
         "answer": "has",
-        "score1": -10.351460456848145,
-        "score2": -10.101375579833984,
+        "score1": -10.489786148071289,
+        "score2": -10.183091163635254,
         "pred": "has",
         "correct": true
     },
@@ -3918,8 +3889,8 @@
         "option1": "ignite",
         "option2": "ignites",
         "answer": "ignites",
-        "score1": -18.873125076293945,
-        "score2": -19.358068466186523,
+        "score1": -18.526721954345703,
+        "score2": -18.881877899169922,
         "pred": "ignite"
     },
     {
@@ -3928,8 +3899,8 @@
         "option1": "burn",
         "option2": "burns",
         "answer": "burn",
-        "score1": -10.170746803283691,
-        "score2": -20.28750228881836,
+        "score1": -9.936684608459473,
+        "score2": -19.71722984313965,
         "pred": "burn",
         "correct": true
     },
@@ -3939,8 +3910,8 @@
         "option1": "becomes",
         "option2": "become",
         "answer": "becomes",
-        "score1": -22.265474319458008,
-        "score2": -21.734399795532227,
+        "score1": -21.25205421447754,
+        "score2": -21.000389099121094,
         "pred": "become"
     },
     {
@@ -3949,9 +3920,10 @@
         "option1": "comes",
         "option2": "come",
         "answer": "comes",
-        "score1": -9.858831405639648,
-        "score2": -9.848219871520996,
-        "pred": "come"
+        "score1": -9.469622611999512,
+        "score2": -9.6964111328125,
+        "pred": "comes",
+        "correct": true
     },
     {
         "text": "Anarchism's emphasis on anti-capitalism, egalitarianism, and for the extension of community and individuality sets it apart from anarcho-capitalism and other types of economic libertarianism.",
@@ -3959,8 +3931,8 @@
         "option1": "sets",
         "option2": "set",
         "answer": "sets",
-        "score1": -9.528721809387207,
-        "score2": -9.445191383361816,
+        "score1": -9.59033203125,
+        "score2": -9.536614418029785,
         "pred": "set"
     },
     {
@@ -3969,8 +3941,8 @@
         "option1": "request",
         "option2": "requests",
         "answer": "request",
-        "score1": -11.078140258789062,
-        "score2": -22.943952560424805,
+        "score1": -11.034680366516113,
+        "score2": -22.155061721801758,
         "pred": "request",
         "correct": true
     },
@@ -3980,8 +3952,8 @@
         "option1": "resides",
         "option2": "reside",
         "answer": "reside",
-        "score1": -18.110092163085938,
-        "score2": -17.91841697692871,
+        "score1": -17.997238159179688,
+        "score2": -17.94268226623535,
         "pred": "reside",
         "correct": true
     },
@@ -3991,8 +3963,8 @@
         "option1": "accounts",
         "option2": "account",
         "answer": "accounts",
-        "score1": -24.16705322265625,
-        "score2": -12.277055740356445,
+        "score1": -21.710052490234375,
+        "score2": -11.05809497833252,
         "pred": "account"
     },
     {
@@ -4001,8 +3973,8 @@
         "option1": "rule",
         "option2": "rules",
         "answer": "rules",
-        "score1": -10.45755672454834,
-        "score2": -10.39706802368164,
+        "score1": -10.689685821533203,
+        "score2": -10.561534881591797,
         "pred": "rules",
         "correct": true
     },
@@ -4012,8 +3984,8 @@
         "option1": "generates",
         "option2": "generate",
         "answer": "generates",
-        "score1": -21.56903076171875,
-        "score2": -21.44782257080078,
+        "score1": -19.961034774780273,
+        "score2": -19.81824493408203,
         "pred": "generate"
     },
     {
@@ -4022,8 +3994,8 @@
         "option1": "reads",
         "option2": "read",
         "answer": "read",
-        "score1": -30.52013397216797,
-        "score2": -29.622196197509766,
+        "score1": -28.109704971313477,
+        "score2": -27.274237632751465,
         "pred": "read",
         "correct": true
     },
@@ -4033,8 +4005,8 @@
         "option1": "represents",
         "option2": "represent",
         "answer": "represent",
-        "score1": -21.43478775024414,
-        "score2": -10.720409393310547,
+        "score1": -20.825176239013672,
+        "score2": -10.273853302001953,
         "pred": "represent",
         "correct": true
     },
@@ -4044,8 +4016,8 @@
         "option1": "represents",
         "option2": "represent",
         "answer": "represent",
-        "score1": -20.697893142700195,
-        "score2": -10.323551177978516,
+        "score1": -20.559612274169922,
+        "score2": -10.203315734863281,
         "pred": "represent",
         "correct": true
     },
@@ -4055,8 +4027,8 @@
         "option1": "mimics",
         "option2": "mimic",
         "answer": "mimic",
-        "score1": -28.46891212463379,
-        "score2": -27.691892623901367,
+        "score1": -26.70652484893799,
+        "score2": -25.795466423034668,
         "pred": "mimic",
         "correct": true
     },
@@ -4066,8 +4038,8 @@
         "option1": "has",
         "option2": "have",
         "answer": "have",
-        "score1": -10.452312469482422,
-        "score2": -11.021075248718262,
+        "score1": -9.585733413696289,
+        "score2": -10.169036865234375,
         "pred": "has"
     },
     {
@@ -4076,8 +4048,8 @@
         "option1": "fall",
         "option2": "falls",
         "answer": "fall",
-        "score1": -11.640925407409668,
-        "score2": -11.773155212402344,
+        "score1": -11.270373344421387,
+        "score2": -11.333545684814453,
         "pred": "fall",
         "correct": true
     },
@@ -4087,8 +4059,8 @@
         "option1": "draw",
         "option2": "draws",
         "answer": "draw",
-        "score1": -9.34518814086914,
-        "score2": -18.704513549804688,
+        "score1": -9.460372924804688,
+        "score2": -18.852210998535156,
         "pred": "draw",
         "correct": true
     },
@@ -4098,8 +4070,8 @@
         "option1": "smooth",
         "option2": "smooths",
         "answer": "smooth",
-        "score1": -19.16431427001953,
-        "score2": -28.743982315063477,
+        "score1": -19.240739822387695,
+        "score2": -28.80857563018799,
         "pred": "smooth",
         "correct": true
     },
@@ -4109,8 +4081,8 @@
         "option1": "lasts",
         "option2": "last",
         "answer": "last",
-        "score1": -19.514780044555664,
-        "score2": -9.915632247924805,
+        "score1": -19.638999938964844,
+        "score2": -10.00391960144043,
         "pred": "last",
         "correct": true
     },
@@ -4120,10 +4092,9 @@
         "option1": "takes",
         "option2": "take",
         "answer": "take",
-        "score1": -23.11800765991211,
-        "score2": -22.70501136779785,
-        "pred": "take",
-        "correct": true
+        "score1": -22.726078033447266,
+        "score2": -22.769248962402344,
+        "pred": "takes"
     },
     {
         "text": "They use many different methods of study, but modern population genetics, participant observation and other techniques often take anthropologists \"into the field,\" which means traveling to a community in its own setting, to do something called \"fieldwork.\"",
@@ -4131,8 +4102,8 @@
         "option1": "mean",
         "option2": "means",
         "answer": "means",
-        "score1": -11.430604934692383,
-        "score2": -21.91632080078125,
+        "score1": -11.430298805236816,
+        "score2": -21.98781967163086,
         "pred": "mean"
     },
     {
@@ -4141,8 +4112,8 @@
         "option1": "operate",
         "option2": "operates",
         "answer": "operate",
-        "score1": -19.69954490661621,
-        "score2": -19.759258270263672,
+        "score1": -19.817710876464844,
+        "score2": -19.84454345703125,
         "pred": "operate",
         "correct": true
     },
@@ -4152,8 +4123,8 @@
         "option1": "cause",
         "option2": "causes",
         "answer": "cause",
-        "score1": -10.513154983520508,
-        "score2": -20.855318069458008,
+        "score1": -10.357207298278809,
+        "score2": -20.36997413635254,
         "pred": "cause",
         "correct": true
     },
@@ -4163,8 +4134,8 @@
         "option1": "appear",
         "option2": "appears",
         "answer": "appear",
-        "score1": -20.686141967773438,
-        "score2": -20.8071346282959,
+        "score1": -20.43683624267578,
+        "score2": -20.478574752807617,
         "pred": "appear",
         "correct": true
     },
@@ -4174,8 +4145,8 @@
         "option1": "confirm",
         "option2": "confirms",
         "answer": "confirms",
-        "score1": -18.94260597229004,
-        "score2": -19.10150909423828,
+        "score1": -19.127775192260742,
+        "score2": -19.224088668823242,
         "pred": "confirm"
     },
     {
@@ -4184,8 +4155,8 @@
         "option1": "have",
         "option2": "has",
         "answer": "have",
-        "score1": -9.861998558044434,
-        "score2": -9.252840995788574,
+        "score1": -10.073868751525879,
+        "score2": -9.310324668884277,
         "pred": "has"
     },
     {
@@ -4194,8 +4165,8 @@
         "option1": "digests",
         "option2": "digest",
         "answer": "digest",
-        "score1": -22.86463737487793,
-        "score2": -22.176528930664062,
+        "score1": -22.79500961303711,
+        "score2": -22.502517700195312,
         "pred": "digest",
         "correct": true
     },
@@ -4205,8 +4176,8 @@
         "option1": "forms",
         "option2": "form",
         "answer": "form",
-        "score1": -10.02712345123291,
-        "score2": -9.974825859069824,
+        "score1": -9.794780731201172,
+        "score2": -9.754146575927734,
         "pred": "form",
         "correct": true
     },
@@ -4216,8 +4187,8 @@
         "option1": "meet",
         "option2": "meets",
         "answer": "meet",
-        "score1": -10.528582572937012,
-        "score2": -20.672197341918945,
+        "score1": -10.190093994140625,
+        "score2": -20.245515823364258,
         "pred": "meet",
         "correct": true
     },
@@ -4227,8 +4198,8 @@
         "option1": "combine",
         "option2": "combines",
         "answer": "combines",
-        "score1": -19.88008689880371,
-        "score2": -20.016510009765625,
+        "score1": -20.95030975341797,
+        "score2": -20.953948974609375,
         "pred": "combine"
     },
     {
@@ -4237,8 +4208,8 @@
         "option1": "have",
         "option2": "has",
         "answer": "has",
-        "score1": -10.437313079833984,
-        "score2": -10.072943687438965,
+        "score1": -10.384504318237305,
+        "score2": -10.039421081542969,
         "pred": "has",
         "correct": true
     },
@@ -4248,8 +4219,8 @@
         "option1": "translates",
         "option2": "translate",
         "answer": "translates",
-        "score1": -28.455699920654297,
-        "score2": -19.243120193481445,
+        "score1": -26.142356872558594,
+        "score2": -17.559036254882812,
         "pred": "translate"
     },
     {
@@ -4258,9 +4229,10 @@
         "option1": "experience",
         "option2": "experiences",
         "answer": "experience",
-        "score1": -45.59255599975586,
-        "score2": -45.396568298339844,
-        "pred": "experiences"
+        "score1": -43.77760696411133,
+        "score2": -44.472694396972656,
+        "pred": "experience",
+        "correct": true
     },
     {
         "text": "An organism behaves altruistically and the recipient does not reciprocate but has an increased chance of acting in a way that is selfish but also as a byproduct benefits the altruist.",
@@ -4268,8 +4240,8 @@
         "option1": "benefits",
         "option2": "benefit",
         "answer": "benefits",
-        "score1": -19.491209030151367,
-        "score2": -9.578078269958496,
+        "score1": -18.870447158813477,
+        "score2": -9.535076141357422,
         "pred": "benefit"
     },
     {
@@ -4278,8 +4250,8 @@
         "option1": "range",
         "option2": "ranges",
         "answer": "range",
-        "score1": -9.701264381408691,
-        "score2": -19.345558166503906,
+        "score1": -9.593036651611328,
+        "score2": -19.240764617919922,
         "pred": "range",
         "correct": true
     },
@@ -4289,8 +4261,8 @@
         "option1": "grow",
         "option2": "grows",
         "answer": "grow",
-        "score1": -9.372300148010254,
-        "score2": -18.399993896484375,
+        "score1": -9.433494567871094,
+        "score2": -18.35067367553711,
         "pred": "grow",
         "correct": true
     },
@@ -4311,8 +4283,8 @@
         "option1": "ranges",
         "option2": "range",
         "answer": "range",
-        "score1": -22.429393768310547,
-        "score2": -11.33807373046875,
+        "score1": -20.146238327026367,
+        "score2": -10.083123207092285,
         "pred": "range",
         "correct": true
     },
@@ -4322,8 +4294,8 @@
         "option1": "tends",
         "option2": "tend",
         "answer": "tend",
-        "score1": -27.90523910522461,
-        "score2": -27.00696086883545,
+        "score1": -27.289721488952637,
+        "score2": -26.75009250640869,
         "pred": "tend",
         "correct": true
     },
@@ -4333,10 +4305,9 @@
         "option1": "justifies",
         "option2": "justify",
         "answer": "justifies",
-        "score1": -21.439285278320312,
-        "score2": -21.45565414428711,
-        "pred": "justifies",
-        "correct": true
+        "score1": -21.30682373046875,
+        "score2": -21.293413162231445,
+        "pred": "justify"
     },
     {
         "text": "The Soviet Union, through its Intercosmos program, allowed people from other \"socialist\" (i.e. Warsaw Pact and other Soviet-allied) countries to fly on its missions, with the notable exceptions of France and Austria participating in Soyuz TM-7 and Soyuz TM-13, respectively.",
@@ -4344,9 +4315,10 @@
         "option1": "fly",
         "option2": "flies",
         "answer": "fly",
-        "score1": -9.787639617919922,
-        "score2": -9.727073669433594,
-        "pred": "flies"
+        "score1": -9.480745315551758,
+        "score2": -9.495274543762207,
+        "pred": "fly",
+        "correct": true
     },
     {
         "text": "It was the development of the amniotic egg, which prevents the developing embryo from drying out, that enabled the reptiles to reproduce on land and which led to their dominance in the period that followed.",
@@ -4354,8 +4326,8 @@
         "option1": "prevents",
         "option2": "prevent",
         "answer": "prevents",
-        "score1": -19.551828384399414,
-        "score2": -18.772890090942383,
+        "score1": -18.828779220581055,
+        "score2": -17.39092445373535,
         "pred": "prevent"
     },
     {
@@ -4364,8 +4336,8 @@
         "option1": "occupies",
         "option2": "occupy",
         "answer": "occupies",
-        "score1": -22.31342887878418,
-        "score2": -21.947935104370117,
+        "score1": -20.681638717651367,
+        "score2": -20.429229736328125,
         "pred": "occupy"
     },
     {
@@ -4374,10 +4346,9 @@
         "option1": "includes",
         "option2": "include",
         "answer": "include",
-        "score1": -10.704633712768555,
-        "score2": -10.623933792114258,
-        "pred": "include",
-        "correct": true
+        "score1": -10.940348625183105,
+        "score2": -11.003761291503906,
+        "pred": "includes"
     },
     {
         "text": "In descending order of the number of speakers, widely-spoken Afroasiatic languages include: Arabic (Semitic), the most widely spoken Afroasiatic language, has over 300 million native speakers.",
@@ -4385,8 +4356,8 @@
         "option1": "has",
         "option2": "have",
         "answer": "has",
-        "score1": -10.368985176086426,
-        "score2": -10.583213806152344,
+        "score1": -10.475359916687012,
+        "score2": -10.732222557067871,
         "pred": "has",
         "correct": true
     },
@@ -4396,8 +4367,8 @@
         "option1": "allow",
         "option2": "allows",
         "answer": "allows",
-        "score1": -11.430317878723145,
-        "score2": -11.763252258300781,
+        "score1": -11.196112632751465,
+        "score2": -11.873187065124512,
         "pred": "allow"
     },
     {
@@ -4406,8 +4377,8 @@
         "option1": "access",
         "option2": "accesses",
         "answer": "access",
-        "score1": -11.087989807128906,
-        "score2": -21.454952239990234,
+        "score1": -11.442502975463867,
+        "score2": -22.108060836791992,
         "pred": "access",
         "correct": true
     },
@@ -4417,8 +4388,8 @@
         "option1": "appeals",
         "option2": "appeal",
         "answer": "appeals",
-        "score1": -19.68714141845703,
-        "score2": -19.48837661743164,
+        "score1": -19.476720809936523,
+        "score2": -18.651630401611328,
         "pred": "appeal"
     },
     {
@@ -4427,8 +4398,8 @@
         "option1": "represents",
         "option2": "represent",
         "answer": "represents",
-        "score1": -19.692794799804688,
-        "score2": -9.888811111450195,
+        "score1": -19.672016143798828,
+        "score2": -9.873497009277344,
         "pred": "represent"
     },
     {
@@ -4437,9 +4408,10 @@
         "option1": "originates",
         "option2": "originate",
         "answer": "originate",
-        "score1": -20.335046768188477,
-        "score2": -20.573089599609375,
-        "pred": "originates"
+        "score1": -19.85710334777832,
+        "score2": -19.244770050048828,
+        "pred": "originate",
+        "correct": true
     },
     {
         "text": "Defying his prediction that \"the world will little note, nor long remember what we say here\", the Address became the most quoted speech in American history.",
@@ -4447,8 +4419,8 @@
         "option1": "says",
         "option2": "say",
         "answer": "say",
-        "score1": -21.30607795715332,
-        "score2": -20.449071884155273,
+        "score1": -19.95077896118164,
+        "score2": -19.701021194458008,
         "pred": "say",
         "correct": true
     },
@@ -4458,8 +4430,8 @@
         "option1": "appears",
         "option2": "appear",
         "answer": "appear",
-        "score1": -20.950681686401367,
-        "score2": -20.765384674072266,
+        "score1": -19.18804931640625,
+        "score2": -19.186574935913086,
         "pred": "appear",
         "correct": true
     },
@@ -4469,8 +4441,8 @@
         "option1": "happens",
         "option2": "happen",
         "answer": "happens",
-        "score1": -27.716257095336914,
-        "score2": -27.141715049743652,
+        "score1": -26.157174110412598,
+        "score2": -25.62846565246582,
         "pred": "happen"
     },
     {
@@ -4479,8 +4451,8 @@
         "option1": "explain",
         "option2": "explains",
         "answer": "explains",
-        "score1": -28.394253730773926,
-        "score2": -38.157867431640625,
+        "score1": -27.2164249420166,
+        "score2": -36.391422271728516,
         "pred": "explain"
     },
     {
@@ -4489,8 +4461,8 @@
         "option1": "limits",
         "option2": "limit",
         "answer": "limits",
-        "score1": -9.640140533447266,
-        "score2": -9.518478393554688,
+        "score1": -9.848958969116211,
+        "score2": -9.793328285217285,
         "pred": "limit"
     },
     {
@@ -4499,8 +4471,8 @@
         "option1": "confess",
         "option2": "confesses",
         "answer": "confess",
-        "score1": -20.33792495727539,
-        "score2": -20.878822326660156,
+        "score1": -19.672130584716797,
+        "score2": -20.063739776611328,
         "pred": "confess",
         "correct": true
     },
@@ -4510,8 +4482,8 @@
         "option1": "distinguishes",
         "option2": "distinguish",
         "answer": "distinguishes",
-        "score1": -32.78639602661133,
-        "score2": -32.21410274505615,
+        "score1": -30.162574768066406,
+        "score2": -30.032381057739258,
         "pred": "distinguish"
     },
     {
@@ -4520,8 +4492,8 @@
         "option1": "spurs",
         "option2": "spur",
         "answer": "spur",
-        "score1": -20.115337371826172,
-        "score2": -19.475412368774414,
+        "score1": -20.200429916381836,
+        "score2": -20.012964248657227,
         "pred": "spur",
         "correct": true
     },
@@ -4531,8 +4503,8 @@
         "option1": "worship",
         "option2": "worships",
         "answer": "worships",
-        "score1": -19.32990074157715,
-        "score2": -28.773164749145508,
+        "score1": -18.871774673461914,
+        "score2": -28.171268463134766,
         "pred": "worship"
     },
     {
@@ -4541,8 +4513,8 @@
         "option1": "become",
         "option2": "becomes",
         "answer": "become",
-        "score1": -21.923236846923828,
-        "score2": -22.191436767578125,
+        "score1": -21.389118194580078,
+        "score2": -21.503368377685547,
         "pred": "become",
         "correct": true
     },
@@ -4552,8 +4524,8 @@
         "option1": "have",
         "option2": "has",
         "answer": "have",
-        "score1": -9.142424583435059,
-        "score2": -8.83846378326416,
+        "score1": -8.930731773376465,
+        "score2": -8.530689239501953,
         "pred": "has"
     }
 ]
