@@ -5,7 +5,7 @@
 #PJM -L "jobenv=singularity"
 #PJM -e /home/pj25000107/ku50001566/projects/nanoGPT/logs/job_train_wikitext_10k.err
 #PJM -o /home/pj25000107/ku50001566/projects/nanoGPT/logs/job_train_wikitext_10k.out
-#PJM -N "train_wikitext_10k"
+#PJM -N "10k_wikitext_train"
 
 module load singularity-ce
 
