@@ -4,7 +4,6 @@ Input: a dataset with sentences and a model.
 Output: a dataset with sentences and the model's predictions.
 """
 
-from typing import Any
 import torch
 import argparse
 import json
@@ -129,7 +128,7 @@ def score_option_local(prompt, continuation, tokenizer, model) -> float | None:
 def score_samples(samples, tokenizer, model, model_type) -> list[dict]:
     # Score a list of samples with prompts and two options.
     filtered_samples = []
-    for sample in samples:
+    for sample in tqdm.tqdm(samples, total=len(samples), desc="scoring samples"):
         prompt = sample["prompt"]
         option1 = sample["option1"]
         option2 = sample["option2"]
