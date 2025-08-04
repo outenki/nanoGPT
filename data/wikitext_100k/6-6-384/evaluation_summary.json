@@ -1,6 +1,6 @@
 {
-    "correct": 252,
+    "correct": 250,
     "total": 428,
-    "accuracy": 0.5887850467289719,
+    "accuracy": 0.5841121495327103,
     "num_params": 30036864
 }
