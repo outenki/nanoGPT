@@ -1,5 +1,5 @@
 #!/bin/bash
-for model_path in nonce_10k wikitext_10k nonce_100k wikitext_100k; do
+for model_path in nonce_10k nonce_100k wikitext_10k wikitext_100k; do
     for cfg in 6-6-384 12-12-768; do
         echo "========== Evaluating model: $model_path/$cfg ============="
         uv run python agreement_evaluation.py \
